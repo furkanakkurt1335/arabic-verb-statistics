@@ -688,8 +688,8 @@
       },
       {
         "past": {
-          "original": "أَمُرَ or أَمَرَ",
-          "transliteration": "ʔamara or ʔamura"
+          "original": "أَمُرَ",
+          "transliteration": "ʔamura"
         },
         "present": {
           "original": "يَأْمُرُ",
@@ -843,8 +843,18 @@
       },
       {
         "past": {
-          "original": "أَهَلَ or أَهِلَ",
-          "transliteration": "ʔahila or ʔahala"
+          "original": "أَهَلَ",
+          "transliteration": "ʔahala"
+        },
+        "present": {
+          "original": "يَأْهَلُ",
+          "transliteration": "yaʔhalu"
+        }
+      },
+      {
+        "past": {
+          "original": "أَهِلَ",
+          "transliteration": "ʔahila"
         },
         "present": {
           "original": "يَأْهَلُ",
@@ -1308,8 +1318,8 @@
       },
       {
         "past": {
-          "original": "بَخِعَ or بَخَعَ",
-          "transliteration": "baḵaʕa or baḵiʕa"
+          "original": "بَخِعَ",
+          "transliteration": "baḵiʕa"
         },
         "present": {
           "original": "يَبْخَعُ",
@@ -1418,8 +1428,18 @@
     "forms": [
       {
         "past": {
-          "original": "بَدَنَ or بَدُنَ",
-          "transliteration": "baduna or badana"
+          "original": "بَدَنَ",
+          "transliteration": "badana"
+        },
+        "present": {
+          "original": "يَبْدُنُ",
+          "transliteration": "yabdunu"
+        }
+      },
+      {
+        "past": {
+          "original": "بَدُنَ",
+          "transliteration": "baduna"
         },
         "present": {
           "original": "يَبْدُنُ",
@@ -2233,8 +2253,18 @@
     "forms": [
       {
         "past": {
-          "original": "بَلِعَ or بَلَعَ",
-          "transliteration": "balaʕa or baliʕa"
+          "original": "بَلِعَ",
+          "transliteration": "baliʕa"
+        },
+        "present": {
+          "original": "يَبْلَعُ",
+          "transliteration": "yablaʕu"
+        }
+      },
+      {
+        "past": {
+          "original": "بَلَعَ",
+          "transliteration": "balaʕa"
         },
         "present": {
           "original": "يَبْلَعُ",
@@ -3567,8 +3597,18 @@
     "forms": [
       {
         "past": {
-          "original": "جَرِعَ or جَرَعَ",
-          "transliteration": "jaraʕa or jariʕa"
+          "original": "جَرِعَ",
+          "transliteration": "jariʕa"
+        },
+        "present": {
+          "original": "يَجْرَعُ",
+          "transliteration": "yajraʕu"
+        }
+      },
+      {
+        "past": {
+          "original": "جَرَعَ",
+          "transliteration": "jaraʕa"
         },
         "present": {
           "original": "يَجْرَعُ",
@@ -4032,8 +4072,18 @@
     "forms": [
       {
         "past": {
-          "original": "جَمُدَ or جَمَدَ",
-          "transliteration": "jamada or jamuda"
+          "original": "جَمُدَ",
+          "transliteration": "jamuda"
+        },
+        "present": {
+          "original": "يَجْمُدُ",
+          "transliteration": "yajmudu"
+        }
+      },
+      {
+        "past": {
+          "original": "جَمَدَ",
+          "transliteration": "jamada"
         },
         "present": {
           "original": "يَجْمُدُ",
@@ -4997,8 +5047,18 @@
     "forms": [
       {
         "past": {
-          "original": "حَرِصَ or حَرَصَ",
-          "transliteration": "ḥaraṣa or ḥariṣa"
+          "original": "حَرِصَ",
+          "transliteration": "ḥariṣa"
+        },
+        "present": {
+          "original": "يَحْرِصُ",
+          "transliteration": "yaḥriṣu"
+        }
+      },
+      {
+        "past": {
+          "original": "حَرَصَ",
+          "transliteration": "ḥaraṣa"
         },
         "present": {
           "original": "يَحْرِصُ",
@@ -6770,8 +6830,8 @@
     "forms": [
       {
         "past": {
-          "original": "خَثِرَ or خَثُرَ or خَثَرَ",
-          "transliteration": "ḵaṯara or ḵaṯura or ḵaṯira"
+          "original": "خَثِرَ",
+          "transliteration": "ḵaṯira"
         },
         "present": {
           "original": "يَخْثُرُ",
@@ -6780,8 +6840,48 @@
       },
       {
         "past": {
-          "original": "خَثِرَ or خَثُرَ or خَثَرَ",
-          "transliteration": "ḵaṯara or ḵaṯura or ḵaṯira"
+          "original": "خَثُرَ",
+          "transliteration": "ḵaṯura"
+        },
+        "present": {
+          "original": "يَخْثُرُ",
+          "transliteration": "yaḵṯuru"
+        }
+      },
+      {
+        "past": {
+          "original": "خَثَرَ",
+          "transliteration": "ḵaṯara"
+        },
+        "present": {
+          "original": "يَخْثُرُ",
+          "transliteration": "yaḵṯuru"
+        }
+      },
+      {
+        "past": {
+          "original": "خَثِرَ",
+          "transliteration": "ḵaṯira"
+        },
+        "present": {
+          "original": "يَخْثَرُ",
+          "transliteration": "yaḵṯaru"
+        }
+      },
+      {
+        "past": {
+          "original": "خَثُرَ",
+          "transliteration": "ḵaṯura"
+        },
+        "present": {
+          "original": "يَخْثَرُ",
+          "transliteration": "yaḵṯaru"
+        }
+      },
+      {
+        "past": {
+          "original": "خَثَرَ",
+          "transliteration": "ḵaṯara"
         },
         "present": {
           "original": "يَخْثَرُ",
@@ -9106,8 +9206,18 @@
     "forms": [
       {
         "past": {
-          "original": "دَهِمَ or دَهَمَ",
-          "transliteration": "dahama or dahima"
+          "original": "دَهِمَ",
+          "transliteration": "dahima"
+        },
+        "present": {
+          "original": "يَدْهَمُ",
+          "transliteration": "yadhamu"
+        }
+      },
+      {
+        "past": {
+          "original": "دَهَمَ",
+          "transliteration": "dahama"
         },
         "present": {
           "original": "يَدْهَمُ",
@@ -10713,8 +10823,18 @@
     "forms": [
       {
         "past": {
-          "original": "رَعُنَ or رَعَنَ",
-          "transliteration": "raʕana or raʕuna"
+          "original": "رَعُنَ",
+          "transliteration": "raʕuna"
+        },
+        "present": {
+          "original": "يَرْعُنُ",
+          "transliteration": "yarʕunu"
+        }
+      },
+      {
+        "past": {
+          "original": "رَعَنَ",
+          "transliteration": "raʕana"
         },
         "present": {
           "original": "يَرْعُنُ",
@@ -12334,8 +12454,8 @@
     "forms": [
       {
         "past": {
-          "original": "زَهِقَ or زَهَقَ",
-          "transliteration": "zahaqa or zahiqa"
+          "original": "زَهِقَ",
+          "transliteration": "zahiqa"
         },
         "present": {
           "original": "يَزْهَقُ",
@@ -12959,8 +13079,18 @@
     "forms": [
       {
         "past": {
-          "original": "سَخَنَ or سَخُنَ",
-          "transliteration": "saḵuna or saḵana"
+          "original": "سَخَنَ",
+          "transliteration": "saḵana"
+        },
+        "present": {
+          "original": "يَسْخُنُ",
+          "transliteration": "yasḵunu"
+        }
+      },
+      {
+        "past": {
+          "original": "سَخُنَ",
+          "transliteration": "saḵuna"
         },
         "present": {
           "original": "يَسْخُنُ",
@@ -17688,8 +17818,8 @@
     "forms": [
       {
         "past": {
-          "original": "ضَرِطَ or ضَرَطَ",
-          "transliteration": "ḍaraṭa or ḍariṭa"
+          "original": "ضَرِطَ",
+          "transliteration": "ḍariṭa"
         },
         "present": {
           "original": "يَضْرِطُ",
@@ -17698,8 +17828,28 @@
       },
       {
         "past": {
-          "original": "ضَرِطَ or ضَرَطَ",
-          "transliteration": "ḍaraṭa or ḍariṭa"
+          "original": "ضَرَطَ",
+          "transliteration": "ḍaraṭa"
+        },
+        "present": {
+          "original": "يَضْرِطُ",
+          "transliteration": "yaḍriṭu"
+        }
+      },
+      {
+        "past": {
+          "original": "ضَرِطَ",
+          "transliteration": "ḍariṭa"
+        },
+        "present": {
+          "original": "يَضْرَطُ",
+          "transliteration": "yaḍraṭu"
+        }
+      },
+      {
+        "past": {
+          "original": "ضَرَطَ",
+          "transliteration": "ḍaraṭa"
         },
         "present": {
           "original": "يَضْرَطُ",
@@ -17713,8 +17863,8 @@
     "forms": [
       {
         "past": {
-          "original": "ضَرُعَ or ضَرَعَ",
-          "transliteration": "ḍaraʕa or ḍaruʕa"
+          "original": "ضَرُعَ",
+          "transliteration": "ḍaruʕa"
         },
         "present": {
           "original": "يَضْرَعُ",
@@ -17723,8 +17873,28 @@
       },
       {
         "past": {
-          "original": "ضَرُعَ or ضَرَعَ",
-          "transliteration": "ḍaraʕa or ḍaruʕa"
+          "original": "ضَرَعَ",
+          "transliteration": "ḍaraʕa"
+        },
+        "present": {
+          "original": "يَضْرَعُ",
+          "transliteration": "yaḍraʕu"
+        }
+      },
+      {
+        "past": {
+          "original": "ضَرُعَ",
+          "transliteration": "ḍaruʕa"
+        },
+        "present": {
+          "original": "يَضْرُعُ",
+          "transliteration": "yaḍruʕu"
+        }
+      },
+      {
+        "past": {
+          "original": "ضَرَعَ",
+          "transliteration": "ḍaraʕa"
         },
         "present": {
           "original": "يَضْرُعُ",
@@ -17928,8 +18098,18 @@
     "forms": [
       {
         "past": {
-          "original": "ضَمُرَ or ضَمَرَ",
-          "transliteration": "ḍamara or ḍamura"
+          "original": "ضَمُرَ",
+          "transliteration": "ḍamura"
+        },
+        "present": {
+          "original": "يَضْمُرُ",
+          "transliteration": "yaḍmuru"
+        }
+      },
+      {
+        "past": {
+          "original": "ضَمَرَ",
+          "transliteration": "ḍamara"
         },
         "present": {
           "original": "يَضْمُرُ",
@@ -19642,8 +19822,8 @@
       },
       {
         "past": {
-          "original": "عَرِجَ or عَرَجَ",
-          "transliteration": "ʕaraja or ʕarija"
+          "original": "عَرِجَ",
+          "transliteration": "ʕarija"
         },
         "present": {
           "original": "يَعْرُجُ",
@@ -19652,8 +19832,18 @@
       },
       {
         "past": {
-          "original": "عَرِجَ or عَرَجَ",
-          "transliteration": "ʕaraja or ʕarija"
+          "original": "عَرِجَ",
+          "transliteration": "ʕarija"
+        },
+        "present": {
+          "original": "يَعْرَجُ",
+          "transliteration": "yaʕraju"
+        }
+      },
+      {
+        "past": {
+          "original": "عَرَجَ",
+          "transliteration": "ʕaraja"
         },
         "present": {
           "original": "يَعْرَجُ",
@@ -20502,8 +20692,18 @@
     "forms": [
       {
         "past": {
-          "original": "عَقُمَ or عَقَمَ",
-          "transliteration": "ʕaqama or ʕaquma"
+          "original": "عَقُمَ",
+          "transliteration": "ʕaquma"
+        },
+        "present": {
+          "original": "يَعْقُمُ",
+          "transliteration": "yaʕqumu"
+        }
+      },
+      {
+        "past": {
+          "original": "عَقَمَ",
+          "transliteration": "ʕaqama"
         },
         "present": {
           "original": "يَعْقُمُ",
@@ -20677,8 +20877,8 @@
     "forms": [
       {
         "past": {
-          "original": "عَلُنَ or عَلَنَ",
-          "transliteration": "ʕalana or ʕaluna"
+          "original": "عَلُنَ",
+          "transliteration": "ʕaluna"
         },
         "present": {
           "original": "يَعْلُنُ",
@@ -22222,8 +22422,18 @@
     "forms": [
       {
         "past": {
-          "original": "فَتَأَ or فَتِئَ",
-          "transliteration": "fatiʔa or fataʔa"
+          "original": "فَتَأَ",
+          "transliteration": "fataʔa"
+        },
+        "present": {
+          "original": "يَفْتَأُ",
+          "transliteration": "yaftaʔu"
+        }
+      },
+      {
+        "past": {
+          "original": "فَتِئَ",
+          "transliteration": "fatiʔa"
         },
         "present": {
           "original": "يَفْتَأُ",
@@ -22586,8 +22796,8 @@
     "forms": [
       {
         "past": {
-          "original": "فَرُدَ or فَرَدَ",
-          "transliteration": "farada or faruda"
+          "original": "فَرُدَ",
+          "transliteration": "faruda"
         },
         "present": {
           "original": "يَفْرُدُ",
@@ -22816,8 +23026,18 @@
     "forms": [
       {
         "past": {
-          "original": "فَزَعَ or فَزِعَ",
-          "transliteration": "faziʕa or fazaʕa"
+          "original": "فَزَعَ",
+          "transliteration": "fazaʕa"
+        },
+        "present": {
+          "original": "يَفْزَعُ",
+          "transliteration": "yafzaʕu"
+        }
+      },
+      {
+        "past": {
+          "original": "فَزِعَ",
+          "transliteration": "faziʕa"
         },
         "present": {
           "original": "يَفْزَعُ",
@@ -23076,8 +23296,18 @@
     "forms": [
       {
         "past": {
-          "original": "فَضِلَ or فَضَلَ",
-          "transliteration": "faḍala or faḍila"
+          "original": "فَضِلَ",
+          "transliteration": "faḍila"
+        },
+        "present": {
+          "original": "يَفْضُلُ",
+          "transliteration": "yafḍulu"
+        }
+      },
+      {
+        "past": {
+          "original": "فَضَلَ",
+          "transliteration": "faḍala"
         },
         "present": {
           "original": "يَفْضُلُ",
@@ -26107,8 +26337,18 @@
     "forms": [
       {
         "past": {
-          "original": "كَسُدَ or كَسَدَ",
-          "transliteration": "kasada or kasuda"
+          "original": "كَسُدَ",
+          "transliteration": "kasuda"
+        },
+        "present": {
+          "original": "يَكْسُدُ",
+          "transliteration": "yaksudu"
+        }
+      },
+      {
+        "past": {
+          "original": "كَسَدَ",
+          "transliteration": "kasada"
         },
         "present": {
           "original": "يَكْسُدُ",
@@ -26416,8 +26656,18 @@
     "forms": [
       {
         "past": {
-          "original": "كَمُلَ or كَمَلَ",
-          "transliteration": "kamala or kamula"
+          "original": "كَمُلَ",
+          "transliteration": "kamula"
+        },
+        "present": {
+          "original": "يَكْمُلُ",
+          "transliteration": "yakmulu"
+        }
+      },
+      {
+        "past": {
+          "original": "كَمَلَ",
+          "transliteration": "kamala"
         },
         "present": {
           "original": "يَكْمُلُ",
@@ -27264,8 +27514,8 @@
     "forms": [
       {
         "past": {
-          "original": "لَعِبَ or لَعَبَ",
-          "transliteration": "laʕaba or laʕiba"
+          "original": "لَعِبَ",
+          "transliteration": "laʕiba"
         },
         "present": {
           "original": "يَلْعَبُ",
@@ -27274,8 +27524,8 @@
       },
       {
         "past": {
-          "original": "لَعِبَ",
-          "transliteration": "laʕiba"
+          "original": "لَعَبَ",
+          "transliteration": "laʕaba"
         },
         "present": {
           "original": "يَلْعَبُ",
@@ -28054,8 +28304,8 @@
       },
       {
         "past": {
-          "original": "مَحُلَ or مَحَلَ or مَحِلَ",
-          "transliteration": "maḥila or maḥala or maḥula"
+          "original": "مَحُلَ",
+          "transliteration": "maḥula"
         },
         "present": {
           "original": "يَمْحَلُ",
@@ -28064,8 +28314,38 @@
       },
       {
         "past": {
-          "original": "مَحُلَ or مَحَلَ or مَحِلَ",
-          "transliteration": "maḥila or maḥala or maḥula"
+          "original": "مَحَلَ",
+          "transliteration": "maḥala"
+        },
+        "present": {
+          "original": "يَمْحَلُ",
+          "transliteration": "yamḥalu"
+        }
+      },
+      {
+        "past": {
+          "original": "مَحُلَ",
+          "transliteration": "maḥula"
+        },
+        "present": {
+          "original": "يَمْحُلُ",
+          "transliteration": "yamḥulu"
+        }
+      },
+      {
+        "past": {
+          "original": "مَحَلَ",
+          "transliteration": "maḥala"
+        },
+        "present": {
+          "original": "يَمْحُلُ",
+          "transliteration": "yamḥulu"
+        }
+      },
+      {
+        "past": {
+          "original": "مَحِلَ",
+          "transliteration": "maḥila"
         },
         "present": {
           "original": "يَمْحُلُ",
@@ -29451,8 +29731,8 @@
     "forms": [
       {
         "past": {
-          "original": "نَتِنَ or نَتَنَ",
-          "transliteration": "natana or natina"
+          "original": "نَتِنَ",
+          "transliteration": "natina"
         },
         "present": {
           "original": "يَنْتِنُ",
@@ -29461,8 +29741,18 @@
       },
       {
         "past": {
-          "original": "نَتِنَ or نَتَنَ",
-          "transliteration": "natana or natina"
+          "original": "نَتَنَ",
+          "transliteration": "natana"
+        },
+        "present": {
+          "original": "يَنْتِنُ",
+          "transliteration": "yantunu"
+        }
+      },
+      {
+        "past": {
+          "original": "نَتِنَ",
+          "transliteration": "natina"
         },
         "present": {
           "original": "يَنْتَنُ"
@@ -29470,8 +29760,26 @@
       },
       {
         "past": {
-          "original": "نَتِنَ or نَتَنَ",
-          "transliteration": "natana or natina"
+          "original": "نَتَنَ",
+          "transliteration": "natana"
+        },
+        "present": {
+          "original": "يَنْتَنُ"
+        }
+      },
+      {
+        "past": {
+          "original": "نَتِنَ",
+          "transliteration": "natina"
+        },
+        "present": {
+          "original": "يَنْتُنُ"
+        }
+      },
+      {
+        "past": {
+          "original": "نَتَنَ",
+          "transliteration": "natana"
         },
         "present": {
           "original": "يَنْتُنُ"
@@ -31563,8 +31871,8 @@
     "forms": [
       {
         "past": {
-          "original": "نَقِمَ or نَقَمَ",
-          "transliteration": "naqama or naqima"
+          "original": "نَقِمَ",
+          "transliteration": "naqima"
         },
         "present": {
           "original": "يَنْقِمُ",
@@ -31573,8 +31881,28 @@
       },
       {
         "past": {
-          "original": "نَقِمَ or نَقَمَ",
-          "transliteration": "naqama or naqima"
+          "original": "نَقَمَ",
+          "transliteration": "naqama"
+        },
+        "present": {
+          "original": "يَنْقِمُ",
+          "transliteration": "yanqimu"
+        }
+      },
+      {
+        "past": {
+          "original": "نَقِمَ",
+          "transliteration": "naqima"
+        },
+        "present": {
+          "original": "يَنْقَمُ",
+          "transliteration": "yanqamu"
+        }
+      },
+      {
+        "past": {
+          "original": "نَقَمَ",
+          "transliteration": "naqama"
         },
         "present": {
           "original": "يَنْقَمُ",
