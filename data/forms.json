@@ -5856,21 +5856,6 @@
       }
     ]
   },
-  "حفظ ماء الوجه": {
-    "href": "/wiki/%D8%AD%D9%81%D8%B8_%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D9%88%D8%AC%D9%87",
-    "forms": [
-      {
-        "past": {
-          "original": "حَفِظَ مَاءَ الوَجْهِ",
-          "transliteration": "ḥafiẓa māʾa l-wajhi"
-        },
-        "present": {
-          "original": "يَحْفَظُ مَاءَ ٱلْوَجْهِ",
-          "transliteration": "yaḥfaẓu māʔa l-wajhi"
-        }
-      }
-    ]
-  },
   "حفل": {
     "href": "/wiki/%D8%AD%D9%81%D9%84",
     "forms": [
@@ -11714,21 +11699,6 @@
         "present": {
           "original": "يَزِيدُ",
           "transliteration": "yazīdu"
-        }
-      }
-    ]
-  },
-  "زاد الطين بلة": {
-    "href": "/wiki/%D8%B2%D8%A7%D8%AF_%D8%A7%D9%84%D8%B7%D9%8A%D9%86_%D8%A8%D9%84%D8%A9",
-    "forms": [
-      {
-        "past": {
-          "original": "زَادَ الطِّينَ بِلَّةً",
-          "transliteration": "zāda ṭ-ṭīna billatan"
-        },
-        "present": {
-          "original": "يَزِيدُ الطِّينَ بِلَّةً",
-          "transliteration": "yazīdu ṭ-ṭīna billatan"
         }
       }
     ]
@@ -17778,25 +17748,6 @@
         }
       }
     ]
-  },
-  "ضرب في الأرض": {
-    "href": "/wiki/%D8%B6%D8%B1%D8%A8_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6",
-    "forms": [
-      {
-        "past": {
-          "original": "ضَرَبَ فِي الأَرْضِ",
-          "transliteration": "ḍaraba fī l-ʔarḍi"
-        },
-        "present": {
-          "original": "يَضْرِبُ فِي الْأَرْضِ",
-          "transliteration": "yaḍribu fī l-ʔarḍi"
-        }
-      }
-    ]
-  },
-  "ضرب مثلا": {
-    "href": "/wiki/%D8%B6%D8%B1%D8%A8_%D9%85%D8%AB%D9%84%D8%A7",
-    "forms": []
   },
   "ضرس": {
     "href": "/wiki/%D8%B6%D8%B1%D8%B3",
@@ -26398,21 +26349,6 @@
         "present": {
           "original": "يَكْشِفُ",
           "transliteration": "yakšifu"
-        }
-      }
-    ]
-  },
-  "كشف النقاب": {
-    "href": "/wiki/%D9%83%D8%B4%D9%81_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8",
-    "forms": [
-      {
-        "past": {
-          "original": "كَشَفَ النِّقَابَ",
-          "transliteration": "kašafa n-niqāba"
-        },
-        "present": {
-          "original": "يَكْشِفُ النِّقَابَ",
-          "transliteration": "yakšifu n-niqāba"
         }
       }
     ]
