@@ -1,0 +1,5831 @@
+{
+  "آب": {
+    "href": "/wiki/%D8%A2%D8%A8"
+  },
+  "آد": {
+    "href": "/wiki/%D8%A2%D8%AF"
+  },
+  "آض": {
+    "href": "/wiki/%D8%A2%D8%B6"
+  },
+  "آل": {
+    "href": "/wiki/%D8%A2%D9%84"
+  },
+  "آم": {
+    "href": "/wiki/%D8%A2%D9%85"
+  },
+  "آن": {
+    "href": "/wiki/%D8%A2%D9%86"
+  },
+  "أبا": {
+    "href": "/wiki/%D8%A3%D8%A8%D8%A7"
+  },
+  "أبث": {
+    "href": "/wiki/%D8%A3%D8%A8%D8%AB"
+  },
+  "أبد": {
+    "href": "/wiki/%D8%A3%D8%A8%D8%AF"
+  },
+  "أبر": {
+    "href": "/wiki/%D8%A3%D8%A8%D8%B1"
+  },
+  "أبش": {
+    "href": "/wiki/%D8%A3%D8%A8%D8%B4"
+  },
+  "أبق": {
+    "href": "/wiki/%D8%A3%D8%A8%D9%82"
+  },
+  "أبى": {
+    "href": "/wiki/%D8%A3%D8%A8%D9%89"
+  },
+  "أتى": {
+    "href": "/wiki/%D8%A3%D8%AA%D9%89"
+  },
+  "أثم": {
+    "href": "/wiki/%D8%A3%D8%AB%D9%85"
+  },
+  "أجر": {
+    "href": "/wiki/%D8%A3%D8%AC%D8%B1"
+  },
+  "أخذ": {
+    "href": "/wiki/%D8%A3%D8%AE%D8%B0"
+  },
+  "أدم": {
+    "href": "/wiki/%D8%A3%D8%AF%D9%85"
+  },
+  "أذن": {
+    "href": "/wiki/%D8%A3%D8%B0%D9%86"
+  },
+  "أرق": {
+    "href": "/wiki/%D8%A3%D8%B1%D9%82"
+  },
+  "أري": {
+    "href": "/wiki/%D8%A3%D8%B1%D9%8A"
+  },
+  "أزر": {
+    "href": "/wiki/%D8%A3%D8%B2%D8%B1"
+  },
+  "أسر": {
+    "href": "/wiki/%D8%A3%D8%B3%D8%B1"
+  },
+  "أسف": {
+    "href": "/wiki/%D8%A3%D8%B3%D9%81"
+  },
+  "أسل": {
+    "href": "/wiki/%D8%A3%D8%B3%D9%84"
+  },
+  "أسي": {
+    "href": "/wiki/%D8%A3%D8%B3%D9%8A"
+  },
+  "أصل": {
+    "href": "/wiki/%D8%A3%D8%B5%D9%84"
+  },
+  "أفق": {
+    "href": "/wiki/%D8%A3%D9%81%D9%82"
+  },
+  "أفك": {
+    "href": "/wiki/%D8%A3%D9%81%D9%83"
+  },
+  "أفل": {
+    "href": "/wiki/%D8%A3%D9%81%D9%84"
+  },
+  "أقط": {
+    "href": "/wiki/%D8%A3%D9%82%D8%B7"
+  },
+  "أكل": {
+    "href": "/wiki/%D8%A3%D9%83%D9%84"
+  },
+  "أل": {
+    "href": "/wiki/%D8%A3%D9%84"
+  },
+  "ألا": {
+    "href": "/wiki/%D8%A3%D9%84%D8%A7"
+  },
+  "ألف": {
+    "href": "/wiki/%D8%A3%D9%84%D9%81"
+  },
+  "ألق": {
+    "href": "/wiki/%D8%A3%D9%84%D9%82"
+  },
+  "ألم": {
+    "href": "/wiki/%D8%A3%D9%84%D9%85"
+  },
+  "أم": {
+    "href": "/wiki/%D8%A3%D9%85"
+  },
+  "أمد": {
+    "href": "/wiki/%D8%A3%D9%85%D8%AF"
+  },
+  "أمر": {
+    "href": "/wiki/%D8%A3%D9%85%D8%B1"
+  },
+  "أمل": {
+    "href": "/wiki/%D8%A3%D9%85%D9%84"
+  },
+  "أمن": {
+    "href": "/wiki/%D8%A3%D9%85%D9%86"
+  },
+  "أن": {
+    "href": "/wiki/%D8%A3%D9%86"
+  },
+  "أنس": {
+    "href": "/wiki/%D8%A3%D9%86%D8%B3"
+  },
+  "أنى": {
+    "href": "/wiki/%D8%A3%D9%86%D9%89"
+  },
+  "أني": {
+    "href": "/wiki/%D8%A3%D9%86%D9%8A"
+  },
+  "أهل": {
+    "href": "/wiki/%D8%A3%D9%87%D9%84"
+  },
+  "أوى": {
+    "href": "/wiki/%D8%A3%D9%88%D9%89"
+  },
+  "أيس": {
+    "href": "/wiki/%D8%A3%D9%8A%D8%B3"
+  },
+  "بؤس": {
+    "href": "/wiki/%D8%A8%D8%A4%D8%B3"
+  },
+  "بئس": {
+    "href": "/wiki/%D8%A8%D8%A6%D8%B3"
+  },
+  "باء": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%A1"
+  },
+  "بات": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%AA"
+  },
+  "باح": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%AD"
+  },
+  "باد": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%AF"
+  },
+  "بار": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%B1"
+  },
+  "باس": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%B3"
+  },
+  "باض": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%B6"
+  },
+  "باع": {
+    "href": "/wiki/%D8%A8%D8%A7%D8%B9"
+  },
+  "بال": {
+    "href": "/wiki/%D8%A8%D8%A7%D9%84"
+  },
+  "بان": {
+    "href": "/wiki/%D8%A8%D8%A7%D9%86"
+  },
+  "باه": {
+    "href": "/wiki/%D8%A8%D8%A7%D9%87"
+  },
+  "بت": {
+    "href": "/wiki/%D8%A8%D8%AA"
+  },
+  "بتر": {
+    "href": "/wiki/%D8%A8%D8%AA%D8%B1"
+  },
+  "بتع": {
+    "href": "/wiki/%D8%A8%D8%AA%D8%B9"
+  },
+  "بث": {
+    "href": "/wiki/%D8%A8%D8%AB"
+  },
+  "بجح": {
+    "href": "/wiki/%D8%A8%D8%AC%D8%AD"
+  },
+  "بجل": {
+    "href": "/wiki/%D8%A8%D8%AC%D9%84"
+  },
+  "بح": {
+    "href": "/wiki/%D8%A8%D8%AD"
+  },
+  "بحث": {
+    "href": "/wiki/%D8%A8%D8%AD%D8%AB"
+  },
+  "بحر": {
+    "href": "/wiki/%D8%A8%D8%AD%D8%B1"
+  },
+  "بخر": {
+    "href": "/wiki/%D8%A8%D8%AE%D8%B1"
+  },
+  "بخص": {
+    "href": "/wiki/%D8%A8%D8%AE%D8%B5"
+  },
+  "بخع": {
+    "href": "/wiki/%D8%A8%D8%AE%D8%B9"
+  },
+  "بخل": {
+    "href": "/wiki/%D8%A8%D8%AE%D9%84"
+  },
+  "بدأ": {
+    "href": "/wiki/%D8%A8%D8%AF%D8%A3"
+  },
+  "بدا": {
+    "href": "/wiki/%D8%A8%D8%AF%D8%A7"
+  },
+  "بدع": {
+    "href": "/wiki/%D8%A8%D8%AF%D8%B9"
+  },
+  "بدل": {
+    "href": "/wiki/%D8%A8%D8%AF%D9%84"
+  },
+  "بدن": {
+    "href": "/wiki/%D8%A8%D8%AF%D9%86"
+  },
+  "بذ": {
+    "href": "/wiki/%D8%A8%D8%B0"
+  },
+  "بذر": {
+    "href": "/wiki/%D8%A8%D8%B0%D8%B1"
+  },
+  "بذل": {
+    "href": "/wiki/%D8%A8%D8%B0%D9%84"
+  },
+  "بر": {
+    "href": "/wiki/%D8%A8%D8%B1"
+  },
+  "برأ": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%A3"
+  },
+  "برئ": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%A6"
+  },
+  "برج": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%AC"
+  },
+  "برح": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%AD"
+  },
+  "برد": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%AF"
+  },
+  "برز": {
+    "href": "/wiki/%D8%A8%D8%B1%D8%B2"
+  },
+  "برق": {
+    "href": "/wiki/%D8%A8%D8%B1%D9%82"
+  },
+  "برك": {
+    "href": "/wiki/%D8%A8%D8%B1%D9%83"
+  },
+  "برم": {
+    "href": "/wiki/%D8%A8%D8%B1%D9%85"
+  },
+  "بز": {
+    "href": "/wiki/%D8%A8%D8%B2"
+  },
+  "بزغ": {
+    "href": "/wiki/%D8%A8%D8%B2%D8%BA"
+  },
+  "بزق": {
+    "href": "/wiki/%D8%A8%D8%B2%D9%82"
+  },
+  "بزل": {
+    "href": "/wiki/%D8%A8%D8%B2%D9%84"
+  },
+  "بزم": {
+    "href": "/wiki/%D8%A8%D8%B2%D9%85"
+  },
+  "بس": {
+    "href": "/wiki/%D8%A8%D8%B3"
+  },
+  "بسر": {
+    "href": "/wiki/%D8%A8%D8%B3%D8%B1"
+  },
+  "بسط": {
+    "href": "/wiki/%D8%A8%D8%B3%D8%B7"
+  },
+  "بسم": {
+    "href": "/wiki/%D8%A8%D8%B3%D9%85"
+  },
+  "بش": {
+    "href": "/wiki/%D8%A8%D8%B4"
+  },
+  "بشر": {
+    "href": "/wiki/%D8%A8%D8%B4%D8%B1"
+  },
+  "بصر": {
+    "href": "/wiki/%D8%A8%D8%B5%D8%B1"
+  },
+  "بصق": {
+    "href": "/wiki/%D8%A8%D8%B5%D9%82"
+  },
+  "بصم": {
+    "href": "/wiki/%D8%A8%D8%B5%D9%85"
+  },
+  "بط": {
+    "href": "/wiki/%D8%A8%D8%B7"
+  },
+  "بطؤ": {
+    "href": "/wiki/%D8%A8%D8%B7%D8%A4"
+  },
+  "بطل": {
+    "href": "/wiki/%D8%A8%D8%B7%D9%84"
+  },
+  "بطن": {
+    "href": "/wiki/%D8%A8%D8%B7%D9%86"
+  },
+  "بعث": {
+    "href": "/wiki/%D8%A8%D8%B9%D8%AB"
+  },
+  "بعد": {
+    "href": "/wiki/%D8%A8%D8%B9%D8%AF"
+  },
+  "بعر": {
+    "href": "/wiki/%D8%A8%D8%B9%D8%B1"
+  },
+  "بغش": {
+    "href": "/wiki/%D8%A8%D8%BA%D8%B4"
+  },
+  "بغض": {
+    "href": "/wiki/%D8%A8%D8%BA%D8%B6"
+  },
+  "بغى": {
+    "href": "/wiki/%D8%A8%D8%BA%D9%89"
+  },
+  "بق": {
+    "href": "/wiki/%D8%A8%D9%82"
+  },
+  "بقر": {
+    "href": "/wiki/%D8%A8%D9%82%D8%B1"
+  },
+  "بقى": {
+    "href": "/wiki/%D8%A8%D9%82%D9%89"
+  },
+  "بقي": {
+    "href": "/wiki/%D8%A8%D9%82%D9%8A"
+  },
+  "بكر": {
+    "href": "/wiki/%D8%A8%D9%83%D8%B1"
+  },
+  "بكى": {
+    "href": "/wiki/%D8%A8%D9%83%D9%89"
+  },
+  "بل": {
+    "href": "/wiki/%D8%A8%D9%84"
+  },
+  "بلا": {
+    "href": "/wiki/%D8%A8%D9%84%D8%A7"
+  },
+  "بلد": {
+    "href": "/wiki/%D8%A8%D9%84%D8%AF"
+  },
+  "بلع": {
+    "href": "/wiki/%D8%A8%D9%84%D8%B9"
+  },
+  "بلغ": {
+    "href": "/wiki/%D8%A8%D9%84%D8%BA"
+  },
+  "بلي": {
+    "href": "/wiki/%D8%A8%D9%84%D9%8A"
+  },
+  "بن": {
+    "href": "/wiki/%D8%A8%D9%86"
+  },
+  "بنى": {
+    "href": "/wiki/%D8%A8%D9%86%D9%89"
+  },
+  "بهج": {
+    "href": "/wiki/%D8%A8%D9%87%D8%AC"
+  },
+  "بهر": {
+    "href": "/wiki/%D8%A8%D9%87%D8%B1"
+  },
+  "بهظ": {
+    "href": "/wiki/%D8%A8%D9%87%D8%B8"
+  },
+  "بهل": {
+    "href": "/wiki/%D8%A8%D9%87%D9%84"
+  },
+  "تاب": {
+    "href": "/wiki/%D8%AA%D8%A7%D8%A8"
+  },
+  "تاق": {
+    "href": "/wiki/%D8%AA%D8%A7%D9%82"
+  },
+  "تاه": {
+    "href": "/wiki/%D8%AA%D8%A7%D9%87"
+  },
+  "تب": {
+    "href": "/wiki/%D8%AA%D8%A8"
+  },
+  "تبع": {
+    "href": "/wiki/%D8%AA%D8%A8%D8%B9"
+  },
+  "تبن": {
+    "href": "/wiki/%D8%AA%D8%A8%D9%86"
+  },
+  "تجر": {
+    "href": "/wiki/%D8%AA%D8%AC%D8%B1"
+  },
+  "تخم": {
+    "href": "/wiki/%D8%AA%D8%AE%D9%85"
+  },
+  "تر": {
+    "href": "/wiki/%D8%AA%D8%B1"
+  },
+  "ترب": {
+    "href": "/wiki/%D8%AA%D8%B1%D8%A8"
+  },
+  "ترف": {
+    "href": "/wiki/%D8%AA%D8%B1%D9%81"
+  },
+  "ترك": {
+    "href": "/wiki/%D8%AA%D8%B1%D9%83"
+  },
+  "تعب": {
+    "href": "/wiki/%D8%AA%D8%B9%D8%A8"
+  },
+  "تعس": {
+    "href": "/wiki/%D8%AA%D8%B9%D8%B3"
+  },
+  "تك": {
+    "href": "/wiki/%D8%AA%D9%83"
+  },
+  "تل": {
+    "href": "/wiki/%D8%AA%D9%84"
+  },
+  "تلا": {
+    "href": "/wiki/%D8%AA%D9%84%D8%A7"
+  },
+  "تلف": {
+    "href": "/wiki/%D8%AA%D9%84%D9%81"
+  },
+  "تم": {
+    "href": "/wiki/%D8%AA%D9%85"
+  },
+  "ثأر": {
+    "href": "/wiki/%D8%AB%D8%A3%D8%B1"
+  },
+  "ثاب": {
+    "href": "/wiki/%D8%AB%D8%A7%D8%A8"
+  },
+  "ثار": {
+    "href": "/wiki/%D8%AB%D8%A7%D8%B1"
+  },
+  "ثبت": {
+    "href": "/wiki/%D8%AB%D8%A8%D8%AA"
+  },
+  "ثبر": {
+    "href": "/wiki/%D8%AB%D8%A8%D8%B1"
+  },
+  "ثدي": {
+    "href": "/wiki/%D8%AB%D8%AF%D9%8A"
+  },
+  "ثرب": {
+    "href": "/wiki/%D8%AB%D8%B1%D8%A8"
+  },
+  "ثغر": {
+    "href": "/wiki/%D8%AB%D8%BA%D8%B1"
+  },
+  "ثقب": {
+    "href": "/wiki/%D8%AB%D9%82%D8%A8"
+  },
+  "ثقف": {
+    "href": "/wiki/%D8%AB%D9%82%D9%81"
+  },
+  "ثقل": {
+    "href": "/wiki/%D8%AB%D9%82%D9%84"
+  },
+  "ثكل": {
+    "href": "/wiki/%D8%AB%D9%83%D9%84"
+  },
+  "ثلج": {
+    "href": "/wiki/%D8%AB%D9%84%D8%AC"
+  },
+  "ثلم": {
+    "href": "/wiki/%D8%AB%D9%84%D9%85"
+  },
+  "ثم": {
+    "href": "/wiki/%D8%AB%D9%85"
+  },
+  "ثمل": {
+    "href": "/wiki/%D8%AB%D9%85%D9%84"
+  },
+  "ثمن": {
+    "href": "/wiki/%D8%AB%D9%85%D9%86"
+  },
+  "ثنى": {
+    "href": "/wiki/%D8%AB%D9%86%D9%89"
+  },
+  "جاء": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%A1"
+  },
+  "جاب": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%A8"
+  },
+  "جاد": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%AF"
+  },
+  "جار": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%B1"
+  },
+  "جاز": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%B2"
+  },
+  "جاع": {
+    "href": "/wiki/%D8%AC%D8%A7%D8%B9"
+  },
+  "جاف": {
+    "href": "/wiki/%D8%AC%D8%A7%D9%81"
+  },
+  "جال": {
+    "href": "/wiki/%D8%AC%D8%A7%D9%84"
+  },
+  "جب": {
+    "href": "/wiki/%D8%AC%D8%A8"
+  },
+  "جبر": {
+    "href": "/wiki/%D8%AC%D8%A8%D8%B1"
+  },
+  "جبل": {
+    "href": "/wiki/%D8%AC%D8%A8%D9%84"
+  },
+  "جبن": {
+    "href": "/wiki/%D8%AC%D8%A8%D9%86"
+  },
+  "جبه": {
+    "href": "/wiki/%D8%AC%D8%A8%D9%87"
+  },
+  "جبى": {
+    "href": "/wiki/%D8%AC%D8%A8%D9%89"
+  },
+  "جثا": {
+    "href": "/wiki/%D8%AC%D8%AB%D8%A7"
+  },
+  "جثم": {
+    "href": "/wiki/%D8%AC%D8%AB%D9%85"
+  },
+  "جحظ": {
+    "href": "/wiki/%D8%AC%D8%AD%D8%B8"
+  },
+  "جحف": {
+    "href": "/wiki/%D8%AC%D8%AD%D9%81"
+  },
+  "جحم": {
+    "href": "/wiki/%D8%AC%D8%AD%D9%85"
+  },
+  "جد": {
+    "href": "/wiki/%D8%AC%D8%AF"
+  },
+  "جدر": {
+    "href": "/wiki/%D8%AC%D8%AF%D8%B1"
+  },
+  "جدع": {
+    "href": "/wiki/%D8%AC%D8%AF%D8%B9"
+  },
+  "جدل": {
+    "href": "/wiki/%D8%AC%D8%AF%D9%84"
+  },
+  "جذب": {
+    "href": "/wiki/%D8%AC%D8%B0%D8%A8"
+  },
+  "جذر": {
+    "href": "/wiki/%D8%AC%D8%B0%D8%B1"
+  },
+  "جر": {
+    "href": "/wiki/%D8%AC%D8%B1"
+  },
+  "جرؤ": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%A4"
+  },
+  "جرب": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%A8"
+  },
+  "جرح": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%AD"
+  },
+  "جرد": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%AF"
+  },
+  "جرس": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%B3"
+  },
+  "جرع": {
+    "href": "/wiki/%D8%AC%D8%B1%D8%B9"
+  },
+  "جرف": {
+    "href": "/wiki/%D8%AC%D8%B1%D9%81"
+  },
+  "جرم": {
+    "href": "/wiki/%D8%AC%D8%B1%D9%85"
+  },
+  "جرن": {
+    "href": "/wiki/%D8%AC%D8%B1%D9%86"
+  },
+  "جرى": {
+    "href": "/wiki/%D8%AC%D8%B1%D9%89"
+  },
+  "جز": {
+    "href": "/wiki/%D8%AC%D8%B2"
+  },
+  "جزح": {
+    "href": "/wiki/%D8%AC%D8%B2%D8%AD"
+  },
+  "جزر": {
+    "href": "/wiki/%D8%AC%D8%B2%D8%B1"
+  },
+  "جزع": {
+    "href": "/wiki/%D8%AC%D8%B2%D8%B9"
+  },
+  "جزل": {
+    "href": "/wiki/%D8%AC%D8%B2%D9%84"
+  },
+  "جزم": {
+    "href": "/wiki/%D8%AC%D8%B2%D9%85"
+  },
+  "جزى": {
+    "href": "/wiki/%D8%AC%D8%B2%D9%89"
+  },
+  "جس": {
+    "href": "/wiki/%D8%AC%D8%B3"
+  },
+  "جسأ": {
+    "href": "/wiki/%D8%AC%D8%B3%D8%A3"
+  },
+  "جسر": {
+    "href": "/wiki/%D8%AC%D8%B3%D8%B1"
+  },
+  "جسم": {
+    "href": "/wiki/%D8%AC%D8%B3%D9%85"
+  },
+  "جص": {
+    "href": "/wiki/%D8%AC%D8%B5"
+  },
+  "جعد": {
+    "href": "/wiki/%D8%AC%D8%B9%D8%AF"
+  },
+  "جعر": {
+    "href": "/wiki/%D8%AC%D8%B9%D8%B1"
+  },
+  "جعل": {
+    "href": "/wiki/%D8%AC%D8%B9%D9%84"
+  },
+  "جف": {
+    "href": "/wiki/%D8%AC%D9%81"
+  },
+  "جفأ": {
+    "href": "/wiki/%D8%AC%D9%81%D8%A3"
+  },
+  "جفا": {
+    "href": "/wiki/%D8%AC%D9%81%D8%A7"
+  },
+  "جل": {
+    "href": "/wiki/%D8%AC%D9%84"
+  },
+  "جلب": {
+    "href": "/wiki/%D8%AC%D9%84%D8%A8"
+  },
+  "جلخ": {
+    "href": "/wiki/%D8%AC%D9%84%D8%AE"
+  },
+  "جلد": {
+    "href": "/wiki/%D8%AC%D9%84%D8%AF"
+  },
+  "جلس": {
+    "href": "/wiki/%D8%AC%D9%84%D8%B3"
+  },
+  "جلف": {
+    "href": "/wiki/%D8%AC%D9%84%D9%81"
+  },
+  "جمد": {
+    "href": "/wiki/%D8%AC%D9%85%D8%AF"
+  },
+  "جمر": {
+    "href": "/wiki/%D8%AC%D9%85%D8%B1"
+  },
+  "جمز": {
+    "href": "/wiki/%D8%AC%D9%85%D8%B2"
+  },
+  "جمع": {
+    "href": "/wiki/%D8%AC%D9%85%D8%B9"
+  },
+  "جمل": {
+    "href": "/wiki/%D8%AC%D9%85%D9%84"
+  },
+  "جن": {
+    "href": "/wiki/%D8%AC%D9%86"
+  },
+  "جنب": {
+    "href": "/wiki/%D8%AC%D9%86%D8%A8"
+  },
+  "جنى": {
+    "href": "/wiki/%D8%AC%D9%86%D9%89"
+  },
+  "جهد": {
+    "href": "/wiki/%D8%AC%D9%87%D8%AF"
+  },
+  "جهر": {
+    "href": "/wiki/%D8%AC%D9%87%D8%B1"
+  },
+  "جهل": {
+    "href": "/wiki/%D8%AC%D9%87%D9%84"
+  },
+  "جوف": {
+    "href": "/wiki/%D8%AC%D9%88%D9%81"
+  },
+  "حاد": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%AF"
+  },
+  "حار": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%B1"
+  },
+  "حاز": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%B2"
+  },
+  "حاص": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%B5"
+  },
+  "حاض": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%B6"
+  },
+  "حاط": {
+    "href": "/wiki/%D8%AD%D8%A7%D8%B7"
+  },
+  "حاق": {
+    "href": "/wiki/%D8%AD%D8%A7%D9%82"
+  },
+  "حاك": {
+    "href": "/wiki/%D8%AD%D8%A7%D9%83"
+  },
+  "حال": {
+    "href": "/wiki/%D8%AD%D8%A7%D9%84"
+  },
+  "حام": {
+    "href": "/wiki/%D8%AD%D8%A7%D9%85"
+  },
+  "حان": {
+    "href": "/wiki/%D8%AD%D8%A7%D9%86"
+  },
+  "حب": {
+    "href": "/wiki/%D8%AD%D8%A8"
+  },
+  "حبا": {
+    "href": "/wiki/%D8%AD%D8%A8%D8%A7"
+  },
+  "حبر": {
+    "href": "/wiki/%D8%AD%D8%A8%D8%B1"
+  },
+  "حبس": {
+    "href": "/wiki/%D8%AD%D8%A8%D8%B3"
+  },
+  "حبش": {
+    "href": "/wiki/%D8%AD%D8%A8%D8%B4"
+  },
+  "حبط": {
+    "href": "/wiki/%D8%AD%D8%A8%D8%B7"
+  },
+  "حبق": {
+    "href": "/wiki/%D8%AD%D8%A8%D9%82"
+  },
+  "حبل": {
+    "href": "/wiki/%D8%AD%D8%A8%D9%84"
+  },
+  "حبن": {
+    "href": "/wiki/%D8%AD%D8%A8%D9%86"
+  },
+  "حث": {
+    "href": "/wiki/%D8%AD%D8%AB"
+  },
+  "حج": {
+    "href": "/wiki/%D8%AD%D8%AC"
+  },
+  "حجب": {
+    "href": "/wiki/%D8%AD%D8%AC%D8%A8"
+  },
+  "حجر": {
+    "href": "/wiki/%D8%AD%D8%AC%D8%B1"
+  },
+  "حجز": {
+    "href": "/wiki/%D8%AD%D8%AC%D8%B2"
+  },
+  "حجل": {
+    "href": "/wiki/%D8%AD%D8%AC%D9%84"
+  },
+  "حجم": {
+    "href": "/wiki/%D8%AD%D8%AC%D9%85"
+  },
+  "حجن": {
+    "href": "/wiki/%D8%AD%D8%AC%D9%86"
+  },
+  "حد": {
+    "href": "/wiki/%D8%AD%D8%AF"
+  },
+  "حدا": {
+    "href": "/wiki/%D8%AD%D8%AF%D8%A7"
+  },
+  "حدث": {
+    "href": "/wiki/%D8%AD%D8%AF%D8%AB"
+  },
+  "حدج": {
+    "href": "/wiki/%D8%AD%D8%AF%D8%AC"
+  },
+  "حدس": {
+    "href": "/wiki/%D8%AD%D8%AF%D8%B3"
+  },
+  "حدق": {
+    "href": "/wiki/%D8%AD%D8%AF%D9%82"
+  },
+  "حذر": {
+    "href": "/wiki/%D8%AD%D8%B0%D8%B1"
+  },
+  "حذف": {
+    "href": "/wiki/%D8%AD%D8%B0%D9%81"
+  },
+  "حرب": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%A8"
+  },
+  "حرث": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%AB"
+  },
+  "حرج": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%AC"
+  },
+  "حرس": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%B3"
+  },
+  "حرش": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%B4"
+  },
+  "حرص": {
+    "href": "/wiki/%D8%AD%D8%B1%D8%B5"
+  },
+  "حرف": {
+    "href": "/wiki/%D8%AD%D8%B1%D9%81"
+  },
+  "حرق": {
+    "href": "/wiki/%D8%AD%D8%B1%D9%82"
+  },
+  "حرك": {
+    "href": "/wiki/%D8%AD%D8%B1%D9%83"
+  },
+  "حرم": {
+    "href": "/wiki/%D8%AD%D8%B1%D9%85"
+  },
+  "حرى": {
+    "href": "/wiki/%D8%AD%D8%B1%D9%89"
+  },
+  "حز": {
+    "href": "/wiki/%D8%AD%D8%B2"
+  },
+  "حزب": {
+    "href": "/wiki/%D8%AD%D8%B2%D8%A8"
+  },
+  "حزر": {
+    "href": "/wiki/%D8%AD%D8%B2%D8%B1"
+  },
+  "حزم": {
+    "href": "/wiki/%D8%AD%D8%B2%D9%85"
+  },
+  "حزن": {
+    "href": "/wiki/%D8%AD%D8%B2%D9%86"
+  },
+  "حس": {
+    "href": "/wiki/%D8%AD%D8%B3"
+  },
+  "حسب": {
+    "href": "/wiki/%D8%AD%D8%B3%D8%A8"
+  },
+  "حسد": {
+    "href": "/wiki/%D8%AD%D8%B3%D8%AF"
+  },
+  "حسر": {
+    "href": "/wiki/%D8%AD%D8%B3%D8%B1"
+  },
+  "حسم": {
+    "href": "/wiki/%D8%AD%D8%B3%D9%85"
+  },
+  "حسن": {
+    "href": "/wiki/%D8%AD%D8%B3%D9%86"
+  },
+  "حش": {
+    "href": "/wiki/%D8%AD%D8%B4"
+  },
+  "حشد": {
+    "href": "/wiki/%D8%AD%D8%B4%D8%AF"
+  },
+  "حشر": {
+    "href": "/wiki/%D8%AD%D8%B4%D8%B1"
+  },
+  "حشف": {
+    "href": "/wiki/%D8%AD%D8%B4%D9%81"
+  },
+  "حشم": {
+    "href": "/wiki/%D8%AD%D8%B4%D9%85"
+  },
+  "حصب": {
+    "href": "/wiki/%D8%AD%D8%B5%D8%A8"
+  },
+  "حصد": {
+    "href": "/wiki/%D8%AD%D8%B5%D8%AF"
+  },
+  "حصر": {
+    "href": "/wiki/%D8%AD%D8%B5%D8%B1"
+  },
+  "حصل": {
+    "href": "/wiki/%D8%AD%D8%B5%D9%84"
+  },
+  "حصن": {
+    "href": "/wiki/%D8%AD%D8%B5%D9%86"
+  },
+  "حض": {
+    "href": "/wiki/%D8%AD%D8%B6"
+  },
+  "حضر": {
+    "href": "/wiki/%D8%AD%D8%B6%D8%B1"
+  },
+  "حضن": {
+    "href": "/wiki/%D8%AD%D8%B6%D9%86"
+  },
+  "حط": {
+    "href": "/wiki/%D8%AD%D8%B7"
+  },
+  "حطم": {
+    "href": "/wiki/%D8%AD%D8%B7%D9%85"
+  },
+  "حظر": {
+    "href": "/wiki/%D8%AD%D8%B8%D8%B1"
+  },
+  "حظل": {
+    "href": "/wiki/%D8%AD%D8%B8%D9%84"
+  },
+  "حظي": {
+    "href": "/wiki/%D8%AD%D8%B8%D9%8A"
+  },
+  "حف": {
+    "href": "/wiki/%D8%AD%D9%81"
+  },
+  "حفر": {
+    "href": "/wiki/%D8%AD%D9%81%D8%B1"
+  },
+  "حفش": {
+    "href": "/wiki/%D8%AD%D9%81%D8%B4"
+  },
+  "حفظ": {
+    "href": "/wiki/%D8%AD%D9%81%D8%B8"
+  },
+  "حفظ ماء الوجه": {
+    "href": "/wiki/%D8%AD%D9%81%D8%B8_%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D9%88%D8%AC%D9%87"
+  },
+  "حفل": {
+    "href": "/wiki/%D8%AD%D9%81%D9%84"
+  },
+  "حفي": {
+    "href": "/wiki/%D8%AD%D9%81%D9%8A"
+  },
+  "حق": {
+    "href": "/wiki/%D8%AD%D9%82"
+  },
+  "حقب": {
+    "href": "/wiki/%D8%AD%D9%82%D8%A8"
+  },
+  "حقد": {
+    "href": "/wiki/%D8%AD%D9%82%D8%AF"
+  },
+  "حقر": {
+    "href": "/wiki/%D8%AD%D9%82%D8%B1"
+  },
+  "حقن": {
+    "href": "/wiki/%D8%AD%D9%82%D9%86"
+  },
+  "حك": {
+    "href": "/wiki/%D8%AD%D9%83"
+  },
+  "حكا": {
+    "href": "/wiki/%D8%AD%D9%83%D8%A7"
+  },
+  "حكم": {
+    "href": "/wiki/%D8%AD%D9%83%D9%85"
+  },
+  "حكى": {
+    "href": "/wiki/%D8%AD%D9%83%D9%89"
+  },
+  "حل": {
+    "href": "/wiki/%D8%AD%D9%84"
+  },
+  "حلا": {
+    "href": "/wiki/%D8%AD%D9%84%D8%A7"
+  },
+  "حلب": {
+    "href": "/wiki/%D8%AD%D9%84%D8%A8"
+  },
+  "حلس": {
+    "href": "/wiki/%D8%AD%D9%84%D8%B3"
+  },
+  "حلف": {
+    "href": "/wiki/%D8%AD%D9%84%D9%81"
+  },
+  "حلق": {
+    "href": "/wiki/%D8%AD%D9%84%D9%82"
+  },
+  "حلم": {
+    "href": "/wiki/%D8%AD%D9%84%D9%85"
+  },
+  "حلى": {
+    "href": "/wiki/%D8%AD%D9%84%D9%89"
+  },
+  "حلي": {
+    "href": "/wiki/%D8%AD%D9%84%D9%8A"
+  },
+  "حم": {
+    "href": "/wiki/%D8%AD%D9%85"
+  },
+  "حمد": {
+    "href": "/wiki/%D8%AD%D9%85%D8%AF"
+  },
+  "حمض": {
+    "href": "/wiki/%D8%AD%D9%85%D8%B6"
+  },
+  "حمق": {
+    "href": "/wiki/%D8%AD%D9%85%D9%82"
+  },
+  "حمل": {
+    "href": "/wiki/%D8%AD%D9%85%D9%84"
+  },
+  "حمى": {
+    "href": "/wiki/%D8%AD%D9%85%D9%89"
+  },
+  "حمي": {
+    "href": "/wiki/%D8%AD%D9%85%D9%8A"
+  },
+  "حن": {
+    "href": "/wiki/%D8%AD%D9%86"
+  },
+  "حنا": {
+    "href": "/wiki/%D8%AD%D9%86%D8%A7"
+  },
+  "حنش": {
+    "href": "/wiki/%D8%AD%D9%86%D8%B4"
+  },
+  "حنف": {
+    "href": "/wiki/%D8%AD%D9%86%D9%81"
+  },
+  "حنق": {
+    "href": "/wiki/%D8%AD%D9%86%D9%82"
+  },
+  "حنك": {
+    "href": "/wiki/%D8%AD%D9%86%D9%83"
+  },
+  "حنى": {
+    "href": "/wiki/%D8%AD%D9%86%D9%89"
+  },
+  "حور": {
+    "href": "/wiki/%D8%AD%D9%88%D8%B1"
+  },
+  "حول": {
+    "href": "/wiki/%D8%AD%D9%88%D9%84"
+  },
+  "حوى": {
+    "href": "/wiki/%D8%AD%D9%88%D9%89"
+  },
+  "حوي": {
+    "href": "/wiki/%D8%AD%D9%88%D9%8A"
+  },
+  "حي": {
+    "href": "/wiki/%D8%AD%D9%8A"
+  },
+  "حيي": {
+    "href": "/wiki/%D8%AD%D9%8A%D9%8A"
+  },
+  "خاب": {
+    "href": "/wiki/%D8%AE%D8%A7%D8%A8"
+  },
+  "خاض": {
+    "href": "/wiki/%D8%AE%D8%A7%D8%B6"
+  },
+  "خاف": {
+    "href": "/wiki/%D8%AE%D8%A7%D9%81"
+  },
+  "خال": {
+    "href": "/wiki/%D8%AE%D8%A7%D9%84"
+  },
+  "خان": {
+    "href": "/wiki/%D8%AE%D8%A7%D9%86"
+  },
+  "خب": {
+    "href": "/wiki/%D8%AE%D8%A8"
+  },
+  "خبأ": {
+    "href": "/wiki/%D8%AE%D8%A8%D8%A3"
+  },
+  "خبا": {
+    "href": "/wiki/%D8%AE%D8%A8%D8%A7"
+  },
+  "خبر": {
+    "href": "/wiki/%D8%AE%D8%A8%D8%B1"
+  },
+  "خبز": {
+    "href": "/wiki/%D8%AE%D8%A8%D8%B2"
+  },
+  "خبص": {
+    "href": "/wiki/%D8%AE%D8%A8%D8%B5"
+  },
+  "ختم": {
+    "href": "/wiki/%D8%AE%D8%AA%D9%85"
+  },
+  "ختن": {
+    "href": "/wiki/%D8%AE%D8%AA%D9%86"
+  },
+  "خثر": {
+    "href": "/wiki/%D8%AE%D8%AB%D8%B1"
+  },
+  "خجل": {
+    "href": "/wiki/%D8%AE%D8%AC%D9%84"
+  },
+  "خدر": {
+    "href": "/wiki/%D8%AE%D8%AF%D8%B1"
+  },
+  "خدش": {
+    "href": "/wiki/%D8%AE%D8%AF%D8%B4"
+  },
+  "خدع": {
+    "href": "/wiki/%D8%AE%D8%AF%D8%B9"
+  },
+  "خدم": {
+    "href": "/wiki/%D8%AE%D8%AF%D9%85"
+  },
+  "خذل": {
+    "href": "/wiki/%D8%AE%D8%B0%D9%84"
+  },
+  "خر": {
+    "href": "/wiki/%D8%AE%D8%B1"
+  },
+  "خرئ": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%A6"
+  },
+  "خرب": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%A8"
+  },
+  "خرت": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%AA"
+  },
+  "خرج": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%AC"
+  },
+  "خرس": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%B3"
+  },
+  "خرص": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%B5"
+  },
+  "خرط": {
+    "href": "/wiki/%D8%AE%D8%B1%D8%B7"
+  },
+  "خرف": {
+    "href": "/wiki/%D8%AE%D8%B1%D9%81"
+  },
+  "خرق": {
+    "href": "/wiki/%D8%AE%D8%B1%D9%82"
+  },
+  "خرم": {
+    "href": "/wiki/%D8%AE%D8%B1%D9%85"
+  },
+  "خز": {
+    "href": "/wiki/%D8%AE%D8%B2"
+  },
+  "خزل": {
+    "href": "/wiki/%D8%AE%D8%B2%D9%84"
+  },
+  "خزن": {
+    "href": "/wiki/%D8%AE%D8%B2%D9%86"
+  },
+  "خزي": {
+    "href": "/wiki/%D8%AE%D8%B2%D9%8A"
+  },
+  "خسأ": {
+    "href": "/wiki/%D8%AE%D8%B3%D8%A3"
+  },
+  "خسئ": {
+    "href": "/wiki/%D8%AE%D8%B3%D8%A6"
+  },
+  "خسر": {
+    "href": "/wiki/%D8%AE%D8%B3%D8%B1"
+  },
+  "خسف": {
+    "href": "/wiki/%D8%AE%D8%B3%D9%81"
+  },
+  "خشن": {
+    "href": "/wiki/%D8%AE%D8%B4%D9%86"
+  },
+  "خشي": {
+    "href": "/wiki/%D8%AE%D8%B4%D9%8A"
+  },
+  "خص": {
+    "href": "/wiki/%D8%AE%D8%B5"
+  },
+  "خصب": {
+    "href": "/wiki/%D8%AE%D8%B5%D8%A8"
+  },
+  "خصف": {
+    "href": "/wiki/%D8%AE%D8%B5%D9%81"
+  },
+  "خصم": {
+    "href": "/wiki/%D8%AE%D8%B5%D9%85"
+  },
+  "خصى": {
+    "href": "/wiki/%D8%AE%D8%B5%D9%89"
+  },
+  "خضب": {
+    "href": "/wiki/%D8%AE%D8%B6%D8%A8"
+  },
+  "خضد": {
+    "href": "/wiki/%D8%AE%D8%B6%D8%AF"
+  },
+  "خضع": {
+    "href": "/wiki/%D8%AE%D8%B6%D8%B9"
+  },
+  "خضل": {
+    "href": "/wiki/%D8%AE%D8%B6%D9%84"
+  },
+  "خط": {
+    "href": "/wiki/%D8%AE%D8%B7"
+  },
+  "خطئ": {
+    "href": "/wiki/%D8%AE%D8%B7%D8%A6"
+  },
+  "خطا": {
+    "href": "/wiki/%D8%AE%D8%B7%D8%A7"
+  },
+  "خطب": {
+    "href": "/wiki/%D8%AE%D8%B7%D8%A8"
+  },
+  "خطر": {
+    "href": "/wiki/%D8%AE%D8%B7%D8%B1"
+  },
+  "خطف": {
+    "href": "/wiki/%D8%AE%D8%B7%D9%81"
+  },
+  "خطم": {
+    "href": "/wiki/%D8%AE%D8%B7%D9%85"
+  },
+  "خف": {
+    "href": "/wiki/%D8%AE%D9%81"
+  },
+  "خفت": {
+    "href": "/wiki/%D8%AE%D9%81%D8%AA"
+  },
+  "خفر": {
+    "href": "/wiki/%D8%AE%D9%81%D8%B1"
+  },
+  "خفض": {
+    "href": "/wiki/%D8%AE%D9%81%D8%B6"
+  },
+  "خفق": {
+    "href": "/wiki/%D8%AE%D9%81%D9%82"
+  },
+  "خفى": {
+    "href": "/wiki/%D8%AE%D9%81%D9%89"
+  },
+  "خفي": {
+    "href": "/wiki/%D8%AE%D9%81%D9%8A"
+  },
+  "خل": {
+    "href": "/wiki/%D8%AE%D9%84"
+  },
+  "خلا": {
+    "href": "/wiki/%D8%AE%D9%84%D8%A7"
+  },
+  "خلب": {
+    "href": "/wiki/%D8%AE%D9%84%D8%A8"
+  },
+  "خلد": {
+    "href": "/wiki/%D8%AE%D9%84%D8%AF"
+  },
+  "خلس": {
+    "href": "/wiki/%D8%AE%D9%84%D8%B3"
+  },
+  "خلص": {
+    "href": "/wiki/%D8%AE%D9%84%D8%B5"
+  },
+  "خلط": {
+    "href": "/wiki/%D8%AE%D9%84%D8%B7"
+  },
+  "خلع": {
+    "href": "/wiki/%D8%AE%D9%84%D8%B9"
+  },
+  "خلف": {
+    "href": "/wiki/%D8%AE%D9%84%D9%81"
+  },
+  "خلق": {
+    "href": "/wiki/%D8%AE%D9%84%D9%82"
+  },
+  "خم": {
+    "href": "/wiki/%D8%AE%D9%85"
+  },
+  "خمد": {
+    "href": "/wiki/%D8%AE%D9%85%D8%AF"
+  },
+  "خمر": {
+    "href": "/wiki/%D8%AE%D9%85%D8%B1"
+  },
+  "خمط": {
+    "href": "/wiki/%D8%AE%D9%85%D8%B7"
+  },
+  "خمع": {
+    "href": "/wiki/%D8%AE%D9%85%D8%B9"
+  },
+  "خمل": {
+    "href": "/wiki/%D8%AE%D9%85%D9%84"
+  },
+  "خمن": {
+    "href": "/wiki/%D8%AE%D9%85%D9%86"
+  },
+  "خن": {
+    "href": "/wiki/%D8%AE%D9%86"
+  },
+  "خنب": {
+    "href": "/wiki/%D8%AE%D9%86%D8%A8"
+  },
+  "خنس": {
+    "href": "/wiki/%D8%AE%D9%86%D8%B3"
+  },
+  "خنق": {
+    "href": "/wiki/%D8%AE%D9%86%D9%82"
+  },
+  "خور": {
+    "href": "/wiki/%D8%AE%D9%88%D8%B1"
+  },
+  "خوص": {
+    "href": "/wiki/%D8%AE%D9%88%D8%B5"
+  },
+  "خوى": {
+    "href": "/wiki/%D8%AE%D9%88%D9%89"
+  },
+  "خوي": {
+    "href": "/wiki/%D8%AE%D9%88%D9%8A"
+  },
+  "دأب": {
+    "href": "/wiki/%D8%AF%D8%A3%D8%A8"
+  },
+  "داث": {
+    "href": "/wiki/%D8%AF%D8%A7%D8%AB"
+  },
+  "داخ": {
+    "href": "/wiki/%D8%AF%D8%A7%D8%AE"
+  },
+  "دار": {
+    "href": "/wiki/%D8%AF%D8%A7%D8%B1"
+  },
+  "داس": {
+    "href": "/wiki/%D8%AF%D8%A7%D8%B3"
+  },
+  "دام": {
+    "href": "/wiki/%D8%AF%D8%A7%D9%85"
+  },
+  "دان": {
+    "href": "/wiki/%D8%AF%D8%A7%D9%86"
+  },
+  "دب": {
+    "href": "/wiki/%D8%AF%D8%A8"
+  },
+  "دبر": {
+    "href": "/wiki/%D8%AF%D8%A8%D8%B1"
+  },
+  "دبش": {
+    "href": "/wiki/%D8%AF%D8%A8%D8%B4"
+  },
+  "دبغ": {
+    "href": "/wiki/%D8%AF%D8%A8%D8%BA"
+  },
+  "دبق": {
+    "href": "/wiki/%D8%AF%D8%A8%D9%82"
+  },
+  "دجا": {
+    "href": "/wiki/%D8%AF%D8%AC%D8%A7"
+  },
+  "دجر": {
+    "href": "/wiki/%D8%AF%D8%AC%D8%B1"
+  },
+  "دجن": {
+    "href": "/wiki/%D8%AF%D8%AC%D9%86"
+  },
+  "دحا": {
+    "href": "/wiki/%D8%AF%D8%AD%D8%A7"
+  },
+  "دخل": {
+    "href": "/wiki/%D8%AF%D8%AE%D9%84"
+  },
+  "دخن": {
+    "href": "/wiki/%D8%AF%D8%AE%D9%86"
+  },
+  "در": {
+    "href": "/wiki/%D8%AF%D8%B1"
+  },
+  "درأ": {
+    "href": "/wiki/%D8%AF%D8%B1%D8%A3"
+  },
+  "درب": {
+    "href": "/wiki/%D8%AF%D8%B1%D8%A8"
+  },
+  "درج": {
+    "href": "/wiki/%D8%AF%D8%B1%D8%AC"
+  },
+  "درز": {
+    "href": "/wiki/%D8%AF%D8%B1%D8%B2"
+  },
+  "درس": {
+    "href": "/wiki/%D8%AF%D8%B1%D8%B3"
+  },
+  "درى": {
+    "href": "/wiki/%D8%AF%D8%B1%D9%89"
+  },
+  "دس": {
+    "href": "/wiki/%D8%AF%D8%B3"
+  },
+  "دسم": {
+    "href": "/wiki/%D8%AF%D8%B3%D9%85"
+  },
+  "دع": {
+    "href": "/wiki/%D8%AF%D8%B9"
+  },
+  "دعا": {
+    "href": "/wiki/%D8%AF%D8%B9%D8%A7"
+  },
+  "دعس": {
+    "href": "/wiki/%D8%AF%D8%B9%D8%B3"
+  },
+  "دعك": {
+    "href": "/wiki/%D8%AF%D8%B9%D9%83"
+  },
+  "دعم": {
+    "href": "/wiki/%D8%AF%D8%B9%D9%85"
+  },
+  "دف": {
+    "href": "/wiki/%D8%AF%D9%81"
+  },
+  "دفع": {
+    "href": "/wiki/%D8%AF%D9%81%D8%B9"
+  },
+  "دفق": {
+    "href": "/wiki/%D8%AF%D9%81%D9%82"
+  },
+  "دفن": {
+    "href": "/wiki/%D8%AF%D9%81%D9%86"
+  },
+  "دق": {
+    "href": "/wiki/%D8%AF%D9%82"
+  },
+  "دقع": {
+    "href": "/wiki/%D8%AF%D9%82%D8%B9"
+  },
+  "دك": {
+    "href": "/wiki/%D8%AF%D9%83"
+  },
+  "دل": {
+    "href": "/wiki/%D8%AF%D9%84"
+  },
+  "دلع": {
+    "href": "/wiki/%D8%AF%D9%84%D8%B9"
+  },
+  "دلف": {
+    "href": "/wiki/%D8%AF%D9%84%D9%81"
+  },
+  "دلق": {
+    "href": "/wiki/%D8%AF%D9%84%D9%82"
+  },
+  "دلك": {
+    "href": "/wiki/%D8%AF%D9%84%D9%83"
+  },
+  "دم": {
+    "href": "/wiki/%D8%AF%D9%85"
+  },
+  "دمج": {
+    "href": "/wiki/%D8%AF%D9%85%D8%AC"
+  },
+  "دمس": {
+    "href": "/wiki/%D8%AF%D9%85%D8%B3"
+  },
+  "دمع": {
+    "href": "/wiki/%D8%AF%D9%85%D8%B9"
+  },
+  "دمغ": {
+    "href": "/wiki/%D8%AF%D9%85%D8%BA"
+  },
+  "دمل": {
+    "href": "/wiki/%D8%AF%D9%85%D9%84"
+  },
+  "دمن": {
+    "href": "/wiki/%D8%AF%D9%85%D9%86"
+  },
+  "دمي": {
+    "href": "/wiki/%D8%AF%D9%85%D9%8A"
+  },
+  "دنا": {
+    "href": "/wiki/%D8%AF%D9%86%D8%A7"
+  },
+  "دهر": {
+    "href": "/wiki/%D8%AF%D9%87%D8%B1"
+  },
+  "دهس": {
+    "href": "/wiki/%D8%AF%D9%87%D8%B3"
+  },
+  "دهش": {
+    "href": "/wiki/%D8%AF%D9%87%D8%B4"
+  },
+  "دهم": {
+    "href": "/wiki/%D8%AF%D9%87%D9%85"
+  },
+  "دهن": {
+    "href": "/wiki/%D8%AF%D9%87%D9%86"
+  },
+  "دهي": {
+    "href": "/wiki/%D8%AF%D9%87%D9%8A"
+  },
+  "دوى": {
+    "href": "/wiki/%D8%AF%D9%88%D9%89"
+  },
+  "ذاب": {
+    "href": "/wiki/%D8%B0%D8%A7%D8%A8"
+  },
+  "ذاد": {
+    "href": "/wiki/%D8%B0%D8%A7%D8%AF"
+  },
+  "ذاق": {
+    "href": "/wiki/%D8%B0%D8%A7%D9%82"
+  },
+  "ذبح": {
+    "href": "/wiki/%D8%B0%D8%A8%D8%AD"
+  },
+  "ذخر": {
+    "href": "/wiki/%D8%B0%D8%AE%D8%B1"
+  },
+  "ذر": {
+    "href": "/wiki/%D8%B0%D8%B1"
+  },
+  "ذرأ": {
+    "href": "/wiki/%D8%B0%D8%B1%D8%A3"
+  },
+  "ذرا": {
+    "href": "/wiki/%D8%B0%D8%B1%D8%A7"
+  },
+  "ذرف": {
+    "href": "/wiki/%D8%B0%D8%B1%D9%81"
+  },
+  "ذرق": {
+    "href": "/wiki/%D8%B0%D8%B1%D9%82"
+  },
+  "ذرى": {
+    "href": "/wiki/%D8%B0%D8%B1%D9%89"
+  },
+  "ذعن": {
+    "href": "/wiki/%D8%B0%D8%B9%D9%86"
+  },
+  "ذكر": {
+    "href": "/wiki/%D8%B0%D9%83%D8%B1"
+  },
+  "ذكي": {
+    "href": "/wiki/%D8%B0%D9%83%D9%8A"
+  },
+  "ذل": {
+    "href": "/wiki/%D8%B0%D9%84"
+  },
+  "ذم": {
+    "href": "/wiki/%D8%B0%D9%85"
+  },
+  "ذنب": {
+    "href": "/wiki/%D8%B0%D9%86%D8%A8"
+  },
+  "ذهب": {
+    "href": "/wiki/%D8%B0%D9%87%D8%A8"
+  },
+  "ذهل": {
+    "href": "/wiki/%D8%B0%D9%87%D9%84"
+  },
+  "رأس": {
+    "href": "/wiki/%D8%B1%D8%A3%D8%B3"
+  },
+  "رأف": {
+    "href": "/wiki/%D8%B1%D8%A3%D9%81"
+  },
+  "رأى": {
+    "href": "/wiki/%D8%B1%D8%A3%D9%89"
+  },
+  "راب": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%A8"
+  },
+  "راث": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%AB"
+  },
+  "راج": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%AC"
+  },
+  "راح": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%AD"
+  },
+  "راع": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%B9"
+  },
+  "راغ": {
+    "href": "/wiki/%D8%B1%D8%A7%D8%BA"
+  },
+  "راق": {
+    "href": "/wiki/%D8%B1%D8%A7%D9%82"
+  },
+  "رام": {
+    "href": "/wiki/%D8%B1%D8%A7%D9%85"
+  },
+  "ران": {
+    "href": "/wiki/%D8%B1%D8%A7%D9%86"
+  },
+  "رب": {
+    "href": "/wiki/%D8%B1%D8%A8"
+  },
+  "ربا": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%A7"
+  },
+  "ربح": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%AD"
+  },
+  "ربد": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%AF"
+  },
+  "ربش": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%B4"
+  },
+  "ربض": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%B6"
+  },
+  "ربط": {
+    "href": "/wiki/%D8%B1%D8%A8%D8%B7"
+  },
+  "رتب": {
+    "href": "/wiki/%D8%B1%D8%AA%D8%A8"
+  },
+  "رتع": {
+    "href": "/wiki/%D8%B1%D8%AA%D8%B9"
+  },
+  "رتل": {
+    "href": "/wiki/%D8%B1%D8%AA%D9%84"
+  },
+  "رتم": {
+    "href": "/wiki/%D8%B1%D8%AA%D9%85"
+  },
+  "رثى": {
+    "href": "/wiki/%D8%B1%D8%AB%D9%89"
+  },
+  "رج": {
+    "href": "/wiki/%D8%B1%D8%AC"
+  },
+  "رجا": {
+    "href": "/wiki/%D8%B1%D8%AC%D8%A7"
+  },
+  "رجح": {
+    "href": "/wiki/%D8%B1%D8%AC%D8%AD"
+  },
+  "رجس": {
+    "href": "/wiki/%D8%B1%D8%AC%D8%B3"
+  },
+  "رجع": {
+    "href": "/wiki/%D8%B1%D8%AC%D8%B9"
+  },
+  "رجف": {
+    "href": "/wiki/%D8%B1%D8%AC%D9%81"
+  },
+  "رجل": {
+    "href": "/wiki/%D8%B1%D8%AC%D9%84"
+  },
+  "رجم": {
+    "href": "/wiki/%D8%B1%D8%AC%D9%85"
+  },
+  "رحا": {
+    "href": "/wiki/%D8%B1%D8%AD%D8%A7"
+  },
+  "رحب": {
+    "href": "/wiki/%D8%B1%D8%AD%D8%A8"
+  },
+  "رحض": {
+    "href": "/wiki/%D8%B1%D8%AD%D8%B6"
+  },
+  "رحل": {
+    "href": "/wiki/%D8%B1%D8%AD%D9%84"
+  },
+  "رحم": {
+    "href": "/wiki/%D8%B1%D8%AD%D9%85"
+  },
+  "رحى": {
+    "href": "/wiki/%D8%B1%D8%AD%D9%89"
+  },
+  "رخ": {
+    "href": "/wiki/%D8%B1%D8%AE"
+  },
+  "رخم": {
+    "href": "/wiki/%D8%B1%D8%AE%D9%85"
+  },
+  "رخو": {
+    "href": "/wiki/%D8%B1%D8%AE%D9%88"
+  },
+  "رد": {
+    "href": "/wiki/%D8%B1%D8%AF"
+  },
+  "ردع": {
+    "href": "/wiki/%D8%B1%D8%AF%D8%B9"
+  },
+  "ردف": {
+    "href": "/wiki/%D8%B1%D8%AF%D9%81"
+  },
+  "ردم": {
+    "href": "/wiki/%D8%B1%D8%AF%D9%85"
+  },
+  "ردن": {
+    "href": "/wiki/%D8%B1%D8%AF%D9%86"
+  },
+  "ردي": {
+    "href": "/wiki/%D8%B1%D8%AF%D9%8A"
+  },
+  "رذ": {
+    "href": "/wiki/%D8%B1%D8%B0"
+  },
+  "رز": {
+    "href": "/wiki/%D8%B1%D8%B2"
+  },
+  "رزق": {
+    "href": "/wiki/%D8%B1%D8%B2%D9%82"
+  },
+  "رسا": {
+    "href": "/wiki/%D8%B1%D8%B3%D8%A7"
+  },
+  "رسب": {
+    "href": "/wiki/%D8%B1%D8%B3%D8%A8"
+  },
+  "رسخ": {
+    "href": "/wiki/%D8%B1%D8%B3%D8%AE"
+  },
+  "رسم": {
+    "href": "/wiki/%D8%B1%D8%B3%D9%85"
+  },
+  "رسن": {
+    "href": "/wiki/%D8%B1%D8%B3%D9%86"
+  },
+  "رش": {
+    "href": "/wiki/%D8%B1%D8%B4"
+  },
+  "رشا": {
+    "href": "/wiki/%D8%B1%D8%B4%D8%A7"
+  },
+  "رشح": {
+    "href": "/wiki/%D8%B1%D8%B4%D8%AD"
+  },
+  "رشد": {
+    "href": "/wiki/%D8%B1%D8%B4%D8%AF"
+  },
+  "رشف": {
+    "href": "/wiki/%D8%B1%D8%B4%D9%81"
+  },
+  "رشق": {
+    "href": "/wiki/%D8%B1%D8%B4%D9%82"
+  },
+  "رص": {
+    "href": "/wiki/%D8%B1%D8%B5"
+  },
+  "رصد": {
+    "href": "/wiki/%D8%B1%D8%B5%D8%AF"
+  },
+  "رصف": {
+    "href": "/wiki/%D8%B1%D8%B5%D9%81"
+  },
+  "رض": {
+    "href": "/wiki/%D8%B1%D8%B6"
+  },
+  "رضع": {
+    "href": "/wiki/%D8%B1%D8%B6%D8%B9"
+  },
+  "رضي": {
+    "href": "/wiki/%D8%B1%D8%B6%D9%8A"
+  },
+  "رعب": {
+    "href": "/wiki/%D8%B1%D8%B9%D8%A8"
+  },
+  "رعد": {
+    "href": "/wiki/%D8%B1%D8%B9%D8%AF"
+  },
+  "رعن": {
+    "href": "/wiki/%D8%B1%D8%B9%D9%86"
+  },
+  "رعى": {
+    "href": "/wiki/%D8%B1%D8%B9%D9%89"
+  },
+  "رغب": {
+    "href": "/wiki/%D8%B1%D8%BA%D8%A8"
+  },
+  "رف": {
+    "href": "/wiki/%D8%B1%D9%81"
+  },
+  "رفأ": {
+    "href": "/wiki/%D8%B1%D9%81%D8%A3"
+  },
+  "رفس": {
+    "href": "/wiki/%D8%B1%D9%81%D8%B3"
+  },
+  "رفض": {
+    "href": "/wiki/%D8%B1%D9%81%D8%B6"
+  },
+  "رفع": {
+    "href": "/wiki/%D8%B1%D9%81%D8%B9"
+  },
+  "رفق": {
+    "href": "/wiki/%D8%B1%D9%81%D9%82"
+  },
+  "رفه": {
+    "href": "/wiki/%D8%B1%D9%81%D9%87"
+  },
+  "رق": {
+    "href": "/wiki/%D8%B1%D9%82"
+  },
+  "رقب": {
+    "href": "/wiki/%D8%B1%D9%82%D8%A8"
+  },
+  "رقد": {
+    "href": "/wiki/%D8%B1%D9%82%D8%AF"
+  },
+  "رقص": {
+    "href": "/wiki/%D8%B1%D9%82%D8%B5"
+  },
+  "رقع": {
+    "href": "/wiki/%D8%B1%D9%82%D8%B9"
+  },
+  "رقم": {
+    "href": "/wiki/%D8%B1%D9%82%D9%85"
+  },
+  "رقى": {
+    "href": "/wiki/%D8%B1%D9%82%D9%89"
+  },
+  "رقي": {
+    "href": "/wiki/%D8%B1%D9%82%D9%8A"
+  },
+  "رك": {
+    "href": "/wiki/%D8%B1%D9%83"
+  },
+  "ركب": {
+    "href": "/wiki/%D8%B1%D9%83%D8%A8"
+  },
+  "ركز": {
+    "href": "/wiki/%D8%B1%D9%83%D8%B2"
+  },
+  "ركض": {
+    "href": "/wiki/%D8%B1%D9%83%D8%B6"
+  },
+  "ركع": {
+    "href": "/wiki/%D8%B1%D9%83%D8%B9"
+  },
+  "ركل": {
+    "href": "/wiki/%D8%B1%D9%83%D9%84"
+  },
+  "رم": {
+    "href": "/wiki/%D8%B1%D9%85"
+  },
+  "رمث": {
+    "href": "/wiki/%D8%B1%D9%85%D8%AB"
+  },
+  "رمح": {
+    "href": "/wiki/%D8%B1%D9%85%D8%AD"
+  },
+  "رمز": {
+    "href": "/wiki/%D8%B1%D9%85%D8%B2"
+  },
+  "رمس": {
+    "href": "/wiki/%D8%B1%D9%85%D8%B3"
+  },
+  "رمش": {
+    "href": "/wiki/%D8%B1%D9%85%D8%B4"
+  },
+  "رمص": {
+    "href": "/wiki/%D8%B1%D9%85%D8%B5"
+  },
+  "رمق": {
+    "href": "/wiki/%D8%B1%D9%85%D9%82"
+  },
+  "رمل": {
+    "href": "/wiki/%D8%B1%D9%85%D9%84"
+  },
+  "رمى": {
+    "href": "/wiki/%D8%B1%D9%85%D9%89"
+  },
+  "رن": {
+    "href": "/wiki/%D8%B1%D9%86"
+  },
+  "رنا": {
+    "href": "/wiki/%D8%B1%D9%86%D8%A7"
+  },
+  "رهب": {
+    "href": "/wiki/%D8%B1%D9%87%D8%A8"
+  },
+  "رهط": {
+    "href": "/wiki/%D8%B1%D9%87%D8%B7"
+  },
+  "رهل": {
+    "href": "/wiki/%D8%B1%D9%87%D9%84"
+  },
+  "رهن": {
+    "href": "/wiki/%D8%B1%D9%87%D9%86"
+  },
+  "روى": {
+    "href": "/wiki/%D8%B1%D9%88%D9%89"
+  },
+  "روي": {
+    "href": "/wiki/%D8%B1%D9%88%D9%8A"
+  },
+  "زأر": {
+    "href": "/wiki/%D8%B2%D8%A3%D8%B1"
+  },
+  "زأم": {
+    "href": "/wiki/%D8%B2%D8%A3%D9%85"
+  },
+  "زئر": {
+    "href": "/wiki/%D8%B2%D8%A6%D8%B1"
+  },
+  "زئم": {
+    "href": "/wiki/%D8%B2%D8%A6%D9%85"
+  },
+  "زاح": {
+    "href": "/wiki/%D8%B2%D8%A7%D8%AD"
+  },
+  "زاد": {
+    "href": "/wiki/%D8%B2%D8%A7%D8%AF"
+  },
+  "زاد الطين بلة": {
+    "href": "/wiki/%D8%B2%D8%A7%D8%AF_%D8%A7%D9%84%D8%B7%D9%8A%D9%86_%D8%A8%D9%84%D8%A9"
+  },
+  "زار": {
+    "href": "/wiki/%D8%B2%D8%A7%D8%B1"
+  },
+  "زاغ": {
+    "href": "/wiki/%D8%B2%D8%A7%D8%BA"
+  },
+  "زاف": {
+    "href": "/wiki/%D8%B2%D8%A7%D9%81"
+  },
+  "زال": {
+    "href": "/wiki/%D8%B2%D8%A7%D9%84"
+  },
+  "زان": {
+    "href": "/wiki/%D8%B2%D8%A7%D9%86"
+  },
+  "زب": {
+    "href": "/wiki/%D8%B2%D8%A8"
+  },
+  "زبد": {
+    "href": "/wiki/%D8%B2%D8%A8%D8%AF"
+  },
+  "زبر": {
+    "href": "/wiki/%D8%B2%D8%A8%D8%B1"
+  },
+  "زبط": {
+    "href": "/wiki/%D8%B2%D8%A8%D8%B7"
+  },
+  "زج": {
+    "href": "/wiki/%D8%B2%D8%AC"
+  },
+  "زجر": {
+    "href": "/wiki/%D8%B2%D8%AC%D8%B1"
+  },
+  "زحر": {
+    "href": "/wiki/%D8%B2%D8%AD%D8%B1"
+  },
+  "زحف": {
+    "href": "/wiki/%D8%B2%D8%AD%D9%81"
+  },
+  "زحل": {
+    "href": "/wiki/%D8%B2%D8%AD%D9%84"
+  },
+  "زحم": {
+    "href": "/wiki/%D8%B2%D8%AD%D9%85"
+  },
+  "زخ": {
+    "href": "/wiki/%D8%B2%D8%AE"
+  },
+  "زر": {
+    "href": "/wiki/%D8%B2%D8%B1"
+  },
+  "زرد": {
+    "href": "/wiki/%D8%B2%D8%B1%D8%AF"
+  },
+  "زرع": {
+    "href": "/wiki/%D8%B2%D8%B1%D8%B9"
+  },
+  "زرق": {
+    "href": "/wiki/%D8%B2%D8%B1%D9%82"
+  },
+  "زعط": {
+    "href": "/wiki/%D8%B2%D8%B9%D8%B7"
+  },
+  "زعل": {
+    "href": "/wiki/%D8%B2%D8%B9%D9%84"
+  },
+  "زعم": {
+    "href": "/wiki/%D8%B2%D8%B9%D9%85"
+  },
+  "زف": {
+    "href": "/wiki/%D8%B2%D9%81"
+  },
+  "زفر": {
+    "href": "/wiki/%D8%B2%D9%81%D8%B1"
+  },
+  "زفن": {
+    "href": "/wiki/%D8%B2%D9%81%D9%86"
+  },
+  "زق": {
+    "href": "/wiki/%D8%B2%D9%82"
+  },
+  "زكى": {
+    "href": "/wiki/%D8%B2%D9%83%D9%89"
+  },
+  "زكي": {
+    "href": "/wiki/%D8%B2%D9%83%D9%8A"
+  },
+  "زل": {
+    "href": "/wiki/%D8%B2%D9%84"
+  },
+  "زلط": {
+    "href": "/wiki/%D8%B2%D9%84%D8%B7"
+  },
+  "زلف": {
+    "href": "/wiki/%D8%B2%D9%84%D9%81"
+  },
+  "زلق": {
+    "href": "/wiki/%D8%B2%D9%84%D9%82"
+  },
+  "زلم": {
+    "href": "/wiki/%D8%B2%D9%84%D9%85"
+  },
+  "زم": {
+    "href": "/wiki/%D8%B2%D9%85"
+  },
+  "زمر": {
+    "href": "/wiki/%D8%B2%D9%85%D8%B1"
+  },
+  "زنخ": {
+    "href": "/wiki/%D8%B2%D9%86%D8%AE"
+  },
+  "زنر": {
+    "href": "/wiki/%D8%B2%D9%86%D8%B1"
+  },
+  "زنى": {
+    "href": "/wiki/%D8%B2%D9%86%D9%89"
+  },
+  "زها": {
+    "href": "/wiki/%D8%B2%D9%87%D8%A7"
+  },
+  "زهد": {
+    "href": "/wiki/%D8%B2%D9%87%D8%AF"
+  },
+  "زهر": {
+    "href": "/wiki/%D8%B2%D9%87%D8%B1"
+  },
+  "زهق": {
+    "href": "/wiki/%D8%B2%D9%87%D9%82"
+  },
+  "زور": {
+    "href": "/wiki/%D8%B2%D9%88%D8%B1"
+  },
+  "زوى": {
+    "href": "/wiki/%D8%B2%D9%88%D9%89"
+  },
+  "سأف": {
+    "href": "/wiki/%D8%B3%D8%A3%D9%81"
+  },
+  "سأل": {
+    "href": "/wiki/%D8%B3%D8%A3%D9%84"
+  },
+  "سئم": {
+    "href": "/wiki/%D8%B3%D8%A6%D9%85"
+  },
+  "ساء": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%A1"
+  },
+  "ساب": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%A8"
+  },
+  "ساح": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%AD"
+  },
+  "ساد": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%AF"
+  },
+  "سار": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%B1"
+  },
+  "ساس": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%B3"
+  },
+  "ساط": {
+    "href": "/wiki/%D8%B3%D8%A7%D8%B7"
+  },
+  "ساف": {
+    "href": "/wiki/%D8%B3%D8%A7%D9%81"
+  },
+  "ساق": {
+    "href": "/wiki/%D8%B3%D8%A7%D9%82"
+  },
+  "ساك": {
+    "href": "/wiki/%D8%B3%D8%A7%D9%83"
+  },
+  "سال": {
+    "href": "/wiki/%D8%B3%D8%A7%D9%84"
+  },
+  "سام": {
+    "href": "/wiki/%D8%B3%D8%A7%D9%85"
+  },
+  "سب": {
+    "href": "/wiki/%D8%B3%D8%A8"
+  },
+  "سبح": {
+    "href": "/wiki/%D8%B3%D8%A8%D8%AD"
+  },
+  "سبر": {
+    "href": "/wiki/%D8%B3%D8%A8%D8%B1"
+  },
+  "سبط": {
+    "href": "/wiki/%D8%B3%D8%A8%D8%B7"
+  },
+  "سبق": {
+    "href": "/wiki/%D8%B3%D8%A8%D9%82"
+  },
+  "سبى": {
+    "href": "/wiki/%D8%B3%D8%A8%D9%89"
+  },
+  "ستر": {
+    "href": "/wiki/%D8%B3%D8%AA%D8%B1"
+  },
+  "سجا": {
+    "href": "/wiki/%D8%B3%D8%AC%D8%A7"
+  },
+  "سجد": {
+    "href": "/wiki/%D8%B3%D8%AC%D8%AF"
+  },
+  "سجع": {
+    "href": "/wiki/%D8%B3%D8%AC%D8%B9"
+  },
+  "سجن": {
+    "href": "/wiki/%D8%B3%D8%AC%D9%86"
+  },
+  "سح": {
+    "href": "/wiki/%D8%B3%D8%AD"
+  },
+  "سحب": {
+    "href": "/wiki/%D8%B3%D8%AD%D8%A8"
+  },
+  "سحر": {
+    "href": "/wiki/%D8%B3%D8%AD%D8%B1"
+  },
+  "سحق": {
+    "href": "/wiki/%D8%B3%D8%AD%D9%82"
+  },
+  "سحم": {
+    "href": "/wiki/%D8%B3%D8%AD%D9%85"
+  },
+  "سخر": {
+    "href": "/wiki/%D8%B3%D8%AE%D8%B1"
+  },
+  "سخط": {
+    "href": "/wiki/%D8%B3%D8%AE%D8%B7"
+  },
+  "سخل": {
+    "href": "/wiki/%D8%B3%D8%AE%D9%84"
+  },
+  "سخن": {
+    "href": "/wiki/%D8%B3%D8%AE%D9%86"
+  },
+  "سد": {
+    "href": "/wiki/%D8%B3%D8%AF"
+  },
+  "سدر": {
+    "href": "/wiki/%D8%B3%D8%AF%D8%B1"
+  },
+  "سدل": {
+    "href": "/wiki/%D8%B3%D8%AF%D9%84"
+  },
+  "سر": {
+    "href": "/wiki/%D8%B3%D8%B1"
+  },
+  "سرب": {
+    "href": "/wiki/%D8%B3%D8%B1%D8%A8"
+  },
+  "سرج": {
+    "href": "/wiki/%D8%B3%D8%B1%D8%AC"
+  },
+  "سرد": {
+    "href": "/wiki/%D8%B3%D8%B1%D8%AF"
+  },
+  "سرط": {
+    "href": "/wiki/%D8%B3%D8%B1%D8%B7"
+  },
+  "سرع": {
+    "href": "/wiki/%D8%B3%D8%B1%D8%B9"
+  },
+  "سرق": {
+    "href": "/wiki/%D8%B3%D8%B1%D9%82"
+  },
+  "سرى": {
+    "href": "/wiki/%D8%B3%D8%B1%D9%89"
+  },
+  "سطح": {
+    "href": "/wiki/%D8%B3%D8%B7%D8%AD"
+  },
+  "سطر": {
+    "href": "/wiki/%D8%B3%D8%B7%D8%B1"
+  },
+  "سطع": {
+    "href": "/wiki/%D8%B3%D8%B7%D8%B9"
+  },
+  "سطل": {
+    "href": "/wiki/%D8%B3%D8%B7%D9%84"
+  },
+  "سطم": {
+    "href": "/wiki/%D8%B3%D8%B7%D9%85"
+  },
+  "سعد": {
+    "href": "/wiki/%D8%B3%D8%B9%D8%AF"
+  },
+  "سعف": {
+    "href": "/wiki/%D8%B3%D8%B9%D9%81"
+  },
+  "سعل": {
+    "href": "/wiki/%D8%B3%D8%B9%D9%84"
+  },
+  "سعى": {
+    "href": "/wiki/%D8%B3%D8%B9%D9%89"
+  },
+  "سفح": {
+    "href": "/wiki/%D8%B3%D9%81%D8%AD"
+  },
+  "سفر": {
+    "href": "/wiki/%D8%B3%D9%81%D8%B1"
+  },
+  "سفط": {
+    "href": "/wiki/%D8%B3%D9%81%D8%B7"
+  },
+  "سفع": {
+    "href": "/wiki/%D8%B3%D9%81%D8%B9"
+  },
+  "سفك": {
+    "href": "/wiki/%D8%B3%D9%81%D9%83"
+  },
+  "سفن": {
+    "href": "/wiki/%D8%B3%D9%81%D9%86"
+  },
+  "سقط": {
+    "href": "/wiki/%D8%B3%D9%82%D8%B7"
+  },
+  "سقف": {
+    "href": "/wiki/%D8%B3%D9%82%D9%81"
+  },
+  "سقى": {
+    "href": "/wiki/%D8%B3%D9%82%D9%89"
+  },
+  "سك": {
+    "href": "/wiki/%D8%B3%D9%83"
+  },
+  "سكب": {
+    "href": "/wiki/%D8%B3%D9%83%D8%A8"
+  },
+  "سكت": {
+    "href": "/wiki/%D8%B3%D9%83%D8%AA"
+  },
+  "سكر": {
+    "href": "/wiki/%D8%B3%D9%83%D8%B1"
+  },
+  "سكن": {
+    "href": "/wiki/%D8%B3%D9%83%D9%86"
+  },
+  "سل": {
+    "href": "/wiki/%D8%B3%D9%84"
+  },
+  "سلا": {
+    "href": "/wiki/%D8%B3%D9%84%D8%A7"
+  },
+  "سلب": {
+    "href": "/wiki/%D8%B3%D9%84%D8%A8"
+  },
+  "سلح": {
+    "href": "/wiki/%D8%B3%D9%84%D8%AD"
+  },
+  "سلخ": {
+    "href": "/wiki/%D8%B3%D9%84%D8%AE"
+  },
+  "سلف": {
+    "href": "/wiki/%D8%B3%D9%84%D9%81"
+  },
+  "سلق": {
+    "href": "/wiki/%D8%B3%D9%84%D9%82"
+  },
+  "سلك": {
+    "href": "/wiki/%D8%B3%D9%84%D9%83"
+  },
+  "سلم": {
+    "href": "/wiki/%D8%B3%D9%84%D9%85"
+  },
+  "سم": {
+    "href": "/wiki/%D8%B3%D9%85"
+  },
+  "سما": {
+    "href": "/wiki/%D8%B3%D9%85%D8%A7"
+  },
+  "سمج": {
+    "href": "/wiki/%D8%B3%D9%85%D8%AC"
+  },
+  "سمح": {
+    "href": "/wiki/%D8%B3%D9%85%D8%AD"
+  },
+  "سمد": {
+    "href": "/wiki/%D8%B3%D9%85%D8%AF"
+  },
+  "سمر": {
+    "href": "/wiki/%D8%B3%D9%85%D8%B1"
+  },
+  "سمط": {
+    "href": "/wiki/%D8%B3%D9%85%D8%B7"
+  },
+  "سمع": {
+    "href": "/wiki/%D8%B3%D9%85%D8%B9"
+  },
+  "سمن": {
+    "href": "/wiki/%D8%B3%D9%85%D9%86"
+  },
+  "سن": {
+    "href": "/wiki/%D8%B3%D9%86"
+  },
+  "سنا": {
+    "href": "/wiki/%D8%B3%D9%86%D8%A7"
+  },
+  "سنح": {
+    "href": "/wiki/%D8%B3%D9%86%D8%AD"
+  },
+  "سند": {
+    "href": "/wiki/%D8%B3%D9%86%D8%AF"
+  },
+  "سها": {
+    "href": "/wiki/%D8%B3%D9%87%D8%A7"
+  },
+  "سهر": {
+    "href": "/wiki/%D8%B3%D9%87%D8%B1"
+  },
+  "سهل": {
+    "href": "/wiki/%D8%B3%D9%87%D9%84"
+  },
+  "سود": {
+    "href": "/wiki/%D8%B3%D9%88%D8%AF"
+  },
+  "سوس": {
+    "href": "/wiki/%D8%B3%D9%88%D8%B3"
+  },
+  "سوي": {
+    "href": "/wiki/%D8%B3%D9%88%D9%8A"
+  },
+  "شاء": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%A1"
+  },
+  "شاب": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%A8"
+  },
+  "شاخ": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%AE"
+  },
+  "شاص": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%B5"
+  },
+  "شاط": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%B7"
+  },
+  "شاع": {
+    "href": "/wiki/%D8%B4%D8%A7%D8%B9"
+  },
+  "شاف": {
+    "href": "/wiki/%D8%B4%D8%A7%D9%81"
+  },
+  "شاق": {
+    "href": "/wiki/%D8%B4%D8%A7%D9%82"
+  },
+  "شال": {
+    "href": "/wiki/%D8%B4%D8%A7%D9%84"
+  },
+  "شام": {
+    "href": "/wiki/%D8%B4%D8%A7%D9%85"
+  },
+  "شاه": {
+    "href": "/wiki/%D8%B4%D8%A7%D9%87"
+  },
+  "شب": {
+    "href": "/wiki/%D8%B4%D8%A8"
+  },
+  "شبح": {
+    "href": "/wiki/%D8%B4%D8%A8%D8%AD"
+  },
+  "شبر": {
+    "href": "/wiki/%D8%B4%D8%A8%D8%B1"
+  },
+  "شبط": {
+    "href": "/wiki/%D8%B4%D8%A8%D8%B7"
+  },
+  "شبع": {
+    "href": "/wiki/%D8%B4%D8%A8%D8%B9"
+  },
+  "شبه": {
+    "href": "/wiki/%D8%B4%D8%A8%D9%87"
+  },
+  "شتا": {
+    "href": "/wiki/%D8%B4%D8%AA%D8%A7"
+  },
+  "شتل": {
+    "href": "/wiki/%D8%B4%D8%AA%D9%84"
+  },
+  "شتم": {
+    "href": "/wiki/%D8%B4%D8%AA%D9%85"
+  },
+  "شج": {
+    "href": "/wiki/%D8%B4%D8%AC"
+  },
+  "شجا": {
+    "href": "/wiki/%D8%B4%D8%AC%D8%A7"
+  },
+  "شجب": {
+    "href": "/wiki/%D8%B4%D8%AC%D8%A8"
+  },
+  "شجر": {
+    "href": "/wiki/%D8%B4%D8%AC%D8%B1"
+  },
+  "شجع": {
+    "href": "/wiki/%D8%B4%D8%AC%D8%B9"
+  },
+  "شحذ": {
+    "href": "/wiki/%D8%B4%D8%AD%D8%B0"
+  },
+  "شحط": {
+    "href": "/wiki/%D8%B4%D8%AD%D8%B7"
+  },
+  "شحم": {
+    "href": "/wiki/%D8%B4%D8%AD%D9%85"
+  },
+  "شحن": {
+    "href": "/wiki/%D8%B4%D8%AD%D9%86"
+  },
+  "شخر": {
+    "href": "/wiki/%D8%B4%D8%AE%D8%B1"
+  },
+  "شخص": {
+    "href": "/wiki/%D8%B4%D8%AE%D8%B5"
+  },
+  "شد": {
+    "href": "/wiki/%D8%B4%D8%AF"
+  },
+  "شدا": {
+    "href": "/wiki/%D8%B4%D8%AF%D8%A7"
+  },
+  "شدق": {
+    "href": "/wiki/%D8%B4%D8%AF%D9%82"
+  },
+  "شذا": {
+    "href": "/wiki/%D8%B4%D8%B0%D8%A7"
+  },
+  "شر": {
+    "href": "/wiki/%D8%B4%D8%B1"
+  },
+  "شرب": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%A8"
+  },
+  "شرج": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%AC"
+  },
+  "شرح": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%AD"
+  },
+  "شرخ": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%AE"
+  },
+  "شرد": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%AF"
+  },
+  "شرس": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%B3"
+  },
+  "شرط": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%B7"
+  },
+  "شرع": {
+    "href": "/wiki/%D8%B4%D8%B1%D8%B9"
+  },
+  "شرف": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%81"
+  },
+  "شرق": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%82"
+  },
+  "شرك": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%83"
+  },
+  "شرم": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%85"
+  },
+  "شره": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%87"
+  },
+  "شرى": {
+    "href": "/wiki/%D8%B4%D8%B1%D9%89"
+  },
+  "شزر": {
+    "href": "/wiki/%D8%B4%D8%B2%D8%B1"
+  },
+  "شط": {
+    "href": "/wiki/%D8%B4%D8%B7"
+  },
+  "شطب": {
+    "href": "/wiki/%D8%B4%D8%B7%D8%A8"
+  },
+  "شطر": {
+    "href": "/wiki/%D8%B4%D8%B7%D8%B1"
+  },
+  "شطف": {
+    "href": "/wiki/%D8%B4%D8%B7%D9%81"
+  },
+  "شع": {
+    "href": "/wiki/%D8%B4%D8%B9"
+  },
+  "شعب": {
+    "href": "/wiki/%D8%B4%D8%B9%D8%A8"
+  },
+  "شعر": {
+    "href": "/wiki/%D8%B4%D8%B9%D8%B1"
+  },
+  "شعل": {
+    "href": "/wiki/%D8%B4%D8%B9%D9%84"
+  },
+  "شغر": {
+    "href": "/wiki/%D8%B4%D8%BA%D8%B1"
+  },
+  "شغف": {
+    "href": "/wiki/%D8%B4%D8%BA%D9%81"
+  },
+  "شغل": {
+    "href": "/wiki/%D8%B4%D8%BA%D9%84"
+  },
+  "شف": {
+    "href": "/wiki/%D8%B4%D9%81"
+  },
+  "شفا": {
+    "href": "/wiki/%D8%B4%D9%81%D8%A7"
+  },
+  "شفط": {
+    "href": "/wiki/%D8%B4%D9%81%D8%B7"
+  },
+  "شفع": {
+    "href": "/wiki/%D8%B4%D9%81%D8%B9"
+  },
+  "شفق": {
+    "href": "/wiki/%D8%B4%D9%81%D9%82"
+  },
+  "شفى": {
+    "href": "/wiki/%D8%B4%D9%81%D9%89"
+  },
+  "شفي": {
+    "href": "/wiki/%D8%B4%D9%81%D9%8A"
+  },
+  "شق": {
+    "href": "/wiki/%D8%B4%D9%82"
+  },
+  "شقي": {
+    "href": "/wiki/%D8%B4%D9%82%D9%8A"
+  },
+  "شك": {
+    "href": "/wiki/%D8%B4%D9%83"
+  },
+  "شكا": {
+    "href": "/wiki/%D8%B4%D9%83%D8%A7"
+  },
+  "شكر": {
+    "href": "/wiki/%D8%B4%D9%83%D8%B1"
+  },
+  "شكس": {
+    "href": "/wiki/%D8%B4%D9%83%D8%B3"
+  },
+  "شكل": {
+    "href": "/wiki/%D8%B4%D9%83%D9%84"
+  },
+  "شكم": {
+    "href": "/wiki/%D8%B4%D9%83%D9%85"
+  },
+  "شل": {
+    "href": "/wiki/%D8%B4%D9%84"
+  },
+  "شلح": {
+    "href": "/wiki/%D8%B4%D9%84%D8%AD"
+  },
+  "شم": {
+    "href": "/wiki/%D8%B4%D9%85"
+  },
+  "شمت": {
+    "href": "/wiki/%D8%B4%D9%85%D8%AA"
+  },
+  "شمر": {
+    "href": "/wiki/%D8%B4%D9%85%D8%B1"
+  },
+  "شمس": {
+    "href": "/wiki/%D8%B4%D9%85%D8%B3"
+  },
+  "شمع": {
+    "href": "/wiki/%D8%B4%D9%85%D8%B9"
+  },
+  "شمل": {
+    "href": "/wiki/%D8%B4%D9%85%D9%84"
+  },
+  "شن": {
+    "href": "/wiki/%D8%B4%D9%86"
+  },
+  "شنأ": {
+    "href": "/wiki/%D8%B4%D9%86%D8%A3"
+  },
+  "شنئ": {
+    "href": "/wiki/%D8%B4%D9%86%D8%A6"
+  },
+  "شنع": {
+    "href": "/wiki/%D8%B4%D9%86%D8%B9"
+  },
+  "شنق": {
+    "href": "/wiki/%D8%B4%D9%86%D9%82"
+  },
+  "شهد": {
+    "href": "/wiki/%D8%B4%D9%87%D8%AF"
+  },
+  "شهر": {
+    "href": "/wiki/%D8%B4%D9%87%D8%B1"
+  },
+  "شهق": {
+    "href": "/wiki/%D8%B4%D9%87%D9%82"
+  },
+  "شهل": {
+    "href": "/wiki/%D8%B4%D9%87%D9%84"
+  },
+  "شهم": {
+    "href": "/wiki/%D8%B4%D9%87%D9%85"
+  },
+  "شوى": {
+    "href": "/wiki/%D8%B4%D9%88%D9%89"
+  },
+  "صأل": {
+    "href": "/wiki/%D8%B5%D8%A3%D9%84"
+  },
+  "صأم": {
+    "href": "/wiki/%D8%B5%D8%A3%D9%85"
+  },
+  "صأى": {
+    "href": "/wiki/%D8%B5%D8%A3%D9%89"
+  },
+  "صؤل": {
+    "href": "/wiki/%D8%B5%D8%A4%D9%84"
+  },
+  "صئب": {
+    "href": "/wiki/%D8%B5%D8%A6%D8%A8"
+  },
+  "صئك": {
+    "href": "/wiki/%D8%B5%D8%A6%D9%83"
+  },
+  "صئم": {
+    "href": "/wiki/%D8%B5%D8%A6%D9%85"
+  },
+  "صاب": {
+    "href": "/wiki/%D8%B5%D8%A7%D8%A8"
+  },
+  "صاح": {
+    "href": "/wiki/%D8%B5%D8%A7%D8%AD"
+  },
+  "صاد": {
+    "href": "/wiki/%D8%B5%D8%A7%D8%AF"
+  },
+  "صار": {
+    "href": "/wiki/%D8%B5%D8%A7%D8%B1"
+  },
+  "صاغ": {
+    "href": "/wiki/%D8%B5%D8%A7%D8%BA"
+  },
+  "صاف": {
+    "href": "/wiki/%D8%B5%D8%A7%D9%81"
+  },
+  "صال": {
+    "href": "/wiki/%D8%B5%D8%A7%D9%84"
+  },
+  "صام": {
+    "href": "/wiki/%D8%B5%D8%A7%D9%85"
+  },
+  "صان": {
+    "href": "/wiki/%D8%B5%D8%A7%D9%86"
+  },
+  "صب": {
+    "href": "/wiki/%D8%B5%D8%A8"
+  },
+  "صبا": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%A7"
+  },
+  "صبث": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%AB"
+  },
+  "صبح": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%AD"
+  },
+  "صبر": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%B1"
+  },
+  "صبع": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%B9"
+  },
+  "صبغ": {
+    "href": "/wiki/%D8%B5%D8%A8%D8%BA"
+  },
+  "صبن": {
+    "href": "/wiki/%D8%B5%D8%A8%D9%86"
+  },
+  "صت": {
+    "href": "/wiki/%D8%B5%D8%AA"
+  },
+  "صتأ": {
+    "href": "/wiki/%D8%B5%D8%AA%D8%A3"
+  },
+  "صتع": {
+    "href": "/wiki/%D8%B5%D8%AA%D8%B9"
+  },
+  "صتم": {
+    "href": "/wiki/%D8%B5%D8%AA%D9%85"
+  },
+  "صج": {
+    "href": "/wiki/%D8%B5%D8%AC"
+  },
+  "صح": {
+    "href": "/wiki/%D8%B5%D8%AD"
+  },
+  "صحا": {
+    "href": "/wiki/%D8%B5%D8%AD%D8%A7"
+  },
+  "صحب": {
+    "href": "/wiki/%D8%B5%D8%AD%D8%A8"
+  },
+  "صحر": {
+    "href": "/wiki/%D8%B5%D8%AD%D8%B1"
+  },
+  "صحل": {
+    "href": "/wiki/%D8%B5%D8%AD%D9%84"
+  },
+  "صحن": {
+    "href": "/wiki/%D8%B5%D8%AD%D9%86"
+  },
+  "صحي": {
+    "href": "/wiki/%D8%B5%D8%AD%D9%8A"
+  },
+  "صخ": {
+    "href": "/wiki/%D8%B5%D8%AE"
+  },
+  "صخب": {
+    "href": "/wiki/%D8%B5%D8%AE%D8%A8"
+  },
+  "صخد": {
+    "href": "/wiki/%D8%B5%D8%AE%D8%AF"
+  },
+  "صخف": {
+    "href": "/wiki/%D8%B5%D8%AE%D9%81"
+  },
+  "صخم": {
+    "href": "/wiki/%D8%B5%D8%AE%D9%85"
+  },
+  "صد": {
+    "href": "/wiki/%D8%B5%D8%AF"
+  },
+  "صدأ": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%A3"
+  },
+  "صدؤ": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%A4"
+  },
+  "صدئ": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%A6"
+  },
+  "صدح": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%AD"
+  },
+  "صدر": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%B1"
+  },
+  "صدع": {
+    "href": "/wiki/%D8%B5%D8%AF%D8%B9"
+  },
+  "صدف": {
+    "href": "/wiki/%D8%B5%D8%AF%D9%81"
+  },
+  "صدق": {
+    "href": "/wiki/%D8%B5%D8%AF%D9%82"
+  },
+  "صدم": {
+    "href": "/wiki/%D8%B5%D8%AF%D9%85"
+  },
+  "صدي": {
+    "href": "/wiki/%D8%B5%D8%AF%D9%8A"
+  },
+  "صر": {
+    "href": "/wiki/%D8%B5%D8%B1"
+  },
+  "صرب": {
+    "href": "/wiki/%D8%B5%D8%B1%D8%A8"
+  },
+  "صرح": {
+    "href": "/wiki/%D8%B5%D8%B1%D8%AD"
+  },
+  "صرخ": {
+    "href": "/wiki/%D8%B5%D8%B1%D8%AE"
+  },
+  "صرع": {
+    "href": "/wiki/%D8%B5%D8%B1%D8%B9"
+  },
+  "صرف": {
+    "href": "/wiki/%D8%B5%D8%B1%D9%81"
+  },
+  "صرم": {
+    "href": "/wiki/%D8%B5%D8%B1%D9%85"
+  },
+  "صعب": {
+    "href": "/wiki/%D8%B5%D8%B9%D8%A8"
+  },
+  "صعد": {
+    "href": "/wiki/%D8%B5%D8%B9%D8%AF"
+  },
+  "صعق": {
+    "href": "/wiki/%D8%B5%D8%B9%D9%82"
+  },
+  "صغا": {
+    "href": "/wiki/%D8%B5%D8%BA%D8%A7"
+  },
+  "صغر": {
+    "href": "/wiki/%D8%B5%D8%BA%D8%B1"
+  },
+  "صف": {
+    "href": "/wiki/%D8%B5%D9%81"
+  },
+  "صفا": {
+    "href": "/wiki/%D8%B5%D9%81%D8%A7"
+  },
+  "صفح": {
+    "href": "/wiki/%D8%B5%D9%81%D8%AD"
+  },
+  "صفد": {
+    "href": "/wiki/%D8%B5%D9%81%D8%AF"
+  },
+  "صفر": {
+    "href": "/wiki/%D8%B5%D9%81%D8%B1"
+  },
+  "صفع": {
+    "href": "/wiki/%D8%B5%D9%81%D8%B9"
+  },
+  "صفق": {
+    "href": "/wiki/%D8%B5%D9%81%D9%82"
+  },
+  "صقع": {
+    "href": "/wiki/%D8%B5%D9%82%D8%B9"
+  },
+  "صقل": {
+    "href": "/wiki/%D8%B5%D9%82%D9%84"
+  },
+  "صك": {
+    "href": "/wiki/%D8%B5%D9%83"
+  },
+  "صلب": {
+    "href": "/wiki/%D8%B5%D9%84%D8%A8"
+  },
+  "صلح": {
+    "href": "/wiki/%D8%B5%D9%84%D8%AD"
+  },
+  "صلى": {
+    "href": "/wiki/%D8%B5%D9%84%D9%89"
+  },
+  "صلي": {
+    "href": "/wiki/%D8%B5%D9%84%D9%8A"
+  },
+  "صمت": {
+    "href": "/wiki/%D8%B5%D9%85%D8%AA"
+  },
+  "صمد": {
+    "href": "/wiki/%D8%B5%D9%85%D8%AF"
+  },
+  "صن": {
+    "href": "/wiki/%D8%B5%D9%86"
+  },
+  "صنع": {
+    "href": "/wiki/%D8%B5%D9%86%D8%B9"
+  },
+  "صنم": {
+    "href": "/wiki/%D8%B5%D9%86%D9%85"
+  },
+  "صها": {
+    "href": "/wiki/%D8%B5%D9%87%D8%A7"
+  },
+  "صهب": {
+    "href": "/wiki/%D8%B5%D9%87%D8%A8"
+  },
+  "صهد": {
+    "href": "/wiki/%D8%B5%D9%87%D8%AF"
+  },
+  "صهر": {
+    "href": "/wiki/%D8%B5%D9%87%D8%B1"
+  },
+  "صهل": {
+    "href": "/wiki/%D8%B5%D9%87%D9%84"
+  },
+  "صوف": {
+    "href": "/wiki/%D8%B5%D9%88%D9%81"
+  },
+  "ضاء": {
+    "href": "/wiki/%D8%B6%D8%A7%D8%A1"
+  },
+  "ضار": {
+    "href": "/wiki/%D8%B6%D8%A7%D8%B1"
+  },
+  "ضاع": {
+    "href": "/wiki/%D8%B6%D8%A7%D8%B9"
+  },
+  "ضاف": {
+    "href": "/wiki/%D8%B6%D8%A7%D9%81"
+  },
+  "ضاق": {
+    "href": "/wiki/%D8%B6%D8%A7%D9%82"
+  },
+  "ضب": {
+    "href": "/wiki/%D8%B6%D8%A8"
+  },
+  "ضبط": {
+    "href": "/wiki/%D8%B6%D8%A8%D8%B7"
+  },
+  "ضجع": {
+    "href": "/wiki/%D8%B6%D8%AC%D8%B9"
+  },
+  "ضحك": {
+    "href": "/wiki/%D8%B6%D8%AD%D9%83"
+  },
+  "ضخ": {
+    "href": "/wiki/%D8%B6%D8%AE"
+  },
+  "ضخم": {
+    "href": "/wiki/%D8%B6%D8%AE%D9%85"
+  },
+  "ضر": {
+    "href": "/wiki/%D8%B6%D8%B1"
+  },
+  "ضرا": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%A7"
+  },
+  "ضرب": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%A8"
+  },
+  "ضرب في الأرض": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%A8_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6"
+  },
+  "ضرب مثلا": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%A8_%D9%85%D8%AB%D9%84%D8%A7"
+  },
+  "ضرس": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%B3"
+  },
+  "ضرط": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%B7"
+  },
+  "ضرع": {
+    "href": "/wiki/%D8%B6%D8%B1%D8%B9"
+  },
+  "ضرم": {
+    "href": "/wiki/%D8%B6%D8%B1%D9%85"
+  },
+  "ضرى": {
+    "href": "/wiki/%D8%B6%D8%B1%D9%89"
+  },
+  "ضري": {
+    "href": "/wiki/%D8%B6%D8%B1%D9%8A"
+  },
+  "ضعف": {
+    "href": "/wiki/%D8%B6%D8%B9%D9%81"
+  },
+  "ضغط": {
+    "href": "/wiki/%D8%B6%D8%BA%D8%B7"
+  },
+  "ضل": {
+    "href": "/wiki/%D8%B6%D9%84"
+  },
+  "ضلع": {
+    "href": "/wiki/%D8%B6%D9%84%D8%B9"
+  },
+  "ضم": {
+    "href": "/wiki/%D8%B6%D9%85"
+  },
+  "ضمخ": {
+    "href": "/wiki/%D8%B6%D9%85%D8%AE"
+  },
+  "ضمد": {
+    "href": "/wiki/%D8%B6%D9%85%D8%AF"
+  },
+  "ضمر": {
+    "href": "/wiki/%D8%B6%D9%85%D8%B1"
+  },
+  "ضمن": {
+    "href": "/wiki/%D8%B6%D9%85%D9%86"
+  },
+  "ضوى": {
+    "href": "/wiki/%D8%B6%D9%88%D9%89"
+  },
+  "طاب": {
+    "href": "/wiki/%D8%B7%D8%A7%D8%A8"
+  },
+  "طاح": {
+    "href": "/wiki/%D8%B7%D8%A7%D8%AD"
+  },
+  "طار": {
+    "href": "/wiki/%D8%B7%D8%A7%D8%B1"
+  },
+  "طاش": {
+    "href": "/wiki/%D8%B7%D8%A7%D8%B4"
+  },
+  "طاع": {
+    "href": "/wiki/%D8%B7%D8%A7%D8%B9"
+  },
+  "طاف": {
+    "href": "/wiki/%D8%B7%D8%A7%D9%81"
+  },
+  "طاق": {
+    "href": "/wiki/%D8%B7%D8%A7%D9%82"
+  },
+  "طال": {
+    "href": "/wiki/%D8%B7%D8%A7%D9%84"
+  },
+  "طب": {
+    "href": "/wiki/%D8%B7%D8%A8"
+  },
+  "طبخ": {
+    "href": "/wiki/%D8%B7%D8%A8%D8%AE"
+  },
+  "طبع": {
+    "href": "/wiki/%D8%B7%D8%A8%D8%B9"
+  },
+  "طبل": {
+    "href": "/wiki/%D8%B7%D8%A8%D9%84"
+  },
+  "طحن": {
+    "href": "/wiki/%D8%B7%D8%AD%D9%86"
+  },
+  "طرأ": {
+    "href": "/wiki/%D8%B7%D8%B1%D8%A3"
+  },
+  "طرب": {
+    "href": "/wiki/%D8%B7%D8%B1%D8%A8"
+  },
+  "طرح": {
+    "href": "/wiki/%D8%B7%D8%B1%D8%AD"
+  },
+  "طرد": {
+    "href": "/wiki/%D8%B7%D8%B1%D8%AF"
+  },
+  "طرز": {
+    "href": "/wiki/%D8%B7%D8%B1%D8%B2"
+  },
+  "طرف": {
+    "href": "/wiki/%D8%B7%D8%B1%D9%81"
+  },
+  "طرق": {
+    "href": "/wiki/%D8%B7%D8%B1%D9%82"
+  },
+  "طرو": {
+    "href": "/wiki/%D8%B7%D8%B1%D9%88"
+  },
+  "طري": {
+    "href": "/wiki/%D8%B7%D8%B1%D9%8A"
+  },
+  "طعم": {
+    "href": "/wiki/%D8%B7%D8%B9%D9%85"
+  },
+  "طعن": {
+    "href": "/wiki/%D8%B7%D8%B9%D9%86"
+  },
+  "طغى": {
+    "href": "/wiki/%D8%B7%D8%BA%D9%89"
+  },
+  "طفأ": {
+    "href": "/wiki/%D8%B7%D9%81%D8%A3"
+  },
+  "طفئ": {
+    "href": "/wiki/%D8%B7%D9%81%D8%A6"
+  },
+  "طفا": {
+    "href": "/wiki/%D8%B7%D9%81%D8%A7"
+  },
+  "طفح": {
+    "href": "/wiki/%D8%B7%D9%81%D8%AD"
+  },
+  "طفق": {
+    "href": "/wiki/%D8%B7%D9%81%D9%82"
+  },
+  "طل": {
+    "href": "/wiki/%D8%B7%D9%84"
+  },
+  "طلب": {
+    "href": "/wiki/%D8%B7%D9%84%D8%A8"
+  },
+  "طلس": {
+    "href": "/wiki/%D8%B7%D9%84%D8%B3"
+  },
+  "طلع": {
+    "href": "/wiki/%D8%B7%D9%84%D8%B9"
+  },
+  "طلق": {
+    "href": "/wiki/%D8%B7%D9%84%D9%82"
+  },
+  "طلى": {
+    "href": "/wiki/%D8%B7%D9%84%D9%89"
+  },
+  "طما": {
+    "href": "/wiki/%D8%B7%D9%85%D8%A7"
+  },
+  "طمر": {
+    "href": "/wiki/%D8%B7%D9%85%D8%B1"
+  },
+  "طمس": {
+    "href": "/wiki/%D8%B7%D9%85%D8%B3"
+  },
+  "طمع": {
+    "href": "/wiki/%D8%B7%D9%85%D8%B9"
+  },
+  "طمى": {
+    "href": "/wiki/%D8%B7%D9%85%D9%89"
+  },
+  "طن": {
+    "href": "/wiki/%D8%B7%D9%86"
+  },
+  "طنب": {
+    "href": "/wiki/%D8%B7%D9%86%D8%A8"
+  },
+  "طنف": {
+    "href": "/wiki/%D8%B7%D9%86%D9%81"
+  },
+  "طها": {
+    "href": "/wiki/%D8%B7%D9%87%D8%A7"
+  },
+  "طهر": {
+    "href": "/wiki/%D8%B7%D9%87%D8%B1"
+  },
+  "طهى": {
+    "href": "/wiki/%D8%B7%D9%87%D9%89"
+  },
+  "طوى": {
+    "href": "/wiki/%D8%B7%D9%88%D9%89"
+  },
+  "طوي": {
+    "href": "/wiki/%D8%B7%D9%88%D9%8A"
+  },
+  "ظأر": {
+    "href": "/wiki/%D8%B8%D8%A3%D8%B1"
+  },
+  "ظعن": {
+    "href": "/wiki/%D8%B8%D8%B9%D9%86"
+  },
+  "ظفر": {
+    "href": "/wiki/%D8%B8%D9%81%D8%B1"
+  },
+  "ظل": {
+    "href": "/wiki/%D8%B8%D9%84"
+  },
+  "ظلم": {
+    "href": "/wiki/%D8%B8%D9%84%D9%85"
+  },
+  "ظمئ": {
+    "href": "/wiki/%D8%B8%D9%85%D8%A6"
+  },
+  "ظن": {
+    "href": "/wiki/%D8%B8%D9%86"
+  },
+  "ظهر": {
+    "href": "/wiki/%D8%B8%D9%87%D8%B1"
+  },
+  "عاب": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%A8"
+  },
+  "عاد": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%AF"
+  },
+  "عاذ": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%B0"
+  },
+  "عار": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%B1"
+  },
+  "عاش": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%B4"
+  },
+  "عاض": {
+    "href": "/wiki/%D8%B9%D8%A7%D8%B6"
+  },
+  "عاق": {
+    "href": "/wiki/%D8%B9%D8%A7%D9%82"
+  },
+  "عال": {
+    "href": "/wiki/%D8%B9%D8%A7%D9%84"
+  },
+  "عام": {
+    "href": "/wiki/%D8%B9%D8%A7%D9%85"
+  },
+  "عب": {
+    "href": "/wiki/%D8%B9%D8%A8"
+  },
+  "عبأ": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%A3"
+  },
+  "عبا": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%A7"
+  },
+  "عبث": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%AB"
+  },
+  "عبد": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%AF"
+  },
+  "عبر": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%B1"
+  },
+  "عبس": {
+    "href": "/wiki/%D8%B9%D8%A8%D8%B3"
+  },
+  "عبق": {
+    "href": "/wiki/%D8%B9%D8%A8%D9%82"
+  },
+  "عبل": {
+    "href": "/wiki/%D8%B9%D8%A8%D9%84"
+  },
+  "عتب": {
+    "href": "/wiki/%D8%B9%D8%AA%D8%A8"
+  },
+  "عتر": {
+    "href": "/wiki/%D8%B9%D8%AA%D8%B1"
+  },
+  "عتل": {
+    "href": "/wiki/%D8%B9%D8%AA%D9%84"
+  },
+  "عتم": {
+    "href": "/wiki/%D8%B9%D8%AA%D9%85"
+  },
+  "عثر": {
+    "href": "/wiki/%D8%B9%D8%AB%D8%B1"
+  },
+  "عثي": {
+    "href": "/wiki/%D8%B9%D8%AB%D9%8A"
+  },
+  "عج": {
+    "href": "/wiki/%D8%B9%D8%AC"
+  },
+  "عجب": {
+    "href": "/wiki/%D8%B9%D8%AC%D8%A8"
+  },
+  "عجز": {
+    "href": "/wiki/%D8%B9%D8%AC%D8%B2"
+  },
+  "عجل": {
+    "href": "/wiki/%D8%B9%D8%AC%D9%84"
+  },
+  "عجم": {
+    "href": "/wiki/%D8%B9%D8%AC%D9%85"
+  },
+  "عجن": {
+    "href": "/wiki/%D8%B9%D8%AC%D9%86"
+  },
+  "عد": {
+    "href": "/wiki/%D8%B9%D8%AF"
+  },
+  "عدا": {
+    "href": "/wiki/%D8%B9%D8%AF%D8%A7"
+  },
+  "عدل": {
+    "href": "/wiki/%D8%B9%D8%AF%D9%84"
+  },
+  "عدم": {
+    "href": "/wiki/%D8%B9%D8%AF%D9%85"
+  },
+  "عدن": {
+    "href": "/wiki/%D8%B9%D8%AF%D9%86"
+  },
+  "عذر": {
+    "href": "/wiki/%D8%B9%D8%B0%D8%B1"
+  },
+  "عذق": {
+    "href": "/wiki/%D8%B9%D8%B0%D9%82"
+  },
+  "عرج": {
+    "href": "/wiki/%D8%B9%D8%B1%D8%AC"
+  },
+  "عرش": {
+    "href": "/wiki/%D8%B9%D8%B1%D8%B4"
+  },
+  "عرض": {
+    "href": "/wiki/%D8%B9%D8%B1%D8%B6"
+  },
+  "عرف": {
+    "href": "/wiki/%D8%B9%D8%B1%D9%81"
+  },
+  "عرق": {
+    "href": "/wiki/%D8%B9%D8%B1%D9%82"
+  },
+  "عرن": {
+    "href": "/wiki/%D8%B9%D8%B1%D9%86"
+  },
+  "عري": {
+    "href": "/wiki/%D8%B9%D8%B1%D9%8A"
+  },
+  "عز": {
+    "href": "/wiki/%D8%B9%D8%B2"
+  },
+  "عزا": {
+    "href": "/wiki/%D8%B9%D8%B2%D8%A7"
+  },
+  "عزب": {
+    "href": "/wiki/%D8%B9%D8%B2%D8%A8"
+  },
+  "عزر": {
+    "href": "/wiki/%D8%B9%D8%B2%D8%B1"
+  },
+  "عزف": {
+    "href": "/wiki/%D8%B9%D8%B2%D9%81"
+  },
+  "عزق": {
+    "href": "/wiki/%D8%B9%D8%B2%D9%82"
+  },
+  "عزل": {
+    "href": "/wiki/%D8%B9%D8%B2%D9%84"
+  },
+  "عزم": {
+    "href": "/wiki/%D8%B9%D8%B2%D9%85"
+  },
+  "عزى": {
+    "href": "/wiki/%D8%B9%D8%B2%D9%89"
+  },
+  "عسل": {
+    "href": "/wiki/%D8%B9%D8%B3%D9%84"
+  },
+  "عش": {
+    "href": "/wiki/%D8%B9%D8%B4"
+  },
+  "عشق": {
+    "href": "/wiki/%D8%B9%D8%B4%D9%82"
+  },
+  "عشن": {
+    "href": "/wiki/%D8%B9%D8%B4%D9%86"
+  },
+  "عصا": {
+    "href": "/wiki/%D8%B9%D8%B5%D8%A7"
+  },
+  "عصب": {
+    "href": "/wiki/%D8%B9%D8%B5%D8%A8"
+  },
+  "عصر": {
+    "href": "/wiki/%D8%B9%D8%B5%D8%B1"
+  },
+  "عصف": {
+    "href": "/wiki/%D8%B9%D8%B5%D9%81"
+  },
+  "عصم": {
+    "href": "/wiki/%D8%B9%D8%B5%D9%85"
+  },
+  "عصى": {
+    "href": "/wiki/%D8%B9%D8%B5%D9%89"
+  },
+  "عض": {
+    "href": "/wiki/%D8%B9%D8%B6"
+  },
+  "عضد": {
+    "href": "/wiki/%D8%B9%D8%B6%D8%AF"
+  },
+  "عط": {
+    "href": "/wiki/%D8%B9%D8%B7"
+  },
+  "عطب": {
+    "href": "/wiki/%D8%B9%D8%B7%D8%A8"
+  },
+  "عطس": {
+    "href": "/wiki/%D8%B9%D8%B7%D8%B3"
+  },
+  "عطش": {
+    "href": "/wiki/%D8%B9%D8%B7%D8%B4"
+  },
+  "عطف": {
+    "href": "/wiki/%D8%B9%D8%B7%D9%81"
+  },
+  "عطل": {
+    "href": "/wiki/%D8%B9%D8%B7%D9%84"
+  },
+  "عطن": {
+    "href": "/wiki/%D8%B9%D8%B7%D9%86"
+  },
+  "عظ": {
+    "href": "/wiki/%D8%B9%D8%B8"
+  },
+  "عظم": {
+    "href": "/wiki/%D8%B9%D8%B8%D9%85"
+  },
+  "عفا": {
+    "href": "/wiki/%D8%B9%D9%81%D8%A7"
+  },
+  "عفت": {
+    "href": "/wiki/%D8%B9%D9%81%D8%AA"
+  },
+  "عفج": {
+    "href": "/wiki/%D8%B9%D9%81%D8%AC"
+  },
+  "عفر": {
+    "href": "/wiki/%D8%B9%D9%81%D8%B1"
+  },
+  "عفص": {
+    "href": "/wiki/%D8%B9%D9%81%D8%B5"
+  },
+  "عقب": {
+    "href": "/wiki/%D8%B9%D9%82%D8%A8"
+  },
+  "عقد": {
+    "href": "/wiki/%D8%B9%D9%82%D8%AF"
+  },
+  "عقر": {
+    "href": "/wiki/%D8%B9%D9%82%D8%B1"
+  },
+  "عقل": {
+    "href": "/wiki/%D8%B9%D9%82%D9%84"
+  },
+  "عقم": {
+    "href": "/wiki/%D8%B9%D9%82%D9%85"
+  },
+  "عكر": {
+    "href": "/wiki/%D8%B9%D9%83%D8%B1"
+  },
+  "عكس": {
+    "href": "/wiki/%D8%B9%D9%83%D8%B3"
+  },
+  "عل": {
+    "href": "/wiki/%D8%B9%D9%84"
+  },
+  "علا": {
+    "href": "/wiki/%D8%B9%D9%84%D8%A7"
+  },
+  "علف": {
+    "href": "/wiki/%D8%B9%D9%84%D9%81"
+  },
+  "علق": {
+    "href": "/wiki/%D8%B9%D9%84%D9%82"
+  },
+  "علك": {
+    "href": "/wiki/%D8%B9%D9%84%D9%83"
+  },
+  "علم": {
+    "href": "/wiki/%D8%B9%D9%84%D9%85"
+  },
+  "علن": {
+    "href": "/wiki/%D8%B9%D9%84%D9%86"
+  },
+  "على": {
+    "href": "/wiki/%D8%B9%D9%84%D9%89"
+  },
+  "علي": {
+    "href": "/wiki/%D8%B9%D9%84%D9%8A"
+  },
+  "عم": {
+    "href": "/wiki/%D8%B9%D9%85"
+  },
+  "عمد": {
+    "href": "/wiki/%D8%B9%D9%85%D8%AF"
+  },
+  "عمر": {
+    "href": "/wiki/%D8%B9%D9%85%D8%B1"
+  },
+  "عمق": {
+    "href": "/wiki/%D8%B9%D9%85%D9%82"
+  },
+  "عمل": {
+    "href": "/wiki/%D8%B9%D9%85%D9%84"
+  },
+  "عمه": {
+    "href": "/wiki/%D8%B9%D9%85%D9%87"
+  },
+  "عمي": {
+    "href": "/wiki/%D8%B9%D9%85%D9%8A"
+  },
+  "عن": {
+    "href": "/wiki/%D8%B9%D9%86"
+  },
+  "عند": {
+    "href": "/wiki/%D8%B9%D9%86%D8%AF"
+  },
+  "عنى": {
+    "href": "/wiki/%D8%B9%D9%86%D9%89"
+  },
+  "عني": {
+    "href": "/wiki/%D8%B9%D9%86%D9%8A"
+  },
+  "عهد": {
+    "href": "/wiki/%D8%B9%D9%87%D8%AF"
+  },
+  "عهر": {
+    "href": "/wiki/%D8%B9%D9%87%D8%B1"
+  },
+  "عهن": {
+    "href": "/wiki/%D8%B9%D9%87%D9%86"
+  },
+  "عور": {
+    "href": "/wiki/%D8%B9%D9%88%D8%B1"
+  },
+  "غاب": {
+    "href": "/wiki/%D8%BA%D8%A7%D8%A8"
+  },
+  "غاث": {
+    "href": "/wiki/%D8%BA%D8%A7%D8%AB"
+  },
+  "غار": {
+    "href": "/wiki/%D8%BA%D8%A7%D8%B1"
+  },
+  "غاص": {
+    "href": "/wiki/%D8%BA%D8%A7%D8%B5"
+  },
+  "غاظ": {
+    "href": "/wiki/%D8%BA%D8%A7%D8%B8"
+  },
+  "غاف": {
+    "href": "/wiki/%D8%BA%D8%A7%D9%81"
+  },
+  "غب": {
+    "href": "/wiki/%D8%BA%D8%A8"
+  },
+  "غبط": {
+    "href": "/wiki/%D8%BA%D8%A8%D8%B7"
+  },
+  "غبن": {
+    "href": "/wiki/%D8%BA%D8%A8%D9%86"
+  },
+  "غبي": {
+    "href": "/wiki/%D8%BA%D8%A8%D9%8A"
+  },
+  "غدا": {
+    "href": "/wiki/%D8%BA%D8%AF%D8%A7"
+  },
+  "غدر": {
+    "href": "/wiki/%D8%BA%D8%AF%D8%B1"
+  },
+  "غدق": {
+    "href": "/wiki/%D8%BA%D8%AF%D9%82"
+  },
+  "غذا": {
+    "href": "/wiki/%D8%BA%D8%B0%D8%A7"
+  },
+  "غر": {
+    "href": "/wiki/%D8%BA%D8%B1"
+  },
+  "غرا": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%A7"
+  },
+  "غرب": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%A8"
+  },
+  "غرد": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%AF"
+  },
+  "غرز": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%B2"
+  },
+  "غرس": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%B3"
+  },
+  "غرض": {
+    "href": "/wiki/%D8%BA%D8%B1%D8%B6"
+  },
+  "غرف": {
+    "href": "/wiki/%D8%BA%D8%B1%D9%81"
+  },
+  "غرق": {
+    "href": "/wiki/%D8%BA%D8%B1%D9%82"
+  },
+  "غري": {
+    "href": "/wiki/%D8%BA%D8%B1%D9%8A"
+  },
+  "غزا": {
+    "href": "/wiki/%D8%BA%D8%B2%D8%A7"
+  },
+  "غزل": {
+    "href": "/wiki/%D8%BA%D8%B2%D9%84"
+  },
+  "غسل": {
+    "href": "/wiki/%D8%BA%D8%B3%D9%84"
+  },
+  "غش": {
+    "href": "/wiki/%D8%BA%D8%B4"
+  },
+  "غشي": {
+    "href": "/wiki/%D8%BA%D8%B4%D9%8A"
+  },
+  "غص": {
+    "href": "/wiki/%D8%BA%D8%B5"
+  },
+  "غصب": {
+    "href": "/wiki/%D8%BA%D8%B5%D8%A8"
+  },
+  "غض": {
+    "href": "/wiki/%D8%BA%D8%B6"
+  },
+  "غضا": {
+    "href": "/wiki/%D8%BA%D8%B6%D8%A7"
+  },
+  "غضب": {
+    "href": "/wiki/%D8%BA%D8%B6%D8%A8"
+  },
+  "غط": {
+    "href": "/wiki/%D8%BA%D8%B7"
+  },
+  "غطا": {
+    "href": "/wiki/%D8%BA%D8%B7%D8%A7"
+  },
+  "غطس": {
+    "href": "/wiki/%D8%BA%D8%B7%D8%B3"
+  },
+  "غفا": {
+    "href": "/wiki/%D8%BA%D9%81%D8%A7"
+  },
+  "غفر": {
+    "href": "/wiki/%D8%BA%D9%81%D8%B1"
+  },
+  "غفل": {
+    "href": "/wiki/%D8%BA%D9%81%D9%84"
+  },
+  "غل": {
+    "href": "/wiki/%D8%BA%D9%84"
+  },
+  "غلا": {
+    "href": "/wiki/%D8%BA%D9%84%D8%A7"
+  },
+  "غلب": {
+    "href": "/wiki/%D8%BA%D9%84%D8%A8"
+  },
+  "غلط": {
+    "href": "/wiki/%D8%BA%D9%84%D8%B7"
+  },
+  "غلق": {
+    "href": "/wiki/%D8%BA%D9%84%D9%82"
+  },
+  "غلم": {
+    "href": "/wiki/%D8%BA%D9%84%D9%85"
+  },
+  "غلى": {
+    "href": "/wiki/%D8%BA%D9%84%D9%89"
+  },
+  "غم": {
+    "href": "/wiki/%D8%BA%D9%85"
+  },
+  "غمد": {
+    "href": "/wiki/%D8%BA%D9%85%D8%AF"
+  },
+  "غمر": {
+    "href": "/wiki/%D8%BA%D9%85%D8%B1"
+  },
+  "غمز": {
+    "href": "/wiki/%D8%BA%D9%85%D8%B2"
+  },
+  "غن": {
+    "href": "/wiki/%D8%BA%D9%86"
+  },
+  "غنج": {
+    "href": "/wiki/%D8%BA%D9%86%D8%AC"
+  },
+  "غنم": {
+    "href": "/wiki/%D8%BA%D9%86%D9%85"
+  },
+  "غني": {
+    "href": "/wiki/%D8%BA%D9%86%D9%8A"
+  },
+  "غيد": {
+    "href": "/wiki/%D8%BA%D9%8A%D8%AF"
+  },
+  "فاء": {
+    "href": "/wiki/%D9%81%D8%A7%D8%A1"
+  },
+  "فات": {
+    "href": "/wiki/%D9%81%D8%A7%D8%AA"
+  },
+  "فاح": {
+    "href": "/wiki/%D9%81%D8%A7%D8%AD"
+  },
+  "فاخ": {
+    "href": "/wiki/%D9%81%D8%A7%D8%AE"
+  },
+  "فار": {
+    "href": "/wiki/%D9%81%D8%A7%D8%B1"
+  },
+  "فاز": {
+    "href": "/wiki/%D9%81%D8%A7%D8%B2"
+  },
+  "فاص": {
+    "href": "/wiki/%D9%81%D8%A7%D8%B5"
+  },
+  "فاض": {
+    "href": "/wiki/%D9%81%D8%A7%D8%B6"
+  },
+  "فاق": {
+    "href": "/wiki/%D9%81%D8%A7%D9%82"
+  },
+  "فت": {
+    "href": "/wiki/%D9%81%D8%AA"
+  },
+  "فتأ": {
+    "href": "/wiki/%D9%81%D8%AA%D8%A3"
+  },
+  "فتئ": {
+    "href": "/wiki/%D9%81%D8%AA%D8%A6"
+  },
+  "فتح": {
+    "href": "/wiki/%D9%81%D8%AA%D8%AD"
+  },
+  "فتش": {
+    "href": "/wiki/%D9%81%D8%AA%D8%B4"
+  },
+  "فتل": {
+    "href": "/wiki/%D9%81%D8%AA%D9%84"
+  },
+  "فتن": {
+    "href": "/wiki/%D9%81%D8%AA%D9%86"
+  },
+  "فجر": {
+    "href": "/wiki/%D9%81%D8%AC%D8%B1"
+  },
+  "فجع": {
+    "href": "/wiki/%D9%81%D8%AC%D8%B9"
+  },
+  "فجل": {
+    "href": "/wiki/%D9%81%D8%AC%D9%84"
+  },
+  "فحش": {
+    "href": "/wiki/%D9%81%D8%AD%D8%B4"
+  },
+  "فحص": {
+    "href": "/wiki/%D9%81%D8%AD%D8%B5"
+  },
+  "فحل": {
+    "href": "/wiki/%D9%81%D8%AD%D9%84"
+  },
+  "فخ": {
+    "href": "/wiki/%D9%81%D8%AE"
+  },
+  "فخر": {
+    "href": "/wiki/%D9%81%D8%AE%D8%B1"
+  },
+  "فدح": {
+    "href": "/wiki/%D9%81%D8%AF%D8%AD"
+  },
+  "فدم": {
+    "href": "/wiki/%D9%81%D8%AF%D9%85"
+  },
+  "فدى": {
+    "href": "/wiki/%D9%81%D8%AF%D9%89"
+  },
+  "فذ": {
+    "href": "/wiki/%D9%81%D8%B0"
+  },
+  "فر": {
+    "href": "/wiki/%D9%81%D8%B1"
+  },
+  "فرث": {
+    "href": "/wiki/%D9%81%D8%B1%D8%AB"
+  },
+  "فرج": {
+    "href": "/wiki/%D9%81%D8%B1%D8%AC"
+  },
+  "فرح": {
+    "href": "/wiki/%D9%81%D8%B1%D8%AD"
+  },
+  "فرد": {
+    "href": "/wiki/%D9%81%D8%B1%D8%AF"
+  },
+  "فرس": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B3"
+  },
+  "فرش": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B4"
+  },
+  "فرص": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B5"
+  },
+  "فرض": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B6"
+  },
+  "فرط": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B7"
+  },
+  "فرع": {
+    "href": "/wiki/%D9%81%D8%B1%D8%B9"
+  },
+  "فرغ": {
+    "href": "/wiki/%D9%81%D8%B1%D8%BA"
+  },
+  "فرق": {
+    "href": "/wiki/%D9%81%D8%B1%D9%82"
+  },
+  "فرك": {
+    "href": "/wiki/%D9%81%D8%B1%D9%83"
+  },
+  "فرم": {
+    "href": "/wiki/%D9%81%D8%B1%D9%85"
+  },
+  "فز": {
+    "href": "/wiki/%D9%81%D8%B2"
+  },
+  "فزع": {
+    "href": "/wiki/%D9%81%D8%B2%D8%B9"
+  },
+  "فسا": {
+    "href": "/wiki/%D9%81%D8%B3%D8%A7"
+  },
+  "فسح": {
+    "href": "/wiki/%D9%81%D8%B3%D8%AD"
+  },
+  "فسق": {
+    "href": "/wiki/%D9%81%D8%B3%D9%82"
+  },
+  "فسل": {
+    "href": "/wiki/%D9%81%D8%B3%D9%84"
+  },
+  "فشا": {
+    "href": "/wiki/%D9%81%D8%B4%D8%A7"
+  },
+  "فشغ": {
+    "href": "/wiki/%D9%81%D8%B4%D8%BA"
+  },
+  "فشل": {
+    "href": "/wiki/%D9%81%D8%B4%D9%84"
+  },
+  "فصح": {
+    "href": "/wiki/%D9%81%D8%B5%D8%AD"
+  },
+  "فصد": {
+    "href": "/wiki/%D9%81%D8%B5%D8%AF"
+  },
+  "فصل": {
+    "href": "/wiki/%D9%81%D8%B5%D9%84"
+  },
+  "فصم": {
+    "href": "/wiki/%D9%81%D8%B5%D9%85"
+  },
+  "فض": {
+    "href": "/wiki/%D9%81%D8%B6"
+  },
+  "فضح": {
+    "href": "/wiki/%D9%81%D8%B6%D8%AD"
+  },
+  "فضل": {
+    "href": "/wiki/%D9%81%D8%B6%D9%84"
+  },
+  "فطر": {
+    "href": "/wiki/%D9%81%D8%B7%D8%B1"
+  },
+  "فطس": {
+    "href": "/wiki/%D9%81%D8%B7%D8%B3"
+  },
+  "فطم": {
+    "href": "/wiki/%D9%81%D8%B7%D9%85"
+  },
+  "فطن": {
+    "href": "/wiki/%D9%81%D8%B7%D9%86"
+  },
+  "فظ": {
+    "href": "/wiki/%D9%81%D8%B8"
+  },
+  "فظع": {
+    "href": "/wiki/%D9%81%D8%B8%D8%B9"
+  },
+  "فعل": {
+    "href": "/wiki/%D9%81%D8%B9%D9%84"
+  },
+  "فغر": {
+    "href": "/wiki/%D9%81%D8%BA%D8%B1"
+  },
+  "فقد": {
+    "href": "/wiki/%D9%81%D9%82%D8%AF"
+  },
+  "فقر": {
+    "href": "/wiki/%D9%81%D9%82%D8%B1"
+  },
+  "فقس": {
+    "href": "/wiki/%D9%81%D9%82%D8%B3"
+  },
+  "فقع": {
+    "href": "/wiki/%D9%81%D9%82%D8%B9"
+  },
+  "فقم": {
+    "href": "/wiki/%D9%81%D9%82%D9%85"
+  },
+  "فقه": {
+    "href": "/wiki/%D9%81%D9%82%D9%87"
+  },
+  "فك": {
+    "href": "/wiki/%D9%81%D9%83"
+  },
+  "فكر": {
+    "href": "/wiki/%D9%81%D9%83%D8%B1"
+  },
+  "فل": {
+    "href": "/wiki/%D9%81%D9%84"
+  },
+  "فلا": {
+    "href": "/wiki/%D9%81%D9%84%D8%A7"
+  },
+  "فلت": {
+    "href": "/wiki/%D9%81%D9%84%D8%AA"
+  },
+  "فلح": {
+    "href": "/wiki/%D9%81%D9%84%D8%AD"
+  },
+  "فلع": {
+    "href": "/wiki/%D9%81%D9%84%D8%B9"
+  },
+  "فلق": {
+    "href": "/wiki/%D9%81%D9%84%D9%82"
+  },
+  "فن": {
+    "href": "/wiki/%D9%81%D9%86"
+  },
+  "فنك": {
+    "href": "/wiki/%D9%81%D9%86%D9%83"
+  },
+  "فني": {
+    "href": "/wiki/%D9%81%D9%86%D9%8A"
+  },
+  "فهم": {
+    "href": "/wiki/%D9%81%D9%87%D9%85"
+  },
+  "قاء": {
+    "href": "/wiki/%D9%82%D8%A7%D8%A1"
+  },
+  "قاد": {
+    "href": "/wiki/%D9%82%D8%A7%D8%AF"
+  },
+  "قاس": {
+    "href": "/wiki/%D9%82%D8%A7%D8%B3"
+  },
+  "قاض": {
+    "href": "/wiki/%D9%82%D8%A7%D8%B6"
+  },
+  "قاف": {
+    "href": "/wiki/%D9%82%D8%A7%D9%81"
+  },
+  "قال": {
+    "href": "/wiki/%D9%82%D8%A7%D9%84"
+  },
+  "قام": {
+    "href": "/wiki/%D9%82%D8%A7%D9%85"
+  },
+  "قان": {
+    "href": "/wiki/%D9%82%D8%A7%D9%86"
+  },
+  "قبح": {
+    "href": "/wiki/%D9%82%D8%A8%D8%AD"
+  },
+  "قبر": {
+    "href": "/wiki/%D9%82%D8%A8%D8%B1"
+  },
+  "قبس": {
+    "href": "/wiki/%D9%82%D8%A8%D8%B3"
+  },
+  "قبض": {
+    "href": "/wiki/%D9%82%D8%A8%D8%B6"
+  },
+  "قبع": {
+    "href": "/wiki/%D9%82%D8%A8%D8%B9"
+  },
+  "قبل": {
+    "href": "/wiki/%D9%82%D8%A8%D9%84"
+  },
+  "قت": {
+    "href": "/wiki/%D9%82%D8%AA"
+  },
+  "قتل": {
+    "href": "/wiki/%D9%82%D8%AA%D9%84"
+  },
+  "قحط": {
+    "href": "/wiki/%D9%82%D8%AD%D8%B7"
+  },
+  "قحف": {
+    "href": "/wiki/%D9%82%D8%AD%D9%81"
+  },
+  "قحل": {
+    "href": "/wiki/%D9%82%D8%AD%D9%84"
+  },
+  "قد": {
+    "href": "/wiki/%D9%82%D8%AF"
+  },
+  "قدح": {
+    "href": "/wiki/%D9%82%D8%AF%D8%AD"
+  },
+  "قدر": {
+    "href": "/wiki/%D9%82%D8%AF%D8%B1"
+  },
+  "قدس": {
+    "href": "/wiki/%D9%82%D8%AF%D8%B3"
+  },
+  "قدم": {
+    "href": "/wiki/%D9%82%D8%AF%D9%85"
+  },
+  "قذر": {
+    "href": "/wiki/%D9%82%D8%B0%D8%B1"
+  },
+  "قذف": {
+    "href": "/wiki/%D9%82%D8%B0%D9%81"
+  },
+  "قر": {
+    "href": "/wiki/%D9%82%D8%B1"
+  },
+  "قرأ": {
+    "href": "/wiki/%D9%82%D8%B1%D8%A3"
+  },
+  "قرا": {
+    "href": "/wiki/%D9%82%D8%B1%D8%A7"
+  },
+  "قرب": {
+    "href": "/wiki/%D9%82%D8%B1%D8%A8"
+  },
+  "قرت": {
+    "href": "/wiki/%D9%82%D8%B1%D8%AA"
+  },
+  "قرث": {
+    "href": "/wiki/%D9%82%D8%B1%D8%AB"
+  },
+  "قرح": {
+    "href": "/wiki/%D9%82%D8%B1%D8%AD"
+  },
+  "قرد": {
+    "href": "/wiki/%D9%82%D8%B1%D8%AF"
+  },
+  "قرش": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B4"
+  },
+  "قرص": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B5"
+  },
+  "قرض": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B6"
+  },
+  "قرط": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B7"
+  },
+  "قرظ": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B8"
+  },
+  "قرع": {
+    "href": "/wiki/%D9%82%D8%B1%D8%B9"
+  },
+  "قرف": {
+    "href": "/wiki/%D9%82%D8%B1%D9%81"
+  },
+  "قرم": {
+    "href": "/wiki/%D9%82%D8%B1%D9%85"
+  },
+  "قرن": {
+    "href": "/wiki/%D9%82%D8%B1%D9%86"
+  },
+  "قرى": {
+    "href": "/wiki/%D9%82%D8%B1%D9%89"
+  },
+  "قز": {
+    "href": "/wiki/%D9%82%D8%B2"
+  },
+  "قزح": {
+    "href": "/wiki/%D9%82%D8%B2%D8%AD"
+  },
+  "قزع": {
+    "href": "/wiki/%D9%82%D8%B2%D8%B9"
+  },
+  "قس": {
+    "href": "/wiki/%D9%82%D8%B3"
+  },
+  "قسب": {
+    "href": "/wiki/%D9%82%D8%B3%D8%A8"
+  },
+  "قسر": {
+    "href": "/wiki/%D9%82%D8%B3%D8%B1"
+  },
+  "قسم": {
+    "href": "/wiki/%D9%82%D8%B3%D9%85"
+  },
+  "قش": {
+    "href": "/wiki/%D9%82%D8%B4"
+  },
+  "قشد": {
+    "href": "/wiki/%D9%82%D8%B4%D8%AF"
+  },
+  "قشر": {
+    "href": "/wiki/%D9%82%D8%B4%D8%B1"
+  },
+  "قشط": {
+    "href": "/wiki/%D9%82%D8%B4%D8%B7"
+  },
+  "قشع": {
+    "href": "/wiki/%D9%82%D8%B4%D8%B9"
+  },
+  "قشف": {
+    "href": "/wiki/%D9%82%D8%B4%D9%81"
+  },
+  "قص": {
+    "href": "/wiki/%D9%82%D8%B5"
+  },
+  "قصب": {
+    "href": "/wiki/%D9%82%D8%B5%D8%A8"
+  },
+  "قصد": {
+    "href": "/wiki/%D9%82%D8%B5%D8%AF"
+  },
+  "قصر": {
+    "href": "/wiki/%D9%82%D8%B5%D8%B1"
+  },
+  "قصف": {
+    "href": "/wiki/%D9%82%D8%B5%D9%81"
+  },
+  "قصل": {
+    "href": "/wiki/%D9%82%D8%B5%D9%84"
+  },
+  "قضب": {
+    "href": "/wiki/%D9%82%D8%B6%D8%A8"
+  },
+  "قضم": {
+    "href": "/wiki/%D9%82%D8%B6%D9%85"
+  },
+  "قضى": {
+    "href": "/wiki/%D9%82%D8%B6%D9%89"
+  },
+  "قط": {
+    "href": "/wiki/%D9%82%D8%B7"
+  },
+  "قطب": {
+    "href": "/wiki/%D9%82%D8%B7%D8%A8"
+  },
+  "قطر": {
+    "href": "/wiki/%D9%82%D8%B7%D8%B1"
+  },
+  "قطع": {
+    "href": "/wiki/%D9%82%D8%B7%D8%B9"
+  },
+  "قطف": {
+    "href": "/wiki/%D9%82%D8%B7%D9%81"
+  },
+  "قطن": {
+    "href": "/wiki/%D9%82%D8%B7%D9%86"
+  },
+  "قعد": {
+    "href": "/wiki/%D9%82%D8%B9%D8%AF"
+  },
+  "قعر": {
+    "href": "/wiki/%D9%82%D8%B9%D8%B1"
+  },
+  "قف": {
+    "href": "/wiki/%D9%82%D9%81"
+  },
+  "قفا": {
+    "href": "/wiki/%D9%82%D9%81%D8%A7"
+  },
+  "قفر": {
+    "href": "/wiki/%D9%82%D9%81%D8%B1"
+  },
+  "قفز": {
+    "href": "/wiki/%D9%82%D9%81%D8%B2"
+  },
+  "قفط": {
+    "href": "/wiki/%D9%82%D9%81%D8%B7"
+  },
+  "قفل": {
+    "href": "/wiki/%D9%82%D9%81%D9%84"
+  },
+  "قل": {
+    "href": "/wiki/%D9%82%D9%84"
+  },
+  "قلا": {
+    "href": "/wiki/%D9%82%D9%84%D8%A7"
+  },
+  "قلب": {
+    "href": "/wiki/%D9%82%D9%84%D8%A8"
+  },
+  "قلد": {
+    "href": "/wiki/%D9%82%D9%84%D8%AF"
+  },
+  "قلس": {
+    "href": "/wiki/%D9%82%D9%84%D8%B3"
+  },
+  "قلع": {
+    "href": "/wiki/%D9%82%D9%84%D8%B9"
+  },
+  "قلق": {
+    "href": "/wiki/%D9%82%D9%84%D9%82"
+  },
+  "قلم": {
+    "href": "/wiki/%D9%82%D9%84%D9%85"
+  },
+  "قلى": {
+    "href": "/wiki/%D9%82%D9%84%D9%89"
+  },
+  "قلي": {
+    "href": "/wiki/%D9%82%D9%84%D9%8A"
+  },
+  "قم": {
+    "href": "/wiki/%D9%82%D9%85"
+  },
+  "قمر": {
+    "href": "/wiki/%D9%82%D9%85%D8%B1"
+  },
+  "قمط": {
+    "href": "/wiki/%D9%82%D9%85%D8%B7"
+  },
+  "قمع": {
+    "href": "/wiki/%D9%82%D9%85%D8%B9"
+  },
+  "قنأ": {
+    "href": "/wiki/%D9%82%D9%86%D8%A3"
+  },
+  "قنب": {
+    "href": "/wiki/%D9%82%D9%86%D8%A8"
+  },
+  "قنت": {
+    "href": "/wiki/%D9%82%D9%86%D8%AA"
+  },
+  "قنص": {
+    "href": "/wiki/%D9%82%D9%86%D8%B5"
+  },
+  "قنع": {
+    "href": "/wiki/%D9%82%D9%86%D8%B9"
+  },
+  "قهر": {
+    "href": "/wiki/%D9%82%D9%87%D8%B1"
+  },
+  "قوس": {
+    "href": "/wiki/%D9%82%D9%88%D8%B3"
+  },
+  "قوي": {
+    "href": "/wiki/%D9%82%D9%88%D9%8A"
+  },
+  "كئب": {
+    "href": "/wiki/%D9%83%D8%A6%D8%A8"
+  },
+  "كاد": {
+    "href": "/wiki/%D9%83%D8%A7%D8%AF"
+  },
+  "كاس": {
+    "href": "/wiki/%D9%83%D8%A7%D8%B3"
+  },
+  "كال": {
+    "href": "/wiki/%D9%83%D8%A7%D9%84"
+  },
+  "كان": {
+    "href": "/wiki/%D9%83%D8%A7%D9%86"
+  },
+  "كب": {
+    "href": "/wiki/%D9%83%D8%A8"
+  },
+  "كبت": {
+    "href": "/wiki/%D9%83%D8%A8%D8%AA"
+  },
+  "كبح": {
+    "href": "/wiki/%D9%83%D8%A8%D8%AD"
+  },
+  "كبر": {
+    "href": "/wiki/%D9%83%D8%A8%D8%B1"
+  },
+  "كبس": {
+    "href": "/wiki/%D9%83%D8%A8%D8%B3"
+  },
+  "كبل": {
+    "href": "/wiki/%D9%83%D8%A8%D9%84"
+  },
+  "كتب": {
+    "href": "/wiki/%D9%83%D8%AA%D8%A8"
+  },
+  "كتل": {
+    "href": "/wiki/%D9%83%D8%AA%D9%84"
+  },
+  "كتم": {
+    "href": "/wiki/%D9%83%D8%AA%D9%85"
+  },
+  "كثر": {
+    "href": "/wiki/%D9%83%D8%AB%D8%B1"
+  },
+  "كح": {
+    "href": "/wiki/%D9%83%D8%AD"
+  },
+  "كحل": {
+    "href": "/wiki/%D9%83%D8%AD%D9%84"
+  },
+  "كد": {
+    "href": "/wiki/%D9%83%D8%AF"
+  },
+  "كدر": {
+    "href": "/wiki/%D9%83%D8%AF%D8%B1"
+  },
+  "كدس": {
+    "href": "/wiki/%D9%83%D8%AF%D8%B3"
+  },
+  "كذب": {
+    "href": "/wiki/%D9%83%D8%B0%D8%A8"
+  },
+  "كر": {
+    "href": "/wiki/%D9%83%D8%B1"
+  },
+  "كرب": {
+    "href": "/wiki/%D9%83%D8%B1%D8%A8"
+  },
+  "كرج": {
+    "href": "/wiki/%D9%83%D8%B1%D8%AC"
+  },
+  "كرز": {
+    "href": "/wiki/%D9%83%D8%B1%D8%B2"
+  },
+  "كرش": {
+    "href": "/wiki/%D9%83%D8%B1%D8%B4"
+  },
+  "كرم": {
+    "href": "/wiki/%D9%83%D8%B1%D9%85"
+  },
+  "كره": {
+    "href": "/wiki/%D9%83%D8%B1%D9%87"
+  },
+  "كرى": {
+    "href": "/wiki/%D9%83%D8%B1%D9%89"
+  },
+  "كسا": {
+    "href": "/wiki/%D9%83%D8%B3%D8%A7"
+  },
+  "كسب": {
+    "href": "/wiki/%D9%83%D8%B3%D8%A8"
+  },
+  "كسح": {
+    "href": "/wiki/%D9%83%D8%B3%D8%AD"
+  },
+  "كسد": {
+    "href": "/wiki/%D9%83%D8%B3%D8%AF"
+  },
+  "كسر": {
+    "href": "/wiki/%D9%83%D8%B3%D8%B1"
+  },
+  "كشط": {
+    "href": "/wiki/%D9%83%D8%B4%D8%B7"
+  },
+  "كشف": {
+    "href": "/wiki/%D9%83%D8%B4%D9%81"
+  },
+  "كشف النقاب": {
+    "href": "/wiki/%D9%83%D8%B4%D9%81_%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8"
+  },
+  "كعب": {
+    "href": "/wiki/%D9%83%D8%B9%D8%A8"
+  },
+  "كف": {
+    "href": "/wiki/%D9%83%D9%81"
+  },
+  "كفت": {
+    "href": "/wiki/%D9%83%D9%81%D8%AA"
+  },
+  "كفر": {
+    "href": "/wiki/%D9%83%D9%81%D8%B1"
+  },
+  "كفل": {
+    "href": "/wiki/%D9%83%D9%81%D9%84"
+  },
+  "كفن": {
+    "href": "/wiki/%D9%83%D9%81%D9%86"
+  },
+  "كفى": {
+    "href": "/wiki/%D9%83%D9%81%D9%89"
+  },
+  "كلأ": {
+    "href": "/wiki/%D9%83%D9%84%D8%A3"
+  },
+  "كلب": {
+    "href": "/wiki/%D9%83%D9%84%D8%A8"
+  },
+  "كلح": {
+    "href": "/wiki/%D9%83%D9%84%D8%AD"
+  },
+  "كلف": {
+    "href": "/wiki/%D9%83%D9%84%D9%81"
+  },
+  "كم": {
+    "href": "/wiki/%D9%83%D9%85"
+  },
+  "كمت": {
+    "href": "/wiki/%D9%83%D9%85%D8%AA"
+  },
+  "كمح": {
+    "href": "/wiki/%D9%83%D9%85%D8%AD"
+  },
+  "كمش": {
+    "href": "/wiki/%D9%83%D9%85%D8%B4"
+  },
+  "كمل": {
+    "href": "/wiki/%D9%83%D9%85%D9%84"
+  },
+  "كمن": {
+    "href": "/wiki/%D9%83%D9%85%D9%86"
+  },
+  "كن": {
+    "href": "/wiki/%D9%83%D9%86"
+  },
+  "كنز": {
+    "href": "/wiki/%D9%83%D9%86%D8%B2"
+  },
+  "كنس": {
+    "href": "/wiki/%D9%83%D9%86%D8%B3"
+  },
+  "كنف": {
+    "href": "/wiki/%D9%83%D9%86%D9%81"
+  },
+  "كنى": {
+    "href": "/wiki/%D9%83%D9%86%D9%89"
+  },
+  "كهن": {
+    "href": "/wiki/%D9%83%D9%87%D9%86"
+  },
+  "كوى": {
+    "href": "/wiki/%D9%83%D9%88%D9%89"
+  },
+  "لأك": {
+    "href": "/wiki/%D9%84%D8%A3%D9%83"
+  },
+  "لأى": {
+    "href": "/wiki/%D9%84%D8%A3%D9%89"
+  },
+  "لاث": {
+    "href": "/wiki/%D9%84%D8%A7%D8%AB"
+  },
+  "لاج": {
+    "href": "/wiki/%D9%84%D8%A7%D8%AC"
+  },
+  "لاح": {
+    "href": "/wiki/%D9%84%D8%A7%D8%AD"
+  },
+  "لاذ": {
+    "href": "/wiki/%D9%84%D8%A7%D8%B0"
+  },
+  "لاط": {
+    "href": "/wiki/%D9%84%D8%A7%D8%B7"
+  },
+  "لاق": {
+    "href": "/wiki/%D9%84%D8%A7%D9%82"
+  },
+  "لام": {
+    "href": "/wiki/%D9%84%D8%A7%D9%85"
+  },
+  "لان": {
+    "href": "/wiki/%D9%84%D8%A7%D9%86"
+  },
+  "لب": {
+    "href": "/wiki/%D9%84%D8%A8"
+  },
+  "لبث": {
+    "href": "/wiki/%D9%84%D8%A8%D8%AB"
+  },
+  "لبخ": {
+    "href": "/wiki/%D9%84%D8%A8%D8%AE"
+  },
+  "لبد": {
+    "href": "/wiki/%D9%84%D8%A8%D8%AF"
+  },
+  "لبس": {
+    "href": "/wiki/%D9%84%D8%A8%D8%B3"
+  },
+  "لثم": {
+    "href": "/wiki/%D9%84%D8%AB%D9%85"
+  },
+  "لج": {
+    "href": "/wiki/%D9%84%D8%AC"
+  },
+  "لجأ": {
+    "href": "/wiki/%D9%84%D8%AC%D8%A3"
+  },
+  "لجئ": {
+    "href": "/wiki/%D9%84%D8%AC%D8%A6"
+  },
+  "لجم": {
+    "href": "/wiki/%D9%84%D8%AC%D9%85"
+  },
+  "لحج": {
+    "href": "/wiki/%D9%84%D8%AD%D8%AC"
+  },
+  "لحس": {
+    "href": "/wiki/%D9%84%D8%AD%D8%B3"
+  },
+  "لحظ": {
+    "href": "/wiki/%D9%84%D8%AD%D8%B8"
+  },
+  "لحق": {
+    "href": "/wiki/%D9%84%D8%AD%D9%82"
+  },
+  "لحم": {
+    "href": "/wiki/%D9%84%D8%AD%D9%85"
+  },
+  "لحن": {
+    "href": "/wiki/%D9%84%D8%AD%D9%86"
+  },
+  "لحى": {
+    "href": "/wiki/%D9%84%D8%AD%D9%89"
+  },
+  "لدغ": {
+    "href": "/wiki/%D9%84%D8%AF%D8%BA"
+  },
+  "لذ": {
+    "href": "/wiki/%D9%84%D8%B0"
+  },
+  "لزج": {
+    "href": "/wiki/%D9%84%D8%B2%D8%AC"
+  },
+  "لزق": {
+    "href": "/wiki/%D9%84%D8%B2%D9%82"
+  },
+  "لزم": {
+    "href": "/wiki/%D9%84%D8%B2%D9%85"
+  },
+  "لسع": {
+    "href": "/wiki/%D9%84%D8%B3%D8%B9"
+  },
+  "لص": {
+    "href": "/wiki/%D9%84%D8%B5"
+  },
+  "لصق": {
+    "href": "/wiki/%D9%84%D8%B5%D9%82"
+  },
+  "لطخ": {
+    "href": "/wiki/%D9%84%D8%B7%D8%AE"
+  },
+  "لطس": {
+    "href": "/wiki/%D9%84%D8%B7%D8%B3"
+  },
+  "لطش": {
+    "href": "/wiki/%D9%84%D8%B7%D8%B4"
+  },
+  "لطف": {
+    "href": "/wiki/%D9%84%D8%B7%D9%81"
+  },
+  "لطم": {
+    "href": "/wiki/%D9%84%D8%B7%D9%85"
+  },
+  "لظي": {
+    "href": "/wiki/%D9%84%D8%B8%D9%8A"
+  },
+  "لعب": {
+    "href": "/wiki/%D9%84%D8%B9%D8%A8"
+  },
+  "لعق": {
+    "href": "/wiki/%D9%84%D8%B9%D9%82"
+  },
+  "لعن": {
+    "href": "/wiki/%D9%84%D8%B9%D9%86"
+  },
+  "لغز": {
+    "href": "/wiki/%D9%84%D8%BA%D8%B2"
+  },
+  "لغط": {
+    "href": "/wiki/%D9%84%D8%BA%D8%B7"
+  },
+  "لغم": {
+    "href": "/wiki/%D9%84%D8%BA%D9%85"
+  },
+  "لف": {
+    "href": "/wiki/%D9%84%D9%81"
+  },
+  "لفت": {
+    "href": "/wiki/%D9%84%D9%81%D8%AA"
+  },
+  "لفح": {
+    "href": "/wiki/%D9%84%D9%81%D8%AD"
+  },
+  "لفظ": {
+    "href": "/wiki/%D9%84%D9%81%D8%B8"
+  },
+  "لقح": {
+    "href": "/wiki/%D9%84%D9%82%D8%AD"
+  },
+  "لقن": {
+    "href": "/wiki/%D9%84%D9%82%D9%86"
+  },
+  "لقي": {
+    "href": "/wiki/%D9%84%D9%82%D9%8A"
+  },
+  "لكز": {
+    "href": "/wiki/%D9%84%D9%83%D8%B2"
+  },
+  "لكم": {
+    "href": "/wiki/%D9%84%D9%83%D9%85"
+  },
+  "لمح": {
+    "href": "/wiki/%D9%84%D9%85%D8%AD"
+  },
+  "لمس": {
+    "href": "/wiki/%D9%84%D9%85%D8%B3"
+  },
+  "لمع": {
+    "href": "/wiki/%D9%84%D9%85%D8%B9"
+  },
+  "لها": {
+    "href": "/wiki/%D9%84%D9%87%D8%A7"
+  },
+  "لهب": {
+    "href": "/wiki/%D9%84%D9%87%D8%A8"
+  },
+  "لهث": {
+    "href": "/wiki/%D9%84%D9%87%D8%AB"
+  },
+  "لهق": {
+    "href": "/wiki/%D9%84%D9%87%D9%82"
+  },
+  "لهي": {
+    "href": "/wiki/%D9%84%D9%87%D9%8A"
+  },
+  "لوث": {
+    "href": "/wiki/%D9%84%D9%88%D8%AB"
+  },
+  "لوى": {
+    "href": "/wiki/%D9%84%D9%88%D9%89"
+  },
+  "ليس": {
+    "href": "/wiki/%D9%84%D9%8A%D8%B3"
+  },
+  "مئق": {
+    "href": "/wiki/%D9%85%D8%A6%D9%82"
+  },
+  "ماء": {
+    "href": "/wiki/%D9%85%D8%A7%D8%A1"
+  },
+  "مات": {
+    "href": "/wiki/%D9%85%D8%A7%D8%AA"
+  },
+  "مار": {
+    "href": "/wiki/%D9%85%D8%A7%D8%B1"
+  },
+  "ماز": {
+    "href": "/wiki/%D9%85%D8%A7%D8%B2"
+  },
+  "ماع": {
+    "href": "/wiki/%D9%85%D8%A7%D8%B9"
+  },
+  "مال": {
+    "href": "/wiki/%D9%85%D8%A7%D9%84"
+  },
+  "مان": {
+    "href": "/wiki/%D9%85%D8%A7%D9%86"
+  },
+  "ماه": {
+    "href": "/wiki/%D9%85%D8%A7%D9%87"
+  },
+  "مت": {
+    "href": "/wiki/%D9%85%D8%AA"
+  },
+  "متن": {
+    "href": "/wiki/%D9%85%D8%AA%D9%86"
+  },
+  "مثل": {
+    "href": "/wiki/%D9%85%D8%AB%D9%84"
+  },
+  "مثن": {
+    "href": "/wiki/%D9%85%D8%AB%D9%86"
+  },
+  "مج": {
+    "href": "/wiki/%D9%85%D8%AC"
+  },
+  "مجد": {
+    "href": "/wiki/%D9%85%D8%AC%D8%AF"
+  },
+  "مجر": {
+    "href": "/wiki/%D9%85%D8%AC%D8%B1"
+  },
+  "مجل": {
+    "href": "/wiki/%D9%85%D8%AC%D9%84"
+  },
+  "محا": {
+    "href": "/wiki/%D9%85%D8%AD%D8%A7"
+  },
+  "محص": {
+    "href": "/wiki/%D9%85%D8%AD%D8%B5"
+  },
+  "محق": {
+    "href": "/wiki/%D9%85%D8%AD%D9%82"
+  },
+  "محل": {
+    "href": "/wiki/%D9%85%D8%AD%D9%84"
+  },
+  "محى": {
+    "href": "/wiki/%D9%85%D8%AD%D9%89"
+  },
+  "مخض": {
+    "href": "/wiki/%D9%85%D8%AE%D8%B6"
+  },
+  "مد": {
+    "href": "/wiki/%D9%85%D8%AF"
+  },
+  "مدح": {
+    "href": "/wiki/%D9%85%D8%AF%D8%AD"
+  },
+  "مدى": {
+    "href": "/wiki/%D9%85%D8%AF%D9%89"
+  },
+  "مر": {
+    "href": "/wiki/%D9%85%D8%B1"
+  },
+  "مرج": {
+    "href": "/wiki/%D9%85%D8%B1%D8%AC"
+  },
+  "مرح": {
+    "href": "/wiki/%D9%85%D8%B1%D8%AD"
+  },
+  "مرخ": {
+    "href": "/wiki/%D9%85%D8%B1%D8%AE"
+  },
+  "مرد": {
+    "href": "/wiki/%D9%85%D8%B1%D8%AF"
+  },
+  "مرس": {
+    "href": "/wiki/%D9%85%D8%B1%D8%B3"
+  },
+  "مرش": {
+    "href": "/wiki/%D9%85%D8%B1%D8%B4"
+  },
+  "مرض": {
+    "href": "/wiki/%D9%85%D8%B1%D8%B6"
+  },
+  "مرق": {
+    "href": "/wiki/%D9%85%D8%B1%D9%82"
+  },
+  "مرن": {
+    "href": "/wiki/%D9%85%D8%B1%D9%86"
+  },
+  "مز": {
+    "href": "/wiki/%D9%85%D8%B2"
+  },
+  "مزج": {
+    "href": "/wiki/%D9%85%D8%B2%D8%AC"
+  },
+  "مزح": {
+    "href": "/wiki/%D9%85%D8%B2%D8%AD"
+  },
+  "مزق": {
+    "href": "/wiki/%D9%85%D8%B2%D9%82"
+  },
+  "مس": {
+    "href": "/wiki/%D9%85%D8%B3"
+  },
+  "مسح": {
+    "href": "/wiki/%D9%85%D8%B3%D8%AD"
+  },
+  "مسخ": {
+    "href": "/wiki/%D9%85%D8%B3%D8%AE"
+  },
+  "مسد": {
+    "href": "/wiki/%D9%85%D8%B3%D8%AF"
+  },
+  "مسك": {
+    "href": "/wiki/%D9%85%D8%B3%D9%83"
+  },
+  "مسى": {
+    "href": "/wiki/%D9%85%D8%B3%D9%89"
+  },
+  "مشط": {
+    "href": "/wiki/%D9%85%D8%B4%D8%B7"
+  },
+  "مشق": {
+    "href": "/wiki/%D9%85%D8%B4%D9%82"
+  },
+  "مشى": {
+    "href": "/wiki/%D9%85%D8%B4%D9%89"
+  },
+  "مص": {
+    "href": "/wiki/%D9%85%D8%B5"
+  },
+  "مضغ": {
+    "href": "/wiki/%D9%85%D8%B6%D8%BA"
+  },
+  "مضى": {
+    "href": "/wiki/%D9%85%D8%B6%D9%89"
+  },
+  "مطر": {
+    "href": "/wiki/%D9%85%D8%B7%D8%B1"
+  },
+  "مغد": {
+    "href": "/wiki/%D9%85%D8%BA%D8%AF"
+  },
+  "مغر": {
+    "href": "/wiki/%D9%85%D8%BA%D8%B1"
+  },
+  "مغص": {
+    "href": "/wiki/%D9%85%D8%BA%D8%B5"
+  },
+  "مقت": {
+    "href": "/wiki/%D9%85%D9%82%D8%AA"
+  },
+  "مقر": {
+    "href": "/wiki/%D9%85%D9%82%D8%B1"
+  },
+  "مقع": {
+    "href": "/wiki/%D9%85%D9%82%D8%B9"
+  },
+  "مقل": {
+    "href": "/wiki/%D9%85%D9%82%D9%84"
+  },
+  "مكث": {
+    "href": "/wiki/%D9%85%D9%83%D8%AB"
+  },
+  "مكر": {
+    "href": "/wiki/%D9%85%D9%83%D8%B1"
+  },
+  "مكس": {
+    "href": "/wiki/%D9%85%D9%83%D8%B3"
+  },
+  "مكن": {
+    "href": "/wiki/%D9%85%D9%83%D9%86"
+  },
+  "مل": {
+    "href": "/wiki/%D9%85%D9%84"
+  },
+  "ملأ": {
+    "href": "/wiki/%D9%85%D9%84%D8%A3"
+  },
+  "ملك": {
+    "href": "/wiki/%D9%85%D9%84%D9%83"
+  },
+  "من": {
+    "href": "/wiki/%D9%85%D9%86"
+  },
+  "منح": {
+    "href": "/wiki/%D9%85%D9%86%D8%AD"
+  },
+  "منع": {
+    "href": "/wiki/%D9%85%D9%86%D8%B9"
+  },
+  "منى": {
+    "href": "/wiki/%D9%85%D9%86%D9%89"
+  },
+  "مهد": {
+    "href": "/wiki/%D9%85%D9%87%D8%AF"
+  },
+  "مهر": {
+    "href": "/wiki/%D9%85%D9%87%D8%B1"
+  },
+  "مهل": {
+    "href": "/wiki/%D9%85%D9%87%D9%84"
+  },
+  "ميل": {
+    "href": "/wiki/%D9%85%D9%8A%D9%84"
+  },
+  "نأى": {
+    "href": "/wiki/%D9%86%D8%A3%D9%89"
+  },
+  "ناء": {
+    "href": "/wiki/%D9%86%D8%A7%D8%A1"
+  },
+  "ناب": {
+    "href": "/wiki/%D9%86%D8%A7%D8%A8"
+  },
+  "ناح": {
+    "href": "/wiki/%D9%86%D8%A7%D8%AD"
+  },
+  "ناس": {
+    "href": "/wiki/%D9%86%D8%A7%D8%B3"
+  },
+  "ناص": {
+    "href": "/wiki/%D9%86%D8%A7%D8%B5"
+  },
+  "ناط": {
+    "href": "/wiki/%D9%86%D8%A7%D8%B7"
+  },
+  "ناف": {
+    "href": "/wiki/%D9%86%D8%A7%D9%81"
+  },
+  "ناك": {
+    "href": "/wiki/%D9%86%D8%A7%D9%83"
+  },
+  "نال": {
+    "href": "/wiki/%D9%86%D8%A7%D9%84"
+  },
+  "نام": {
+    "href": "/wiki/%D9%86%D8%A7%D9%85"
+  },
+  "نبت": {
+    "href": "/wiki/%D9%86%D8%A8%D8%AA"
+  },
+  "نبح": {
+    "href": "/wiki/%D9%86%D8%A8%D8%AD"
+  },
+  "نبخ": {
+    "href": "/wiki/%D9%86%D8%A8%D8%AE"
+  },
+  "نبذ": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B0"
+  },
+  "نبر": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B1"
+  },
+  "نبز": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B2"
+  },
+  "نبس": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B3"
+  },
+  "نبش": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B4"
+  },
+  "نبض": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B6"
+  },
+  "نبع": {
+    "href": "/wiki/%D9%86%D8%A8%D8%B9"
+  },
+  "نبل": {
+    "href": "/wiki/%D9%86%D8%A8%D9%84"
+  },
+  "نبه": {
+    "href": "/wiki/%D9%86%D8%A8%D9%87"
+  },
+  "نتأ": {
+    "href": "/wiki/%D9%86%D8%AA%D8%A3"
+  },
+  "نتج": {
+    "href": "/wiki/%D9%86%D8%AA%D8%AC"
+  },
+  "نتف": {
+    "href": "/wiki/%D9%86%D8%AA%D9%81"
+  },
+  "نتن": {
+    "href": "/wiki/%D9%86%D8%AA%D9%86"
+  },
+  "نثر": {
+    "href": "/wiki/%D9%86%D8%AB%D8%B1"
+  },
+  "نجا": {
+    "href": "/wiki/%D9%86%D8%AC%D8%A7"
+  },
+  "نجب": {
+    "href": "/wiki/%D9%86%D8%AC%D8%A8"
+  },
+  "نجح": {
+    "href": "/wiki/%D9%86%D8%AC%D8%AD"
+  },
+  "نجد": {
+    "href": "/wiki/%D9%86%D8%AC%D8%AF"
+  },
+  "نجذ": {
+    "href": "/wiki/%D9%86%D8%AC%D8%B0"
+  },
+  "نجر": {
+    "href": "/wiki/%D9%86%D8%AC%D8%B1"
+  },
+  "نجس": {
+    "href": "/wiki/%D9%86%D8%AC%D8%B3"
+  },
+  "نجع": {
+    "href": "/wiki/%D9%86%D8%AC%D8%B9"
+  },
+  "نجف": {
+    "href": "/wiki/%D9%86%D8%AC%D9%81"
+  },
+  "نجل": {
+    "href": "/wiki/%D9%86%D8%AC%D9%84"
+  },
+  "نجم": {
+    "href": "/wiki/%D9%86%D8%AC%D9%85"
+  },
+  "نحت": {
+    "href": "/wiki/%D9%86%D8%AD%D8%AA"
+  },
+  "نحر": {
+    "href": "/wiki/%D9%86%D8%AD%D8%B1"
+  },
+  "نحس": {
+    "href": "/wiki/%D9%86%D8%AD%D8%B3"
+  },
+  "نحف": {
+    "href": "/wiki/%D9%86%D8%AD%D9%81"
+  },
+  "نحل": {
+    "href": "/wiki/%D9%86%D8%AD%D9%84"
+  },
+  "نحى": {
+    "href": "/wiki/%D9%86%D8%AD%D9%89"
+  },
+  "نخب": {
+    "href": "/wiki/%D9%86%D8%AE%D8%A8"
+  },
+  "نخر": {
+    "href": "/wiki/%D9%86%D8%AE%D8%B1"
+  },
+  "نخز": {
+    "href": "/wiki/%D9%86%D8%AE%D8%B2"
+  },
+  "نخس": {
+    "href": "/wiki/%D9%86%D8%AE%D8%B3"
+  },
+  "نخع": {
+    "href": "/wiki/%D9%86%D8%AE%D8%B9"
+  },
+  "نخل": {
+    "href": "/wiki/%D9%86%D8%AE%D9%84"
+  },
+  "نخم": {
+    "href": "/wiki/%D9%86%D8%AE%D9%85"
+  },
+  "ندا": {
+    "href": "/wiki/%D9%86%D8%AF%D8%A7"
+  },
+  "ندب": {
+    "href": "/wiki/%D9%86%D8%AF%D8%A8"
+  },
+  "ندغ": {
+    "href": "/wiki/%D9%86%D8%AF%D8%BA"
+  },
+  "ندم": {
+    "href": "/wiki/%D9%86%D8%AF%D9%85"
+  },
+  "ندي": {
+    "href": "/wiki/%D9%86%D8%AF%D9%8A"
+  },
+  "نذر": {
+    "href": "/wiki/%D9%86%D8%B0%D8%B1"
+  },
+  "نزح": {
+    "href": "/wiki/%D9%86%D8%B2%D8%AD"
+  },
+  "نزر": {
+    "href": "/wiki/%D9%86%D8%B2%D8%B1"
+  },
+  "نزع": {
+    "href": "/wiki/%D9%86%D8%B2%D8%B9"
+  },
+  "نزف": {
+    "href": "/wiki/%D9%86%D8%B2%D9%81"
+  },
+  "نزل": {
+    "href": "/wiki/%D9%86%D8%B2%D9%84"
+  },
+  "نزه": {
+    "href": "/wiki/%D9%86%D8%B2%D9%87"
+  },
+  "نسأ": {
+    "href": "/wiki/%D9%86%D8%B3%D8%A3"
+  },
+  "نسب": {
+    "href": "/wiki/%D9%86%D8%B3%D8%A8"
+  },
+  "نسج": {
+    "href": "/wiki/%D9%86%D8%B3%D8%AC"
+  },
+  "نسخ": {
+    "href": "/wiki/%D9%86%D8%B3%D8%AE"
+  },
+  "نسر": {
+    "href": "/wiki/%D9%86%D8%B3%D8%B1"
+  },
+  "نسغ": {
+    "href": "/wiki/%D9%86%D8%B3%D8%BA"
+  },
+  "نسف": {
+    "href": "/wiki/%D9%86%D8%B3%D9%81"
+  },
+  "نسق": {
+    "href": "/wiki/%D9%86%D8%B3%D9%82"
+  },
+  "نسل": {
+    "href": "/wiki/%D9%86%D8%B3%D9%84"
+  },
+  "نسي": {
+    "href": "/wiki/%D9%86%D8%B3%D9%8A"
+  },
+  "نشأ": {
+    "href": "/wiki/%D9%86%D8%B4%D8%A3"
+  },
+  "نشد": {
+    "href": "/wiki/%D9%86%D8%B4%D8%AF"
+  },
+  "نشر": {
+    "href": "/wiki/%D9%86%D8%B4%D8%B1"
+  },
+  "نشط": {
+    "href": "/wiki/%D9%86%D8%B4%D8%B7"
+  },
+  "نشق": {
+    "href": "/wiki/%D9%86%D8%B4%D9%82"
+  },
+  "نشل": {
+    "href": "/wiki/%D9%86%D8%B4%D9%84"
+  },
+  "نص": {
+    "href": "/wiki/%D9%86%D8%B5"
+  },
+  "نصب": {
+    "href": "/wiki/%D9%86%D8%B5%D8%A8"
+  },
+  "نصت": {
+    "href": "/wiki/%D9%86%D8%B5%D8%AA"
+  },
+  "نصح": {
+    "href": "/wiki/%D9%86%D8%B5%D8%AD"
+  },
+  "نصر": {
+    "href": "/wiki/%D9%86%D8%B5%D8%B1"
+  },
+  "نصل": {
+    "href": "/wiki/%D9%86%D8%B5%D9%84"
+  },
+  "نض": {
+    "href": "/wiki/%D9%86%D8%B6"
+  },
+  "نضب": {
+    "href": "/wiki/%D9%86%D8%B6%D8%A8"
+  },
+  "نضج": {
+    "href": "/wiki/%D9%86%D8%B6%D8%AC"
+  },
+  "نضح": {
+    "href": "/wiki/%D9%86%D8%B6%D8%AD"
+  },
+  "نضخ": {
+    "href": "/wiki/%D9%86%D8%B6%D8%AE"
+  },
+  "نضد": {
+    "href": "/wiki/%D9%86%D8%B6%D8%AF"
+  },
+  "نضر": {
+    "href": "/wiki/%D9%86%D8%B6%D8%B1"
+  },
+  "نط": {
+    "href": "/wiki/%D9%86%D8%B7"
+  },
+  "نطع": {
+    "href": "/wiki/%D9%86%D8%B7%D8%B9"
+  },
+  "نطف": {
+    "href": "/wiki/%D9%86%D8%B7%D9%81"
+  },
+  "نطق": {
+    "href": "/wiki/%D9%86%D8%B7%D9%82"
+  },
+  "نطل": {
+    "href": "/wiki/%D9%86%D8%B7%D9%84"
+  },
+  "نظر": {
+    "href": "/wiki/%D9%86%D8%B8%D8%B1"
+  },
+  "نظف": {
+    "href": "/wiki/%D9%86%D8%B8%D9%81"
+  },
+  "نظم": {
+    "href": "/wiki/%D9%86%D8%B8%D9%85"
+  },
+  "نعت": {
+    "href": "/wiki/%D9%86%D8%B9%D8%AA"
+  },
+  "نعر": {
+    "href": "/wiki/%D9%86%D8%B9%D8%B1"
+  },
+  "نعس": {
+    "href": "/wiki/%D9%86%D8%B9%D8%B3"
+  },
+  "نعش": {
+    "href": "/wiki/%D9%86%D8%B9%D8%B4"
+  },
+  "نعظ": {
+    "href": "/wiki/%D9%86%D8%B9%D8%B8"
+  },
+  "نعق": {
+    "href": "/wiki/%D9%86%D8%B9%D9%82"
+  },
+  "نعل": {
+    "href": "/wiki/%D9%86%D8%B9%D9%84"
+  },
+  "نعم": {
+    "href": "/wiki/%D9%86%D8%B9%D9%85"
+  },
+  "نغر": {
+    "href": "/wiki/%D9%86%D8%BA%D8%B1"
+  },
+  "نغص": {
+    "href": "/wiki/%D9%86%D8%BA%D8%B5"
+  },
+  "نغم": {
+    "href": "/wiki/%D9%86%D8%BA%D9%85"
+  },
+  "نفا": {
+    "href": "/wiki/%D9%86%D9%81%D8%A7"
+  },
+  "نفث": {
+    "href": "/wiki/%D9%86%D9%81%D8%AB"
+  },
+  "نفج": {
+    "href": "/wiki/%D9%86%D9%81%D8%AC"
+  },
+  "نفح": {
+    "href": "/wiki/%D9%86%D9%81%D8%AD"
+  },
+  "نفخ": {
+    "href": "/wiki/%D9%86%D9%81%D8%AE"
+  },
+  "نفد": {
+    "href": "/wiki/%D9%86%D9%81%D8%AF"
+  },
+  "نفذ": {
+    "href": "/wiki/%D9%86%D9%81%D8%B0"
+  },
+  "نفر": {
+    "href": "/wiki/%D9%86%D9%81%D8%B1"
+  },
+  "نفس": {
+    "href": "/wiki/%D9%86%D9%81%D8%B3"
+  },
+  "نفض": {
+    "href": "/wiki/%D9%86%D9%81%D8%B6"
+  },
+  "نفع": {
+    "href": "/wiki/%D9%86%D9%81%D8%B9"
+  },
+  "نفق": {
+    "href": "/wiki/%D9%86%D9%81%D9%82"
+  },
+  "نفل": {
+    "href": "/wiki/%D9%86%D9%81%D9%84"
+  },
+  "نفى": {
+    "href": "/wiki/%D9%86%D9%81%D9%89"
+  },
+  "نق": {
+    "href": "/wiki/%D9%86%D9%82"
+  },
+  "نقب": {
+    "href": "/wiki/%D9%86%D9%82%D8%A8"
+  },
+  "نقح": {
+    "href": "/wiki/%D9%86%D9%82%D8%AD"
+  },
+  "نقد": {
+    "href": "/wiki/%D9%86%D9%82%D8%AF"
+  },
+  "نقر": {
+    "href": "/wiki/%D9%86%D9%82%D8%B1"
+  },
+  "نقش": {
+    "href": "/wiki/%D9%86%D9%82%D8%B4"
+  },
+  "نقص": {
+    "href": "/wiki/%D9%86%D9%82%D8%B5"
+  },
+  "نقض": {
+    "href": "/wiki/%D9%86%D9%82%D8%B6"
+  },
+  "نقط": {
+    "href": "/wiki/%D9%86%D9%82%D8%B7"
+  },
+  "نقع": {
+    "href": "/wiki/%D9%86%D9%82%D8%B9"
+  },
+  "نقل": {
+    "href": "/wiki/%D9%86%D9%82%D9%84"
+  },
+  "نقم": {
+    "href": "/wiki/%D9%86%D9%82%D9%85"
+  },
+  "نكأ": {
+    "href": "/wiki/%D9%86%D9%83%D8%A3"
+  },
+  "نكح": {
+    "href": "/wiki/%D9%86%D9%83%D8%AD"
+  },
+  "نكر": {
+    "href": "/wiki/%D9%86%D9%83%D8%B1"
+  },
+  "نكس": {
+    "href": "/wiki/%D9%86%D9%83%D8%B3"
+  },
+  "نكص": {
+    "href": "/wiki/%D9%86%D9%83%D8%B5"
+  },
+  "نكف": {
+    "href": "/wiki/%D9%86%D9%83%D9%81"
+  },
+  "نكه": {
+    "href": "/wiki/%D9%86%D9%83%D9%87"
+  },
+  "نم": {
+    "href": "/wiki/%D9%86%D9%85"
+  },
+  "نما": {
+    "href": "/wiki/%D9%86%D9%85%D8%A7"
+  },
+  "نمش": {
+    "href": "/wiki/%D9%86%D9%85%D8%B4"
+  },
+  "نمص": {
+    "href": "/wiki/%D9%86%D9%85%D8%B5"
+  },
+  "نمق": {
+    "href": "/wiki/%D9%86%D9%85%D9%82"
+  },
+  "نمى": {
+    "href": "/wiki/%D9%86%D9%85%D9%89"
+  },
+  "نهب": {
+    "href": "/wiki/%D9%86%D9%87%D8%A8"
+  },
+  "نهج": {
+    "href": "/wiki/%D9%86%D9%87%D8%AC"
+  },
+  "نهد": {
+    "href": "/wiki/%D9%86%D9%87%D8%AF"
+  },
+  "نهر": {
+    "href": "/wiki/%D9%86%D9%87%D8%B1"
+  },
+  "نهز": {
+    "href": "/wiki/%D9%86%D9%87%D8%B2"
+  },
+  "نهش": {
+    "href": "/wiki/%D9%86%D9%87%D8%B4"
+  },
+  "نهض": {
+    "href": "/wiki/%D9%86%D9%87%D8%B6"
+  },
+  "نهق": {
+    "href": "/wiki/%D9%86%D9%87%D9%82"
+  },
+  "نهك": {
+    "href": "/wiki/%D9%86%D9%87%D9%83"
+  },
+  "نهى": {
+    "href": "/wiki/%D9%86%D9%87%D9%89"
+  },
+  "نوى": {
+    "href": "/wiki/%D9%86%D9%88%D9%89"
+  },
+  "هاء": {
+    "href": "/wiki/%D9%87%D8%A7%D8%A1"
+  },
+  "هاب": {
+    "href": "/wiki/%D9%87%D8%A7%D8%A8"
+  },
+  "هاج": {
+    "href": "/wiki/%D9%87%D8%A7%D8%AC"
+  },
+  "هاد": {
+    "href": "/wiki/%D9%87%D8%A7%D8%AF"
+  },
+  "هار": {
+    "href": "/wiki/%D9%87%D8%A7%D8%B1"
+  },
+  "هاس": {
+    "href": "/wiki/%D9%87%D8%A7%D8%B3"
+  },
+  "هال": {
+    "href": "/wiki/%D9%87%D8%A7%D9%84"
+  },
+  "هام": {
+    "href": "/wiki/%D9%87%D8%A7%D9%85"
+  },
+  "هان": {
+    "href": "/wiki/%D9%87%D8%A7%D9%86"
+  },
+  "هب": {
+    "href": "/wiki/%D9%87%D8%A8"
+  },
+  "هبد": {
+    "href": "/wiki/%D9%87%D8%A8%D8%AF"
+  },
+  "هبر": {
+    "href": "/wiki/%D9%87%D8%A8%D8%B1"
+  },
+  "هبط": {
+    "href": "/wiki/%D9%87%D8%A8%D8%B7"
+  },
+  "هتف": {
+    "href": "/wiki/%D9%87%D8%AA%D9%81"
+  },
+  "هتك": {
+    "href": "/wiki/%D9%87%D8%AA%D9%83"
+  },
+  "هجا": {
+    "href": "/wiki/%D9%87%D8%AC%D8%A7"
+  },
+  "هجد": {
+    "href": "/wiki/%D9%87%D8%AC%D8%AF"
+  },
+  "هجر": {
+    "href": "/wiki/%D9%87%D8%AC%D8%B1"
+  },
+  "هجم": {
+    "href": "/wiki/%D9%87%D8%AC%D9%85"
+  },
+  "هجن": {
+    "href": "/wiki/%D9%87%D8%AC%D9%86"
+  },
+  "هد": {
+    "href": "/wiki/%D9%87%D8%AF"
+  },
+  "هدأ": {
+    "href": "/wiki/%D9%87%D8%AF%D8%A3"
+  },
+  "هدب": {
+    "href": "/wiki/%D9%87%D8%AF%D8%A8"
+  },
+  "هدر": {
+    "href": "/wiki/%D9%87%D8%AF%D8%B1"
+  },
+  "هدف": {
+    "href": "/wiki/%D9%87%D8%AF%D9%81"
+  },
+  "هدم": {
+    "href": "/wiki/%D9%87%D8%AF%D9%85"
+  },
+  "هدى": {
+    "href": "/wiki/%D9%87%D8%AF%D9%89"
+  },
+  "هذر": {
+    "href": "/wiki/%D9%87%D8%B0%D8%B1"
+  },
+  "هذى": {
+    "href": "/wiki/%D9%87%D8%B0%D9%89"
+  },
+  "هر": {
+    "href": "/wiki/%D9%87%D8%B1"
+  },
+  "هرب": {
+    "href": "/wiki/%D9%87%D8%B1%D8%A8"
+  },
+  "هرج": {
+    "href": "/wiki/%D9%87%D8%B1%D8%AC"
+  },
+  "هرد": {
+    "href": "/wiki/%D9%87%D8%B1%D8%AF"
+  },
+  "هرس": {
+    "href": "/wiki/%D9%87%D8%B1%D8%B3"
+  },
+  "هرش": {
+    "href": "/wiki/%D9%87%D8%B1%D8%B4"
+  },
+  "هرق": {
+    "href": "/wiki/%D9%87%D8%B1%D9%82"
+  },
+  "هرم": {
+    "href": "/wiki/%D9%87%D8%B1%D9%85"
+  },
+  "هز": {
+    "href": "/wiki/%D9%87%D8%B2"
+  },
+  "هزأ": {
+    "href": "/wiki/%D9%87%D8%B2%D8%A3"
+  },
+  "هزئ": {
+    "href": "/wiki/%D9%87%D8%B2%D8%A6"
+  },
+  "هزج": {
+    "href": "/wiki/%D9%87%D8%B2%D8%AC"
+  },
+  "هزر": {
+    "href": "/wiki/%D9%87%D8%B2%D8%B1"
+  },
+  "هزل": {
+    "href": "/wiki/%D9%87%D8%B2%D9%84"
+  },
+  "هزم": {
+    "href": "/wiki/%D9%87%D8%B2%D9%85"
+  },
+  "هس": {
+    "href": "/wiki/%D9%87%D8%B3"
+  },
+  "هش": {
+    "href": "/wiki/%D9%87%D8%B4"
+  },
+  "هشم": {
+    "href": "/wiki/%D9%87%D8%B4%D9%85"
+  },
+  "هصر": {
+    "href": "/wiki/%D9%87%D8%B5%D8%B1"
+  },
+  "هضب": {
+    "href": "/wiki/%D9%87%D8%B6%D8%A8"
+  },
+  "هضم": {
+    "href": "/wiki/%D9%87%D8%B6%D9%85"
+  },
+  "هطع": {
+    "href": "/wiki/%D9%87%D8%B7%D8%B9"
+  },
+  "هطل": {
+    "href": "/wiki/%D9%87%D8%B7%D9%84"
+  },
+  "هفا": {
+    "href": "/wiki/%D9%87%D9%81%D8%A7"
+  },
+  "هلع": {
+    "href": "/wiki/%D9%87%D9%84%D8%B9"
+  },
+  "هلك": {
+    "href": "/wiki/%D9%87%D9%84%D9%83"
+  },
+  "هم": {
+    "href": "/wiki/%D9%87%D9%85"
+  },
+  "همد": {
+    "href": "/wiki/%D9%87%D9%85%D8%AF"
+  },
+  "همس": {
+    "href": "/wiki/%D9%87%D9%85%D8%B3"
+  },
+  "هن": {
+    "href": "/wiki/%D9%87%D9%86"
+  },
+  "هنأ": {
+    "href": "/wiki/%D9%87%D9%86%D8%A3"
+  },
+  "هنئ": {
+    "href": "/wiki/%D9%87%D9%86%D8%A6"
+  },
+  "هوس": {
+    "href": "/wiki/%D9%87%D9%88%D8%B3"
+  },
+  "هوى": {
+    "href": "/wiki/%D9%87%D9%88%D9%89"
+  },
+  "هوي": {
+    "href": "/wiki/%D9%87%D9%88%D9%8A"
+  },
+  "هيف": {
+    "href": "/wiki/%D9%87%D9%8A%D9%81"
+  },
+  "وأد": {
+    "href": "/wiki/%D9%88%D8%A3%D8%AF"
+  },
+  "وأى": {
+    "href": "/wiki/%D9%88%D8%A3%D9%89"
+  },
+  "وبر": {
+    "href": "/wiki/%D9%88%D8%A8%D8%B1"
+  },
+  "وبل": {
+    "href": "/wiki/%D9%88%D8%A8%D9%84"
+  },
+  "وتد": {
+    "href": "/wiki/%D9%88%D8%AA%D8%AF"
+  },
+  "وتر": {
+    "href": "/wiki/%D9%88%D8%AA%D8%B1"
+  },
+  "وثب": {
+    "href": "/wiki/%D9%88%D8%AB%D8%A8"
+  },
+  "وثر": {
+    "href": "/wiki/%D9%88%D8%AB%D8%B1"
+  },
+  "وثق": {
+    "href": "/wiki/%D9%88%D8%AB%D9%82"
+  },
+  "وجب": {
+    "href": "/wiki/%D9%88%D8%AC%D8%A8"
+  },
+  "وجد": {
+    "href": "/wiki/%D9%88%D8%AC%D8%AF"
+  },
+  "وجر": {
+    "href": "/wiki/%D9%88%D8%AC%D8%B1"
+  },
+  "وجز": {
+    "href": "/wiki/%D9%88%D8%AC%D8%B2"
+  },
+  "وجس": {
+    "href": "/wiki/%D9%88%D8%AC%D8%B3"
+  },
+  "وجع": {
+    "href": "/wiki/%D9%88%D8%AC%D8%B9"
+  },
+  "وجف": {
+    "href": "/wiki/%D9%88%D8%AC%D9%81"
+  },
+  "وجل": {
+    "href": "/wiki/%D9%88%D8%AC%D9%84"
+  },
+  "وجم": {
+    "href": "/wiki/%D9%88%D8%AC%D9%85"
+  },
+  "وجه": {
+    "href": "/wiki/%D9%88%D8%AC%D9%87"
+  },
+  "وحد": {
+    "href": "/wiki/%D9%88%D8%AD%D8%AF"
+  },
+  "وحل": {
+    "href": "/wiki/%D9%88%D8%AD%D9%84"
+  },
+  "وحى": {
+    "href": "/wiki/%D9%88%D8%AD%D9%89"
+  },
+  "وخم": {
+    "href": "/wiki/%D9%88%D8%AE%D9%85"
+  },
+  "ود": {
+    "href": "/wiki/%D9%88%D8%AF"
+  },
+  "ودج": {
+    "href": "/wiki/%D9%88%D8%AF%D8%AC"
+  },
+  "ودع": {
+    "href": "/wiki/%D9%88%D8%AF%D8%B9"
+  },
+  "ودى": {
+    "href": "/wiki/%D9%88%D8%AF%D9%89"
+  },
+  "ورث": {
+    "href": "/wiki/%D9%88%D8%B1%D8%AB"
+  },
+  "ورد": {
+    "href": "/wiki/%D9%88%D8%B1%D8%AF"
+  },
+  "ورع": {
+    "href": "/wiki/%D9%88%D8%B1%D8%B9"
+  },
+  "ورك": {
+    "href": "/wiki/%D9%88%D8%B1%D9%83"
+  },
+  "ورم": {
+    "href": "/wiki/%D9%88%D8%B1%D9%85"
+  },
+  "ورى": {
+    "href": "/wiki/%D9%88%D8%B1%D9%89"
+  },
+  "وزن": {
+    "href": "/wiki/%D9%88%D8%B2%D9%86"
+  },
+  "وسخ": {
+    "href": "/wiki/%D9%88%D8%B3%D8%AE"
+  },
+  "وسط": {
+    "href": "/wiki/%D9%88%D8%B3%D8%B7"
+  },
+  "وسع": {
+    "href": "/wiki/%D9%88%D8%B3%D8%B9"
+  },
+  "وسق": {
+    "href": "/wiki/%D9%88%D8%B3%D9%82"
+  },
+  "وسم": {
+    "href": "/wiki/%D9%88%D8%B3%D9%85"
+  },
+  "وشق": {
+    "href": "/wiki/%D9%88%D8%B4%D9%82"
+  },
+  "وشك": {
+    "href": "/wiki/%D9%88%D8%B4%D9%83"
+  },
+  "وشم": {
+    "href": "/wiki/%D9%88%D8%B4%D9%85"
+  },
+  "وشى": {
+    "href": "/wiki/%D9%88%D8%B4%D9%89"
+  },
+  "وصب": {
+    "href": "/wiki/%D9%88%D8%B5%D8%A8"
+  },
+  "وصد": {
+    "href": "/wiki/%D9%88%D8%B5%D8%AF"
+  },
+  "وصف": {
+    "href": "/wiki/%D9%88%D8%B5%D9%81"
+  },
+  "وصل": {
+    "href": "/wiki/%D9%88%D8%B5%D9%84"
+  },
+  "وضأ": {
+    "href": "/wiki/%D9%88%D8%B6%D8%A3"
+  },
+  "وضؤ": {
+    "href": "/wiki/%D9%88%D8%B6%D8%A4"
+  },
+  "وضح": {
+    "href": "/wiki/%D9%88%D8%B6%D8%AD"
+  },
+  "وضع": {
+    "href": "/wiki/%D9%88%D8%B6%D8%B9"
+  },
+  "وطئ": {
+    "href": "/wiki/%D9%88%D8%B7%D8%A6"
+  },
+  "وطن": {
+    "href": "/wiki/%D9%88%D8%B7%D9%86"
+  },
+  "وعد": {
+    "href": "/wiki/%D9%88%D8%B9%D8%AF"
+  },
+  "وعظ": {
+    "href": "/wiki/%D9%88%D8%B9%D8%B8"
+  },
+  "وعل": {
+    "href": "/wiki/%D9%88%D8%B9%D9%84"
+  },
+  "وعى": {
+    "href": "/wiki/%D9%88%D8%B9%D9%89"
+  },
+  "وغد": {
+    "href": "/wiki/%D9%88%D8%BA%D8%AF"
+  },
+  "وغر": {
+    "href": "/wiki/%D9%88%D8%BA%D8%B1"
+  },
+  "وغل": {
+    "href": "/wiki/%D9%88%D8%BA%D9%84"
+  },
+  "وفد": {
+    "href": "/wiki/%D9%88%D9%81%D8%AF"
+  },
+  "وفر": {
+    "href": "/wiki/%D9%88%D9%81%D8%B1"
+  },
+  "وفق": {
+    "href": "/wiki/%D9%88%D9%81%D9%82"
+  },
+  "وفى": {
+    "href": "/wiki/%D9%88%D9%81%D9%89"
+  },
+  "وقب": {
+    "href": "/wiki/%D9%88%D9%82%D8%A8"
+  },
+  "وقت": {
+    "href": "/wiki/%D9%88%D9%82%D8%AA"
+  },
+  "وقد": {
+    "href": "/wiki/%D9%88%D9%82%D8%AF"
+  },
+  "وقع": {
+    "href": "/wiki/%D9%88%D9%82%D8%B9"
+  },
+  "وقف": {
+    "href": "/wiki/%D9%88%D9%82%D9%81"
+  },
+  "وقى": {
+    "href": "/wiki/%D9%88%D9%82%D9%89"
+  },
+  "وكر": {
+    "href": "/wiki/%D9%88%D9%83%D8%B1"
+  },
+  "وكز": {
+    "href": "/wiki/%D9%88%D9%83%D8%B2"
+  },
+  "ولد": {
+    "href": "/wiki/%D9%88%D9%84%D8%AF"
+  },
+  "ولع": {
+    "href": "/wiki/%D9%88%D9%84%D8%B9"
+  },
+  "ولي": {
+    "href": "/wiki/%D9%88%D9%84%D9%8A"
+  },
+  "ومض": {
+    "href": "/wiki/%D9%88%D9%85%D8%B6"
+  },
+  "ونى": {
+    "href": "/wiki/%D9%88%D9%86%D9%89"
+  },
+  "وهب": {
+    "href": "/wiki/%D9%88%D9%87%D8%A8"
+  },
+  "وهج": {
+    "href": "/wiki/%D9%88%D9%87%D8%AC"
+  },
+  "وهل": {
+    "href": "/wiki/%D9%88%D9%87%D9%84"
+  },
+  "وهم": {
+    "href": "/wiki/%D9%88%D9%87%D9%85"
+  },
+  "وهن": {
+    "href": "/wiki/%D9%88%D9%87%D9%86"
+  },
+  "وهى": {
+    "href": "/wiki/%D9%88%D9%87%D9%89"
+  },
+  "وهي": {
+    "href": "/wiki/%D9%88%D9%87%D9%8A"
+  },
+  "يئس": {
+    "href": "/wiki/%D9%8A%D8%A6%D8%B3"
+  },
+  "يبس": {
+    "href": "/wiki/%D9%8A%D8%A8%D8%B3"
+  },
+  "يتم": {
+    "href": "/wiki/%D9%8A%D8%AA%D9%85"
+  },
+  "يدى": {
+    "href": "/wiki/%D9%8A%D8%AF%D9%89"
+  },
+  "يدي": {
+    "href": "/wiki/%D9%8A%D8%AF%D9%8A"
+  },
+  "يسر": {
+    "href": "/wiki/%D9%8A%D8%B3%D8%B1"
+  },
+  "يعر": {
+    "href": "/wiki/%D9%8A%D8%B9%D8%B1"
+  },
+  "يقظ": {
+    "href": "/wiki/%D9%8A%D9%82%D8%B8"
+  },
+  "ينع": {
+    "href": "/wiki/%D9%8A%D9%86%D8%B9"
+  }
+}
