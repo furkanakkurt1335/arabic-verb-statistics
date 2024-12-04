@@ -4,21 +4,7 @@ from pathlib import Path
 
 def get_tense_forms(form, soup, logger):
     ps = [p for p in soup.find_all('p')
-            if p.find('strong', class_='Arab headword', lang='ar') and
-                (
-                    (
-                        p.find_previous_sibling('div') and
-                        p.find_previous_sibling('div').find('h3') and
-                        p.find_previous_sibling('div').find('h3').text == 'Verb'
-                    )
-                    or
-                    (
-                        p.find_previous_sibling('div') and
-                        p.find_previous_sibling('div').find('h4') and
-                        p.find_previous_sibling('div').find('h4').text == 'Verb'
-                    )
-                )
-        ]
+            if p.find('strong', class_='Arab headword', lang='ar')]
     forms = []
     for p in ps:
         headword_lines = p.find_all('span', class_='headword-line')
@@ -66,13 +52,21 @@ def main():
         with output_path.open('r', encoding='utf-8') as f:
             verb_d = json.load(f)
 
+    html_dir = data_dir / 'html'
+    html_dir.mkdir(exist_ok=True)
     for i, (form, data) in enumerate(verb_d.items()):
         logger.info(f'Processing {form}')
-        if 'forms' in data:
-            continue
-        href = data['href']
-        response = requests.get(base_url + href)
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # if 'forms' in data and data['forms']:
+        #     continue
+        form_html_path = html_dir / f'{form}.html'
+        if form_html_path.exists():
+            with form_html_path.open('r', encoding='utf-8') as f:
+                soup = BeautifulSoup(f.read(), 'html.parser')
+        else:
+            response = requests.get(base_url + data['href'])
+            with form_html_path.open('w', encoding='utf-8') as f:
+                f.write(response.text)
+            soup = BeautifulSoup(response.text, 'html.parser')
         tense_forms = get_tense_forms(form, soup, logger)
         logger.info(f'Tense forms: {tense_forms}')
         verb_d[form]['forms'] = tense_forms
