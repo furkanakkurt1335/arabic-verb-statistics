@@ -3,13 +3,12 @@ from pathlib import Path
 
 def get_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-f', '--forms', type=str, help='Path to forms.json', required=True)
+    parser.add_argument('-f', '--forms', type=Path, help='Path to forms.json', required=True)
     return parser.parse_args()
 
 def main():
     args = get_args()
-    forms_path = Path(args.forms)
-    with forms_path.open('r', encoding='utf-8') as f:
+    with args.forms.open('r', encoding='utf-8') as f:
         verb_d = json.load(f)
     
     
@@ -64,7 +63,9 @@ def main():
                 if past_vowels_str == 'a-i-a' and present_vowels_str == 'a-u-u':
                     print(form, past_vowels_str, present_vowels_str)
     
-    output_path = Path('data', 'vowel_orders.json')
+    script_dir = Path(__file__).parent
+    data_dir = script_dir / '../data'
+    output_path = data_dir / 'vowel_orders.json'
     with output_path.open('w', encoding='utf-8') as f:
         json.dump(vowel_d, f, ensure_ascii=False, indent=2)
     

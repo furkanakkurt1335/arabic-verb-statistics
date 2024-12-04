@@ -10,8 +10,9 @@ def get_verbs(soup):
         for li in group.find_all('li'):
             link = li.find('a')
             href = link['href']
+            href_decoded = requests.utils.unquote(href)
             form = link['title']
-            verbs.append({'form': form, 'href': href})
+            verbs.append({'form': form, 'href': href_decoded})
     return verbs
 
 def main():
@@ -19,7 +20,7 @@ def main():
     category_url = base_url + '/wiki/Category:Arabic_form-I_verbs' # Other forms are deterministic.
     response = requests.get(category_url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    
+
     verb_d = {}
     verbs = get_verbs(soup)
     for verb in verbs:
@@ -36,9 +37,10 @@ def main():
             verb_d[verb['form']] = {'href': verb['href']}
         next_page = soup.find('a', string='next page')
 
-    data_dir = Path('data')
+    script_dir = Path(__file__).parent
+    data_dir = script_dir / '../data'
     data_dir.mkdir(exist_ok=True)
-    output_path = Path(data_dir, 'verbs.json')
+    output_path = data_dir / 'verbs.json'
     with output_path.open('w', encoding='utf-8') as f:
         json.dump(verb_d, f, ensure_ascii=False, indent=2)
 
