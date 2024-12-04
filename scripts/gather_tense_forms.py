@@ -1,4 +1,4 @@
-import argparse, json, logging, re, requests
+import argparse, json, logging, requests
 from bs4 import BeautifulSoup
 from pathlib import Path
 
@@ -20,73 +20,27 @@ def get_tense_forms(form, soup, logger):
                 )
         ]
     forms = []
-    past_or_pattern = re.compile(r'(.*) or (.*)')
-    past_two_or_pattern = re.compile(r'(.*) or (.*) or (.*)')
     for p in ps:
-        verb_form = p.find('span', class_='ib-content qualifier-content')
-        if not verb_form or verb_form.text != 'I':
-            continue
-        past_form_find = p.find('strong', class_='Arab headword', lang='ar')
-        if not past_form_find:
-            logger.info(f'No past form found for {form}')
-            continue
-        past_form = past_form_find.text
-        logger.info(f'Past form: {past_form} for {form}')
-        past_two_or_search = past_two_or_pattern.search(past_form)
-        if not past_two_or_search:
-            past_or_search = past_or_pattern.search(past_form)
-        past_transliteration_find = p.find('span', class_='Latn', lang='ar-Latn')
-        if not past_transliteration_find:
-            logger.info(f'No transliteration found for {form}')
-            continue
-        past_transliteration = past_transliteration_find.text
-        logger.info(f'Past transliteration: {past_transliteration} for {form}')
-        past_two_or_tr_search = past_two_or_pattern.search(past_transliteration)
-        if not past_two_or_tr_search:
-            past_or_tr_search = past_or_pattern.search(past_transliteration)
-        bs = [b for b in p.find_all('b', class_='Arab', lang='ar') 
-                if b.find_previous_sibling('i') and b.find_previous_sibling('i', string=lambda text: text != 'or').text == 'non-past'
-        ]
-        d = {'present_forms': [], 'transliterations': []}
-        for i, b in enumerate(bs):
-            present_form = b.text
-            logger.info(f'Present form: {present_form} for {form}')
-            d['present_forms'].append(present_form)
-            transliteration_find = b.find_next_sibling('span', class_='Latn', lang='ar-Latn')
-            if transliteration_find:
-                tr_text = transliteration_find.text
-                logger.info(f'Transliteration: {tr_text} for {form}')
-                d['transliterations'].append(tr_text)
-        for i in range(len(d['present_forms'])):
-            if i < len(d['transliterations']):
-                present_d = {'original': d['present_forms'][i], 'transliteration': d['transliterations'][i]}
-            else:
-                present_d = {'original': d['present_forms'][i]}
-            if past_two_or_search and past_two_or_tr_search:
-                past_form1, past_form2, past_form3 = past_two_or_search.groups()
-                past_transliteration1, past_transliteration2, past_transliteration3 = past_two_or_tr_search.groups()
-                form_d1 = {'past': {'original': past_form1, 'transliteration': past_transliteration3}, 'present': present_d}
-                form_d2 = {'past': {'original': past_form2, 'transliteration': past_transliteration2}, 'present': present_d}
-                form_d3 = {'past': {'original': past_form3, 'transliteration': past_transliteration1}, 'present': present_d}
-                if form_d1 not in forms:
-                    forms.append(form_d1)
-                if form_d2 not in forms:
-                    forms.append(form_d2)
-                if form_d3 not in forms:
-                    forms.append(form_d3)
-            elif past_or_search and past_or_tr_search:
-                past_form1, past_form2 = past_or_search.groups()
-                past_transliteration1, past_transliteration2 = past_or_tr_search.groups()
-                form_d1 = {'past': {'original': past_form1, 'transliteration': past_transliteration2}, 'present': present_d}
-                form_d2 = {'past': {'original': past_form2, 'transliteration': past_transliteration1}, 'present': present_d}
-                if form_d1 not in forms:
-                    forms.append(form_d1)
-                if form_d2 not in forms:
-                    forms.append(form_d2)
-            else:
-                form_d = {'past': {'original': past_form, 'transliteration': past_transliteration}, 'present': present_d}
-                if form_d not in forms:
-                    forms.append(form_d)
+        headword_lines = p.find_all('span', class_='headword-line')
+        for headword_line in headword_lines:
+            verb_form = headword_line.find('span', class_='ib-content qualifier-content')
+            if not verb_form or verb_form.text != 'I':
+                continue
+            past_form_find = headword_line.find_all('strong', class_='Arab headword', lang='ar')
+            if not past_form_find:
+                logger.info(f'No past form found for {form}')
+                continue
+            past_forms = [past_form.text for past_form in past_form_find]
+            logger.info(f'Past forms: {past_forms} for {form}')
+            bs = [b for b in headword_line.find_all('b', class_='Arab', lang='ar') 
+                    if b.find_previous_sibling('i') and b.find_previous_sibling('i', string=lambda text: text != 'or').text == 'non-past'
+            ]
+            present_forms = []
+            for b in bs:
+                present_form = b.text
+                logger.info(f'Present form: {present_form} for {form}')
+                present_forms.append(present_form)
+            forms.append({'past': past_forms, 'present': present_forms})
     return forms
 
 def get_args():
@@ -108,15 +62,11 @@ def main():
     data_dir.mkdir(exist_ok=True)
     output_path = data_dir / 'forms.json'
 
-    # if output_path.exists():
-    #     with output_path.open('r', encoding='utf-8') as f:
-    #         verb_d = json.load(f)
+    if output_path.exists():
+        with output_path.open('r', encoding='utf-8') as f:
+            verb_d = json.load(f)
 
     for i, (form, data) in enumerate(verb_d.items()):
-        if form != 'تعس': # debugging
-            continue
-        # if form != 'أمر': # debugging
-        #     continue
         logger.info(f'Processing {form}')
         if 'forms' in data:
             continue
