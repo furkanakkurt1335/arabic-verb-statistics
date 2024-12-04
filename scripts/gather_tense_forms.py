@@ -18,7 +18,7 @@ def get_tense_forms(form, soup, logger):
                 continue
             past_forms = [past_form.text for past_form in past_form_find]
             logger.info(f'Past forms: {past_forms} for {form}')
-            bs = [b for b in headword_line.find_all('b', class_='Arab', lang='ar') 
+            bs = [b for b in headword_line.find_all('b', class_='Arab', lang='ar')
                     if b.find_previous_sibling('i') and b.find_previous_sibling('i', string=lambda text: text != 'or').text == 'non-past'
             ]
             present_forms = []
@@ -44,7 +44,8 @@ def main():
         verb_d = json.load(f)
 
     script_dir = Path(__file__).parent
-    data_dir = script_dir / '../data'
+    root_dir = script_dir.parent
+    data_dir = root_dir / 'data'
     data_dir.mkdir(exist_ok=True)
     output_path = data_dir / 'forms.json'
 
@@ -52,12 +53,12 @@ def main():
         with output_path.open('r', encoding='utf-8') as f:
             verb_d = json.load(f)
 
-    html_dir = data_dir / 'html'
+    html_dir = root_dir / 'html'
     html_dir.mkdir(exist_ok=True)
     for i, (form, data) in enumerate(verb_d.items()):
         logger.info(f'Processing {form}')
-        # if 'forms' in data and data['forms']:
-        #     continue
+        if 'forms' in data and data['forms']:
+            continue
         form_html_path = html_dir / f'{form}.html'
         if form_html_path.exists():
             with form_html_path.open('r', encoding='utf-8') as f:
