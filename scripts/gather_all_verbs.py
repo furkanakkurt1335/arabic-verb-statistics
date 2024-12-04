@@ -16,7 +16,7 @@ def get_verbs(soup):
 
 def main():
     base_url = 'https://en.wiktionary.org'
-    category_url = base_url + '/wiki/Category:Arabic_form-I_verbs'
+    category_url = base_url + '/wiki/Category:Arabic_form-I_verbs' # Other forms are deterministic.
     response = requests.get(category_url)
     soup = BeautifulSoup(response.text, 'html.parser')
     

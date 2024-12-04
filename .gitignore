@@ -1,4 +1,2 @@
-archive/
-.venv/
-test.html
+.DS_Store
 .vscode/
