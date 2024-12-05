@@ -1,0 +1,12142 @@
+{
+  "b -> d": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ʔabada",
+          "yaʔbidu"
+        ],
+        [
+          "rabada",
+          "yarbidu"
+        ],
+        [
+          "zabada",
+          "yazbidu"
+        ],
+        [
+          "habada",
+          "yahbidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "rabada",
+          "yarbudu"
+        ],
+        [
+          "zabada",
+          "yazbudu"
+        ],
+        [
+          "ʕabada",
+          "yaʕbudu"
+        ],
+        [
+          "labada",
+          "yalbudu"
+        ]
+      ]
+    }
+  },
+  "d -> b": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nadaba",
+          "yandubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "nadiba",
+          "yandabu"
+        ],
+        [
+          "hadiba",
+          "yahdabu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "hadaba",
+          "yahdibu"
+        ]
+      ]
+    }
+  },
+  "b -> h": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "jabaha",
+          "yajbahu"
+        ],
+        [
+          "šabiha",
+          "yašbahu"
+        ],
+        [
+          "nabiha",
+          "yanbahu"
+        ]
+      ]
+    }
+  },
+  "h -> b": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḏahaba",
+          "yaḏhabu"
+        ],
+        [
+          "rahiba",
+          "yarhabu"
+        ],
+        [
+          "ṣahiba",
+          "yaṣhabu"
+        ],
+        [
+          "lahiba",
+          "yalhabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṣahuba",
+          "yaṣhubu"
+        ],
+        [
+          "nahaba",
+          "yanhubu"
+        ]
+      ]
+    }
+  },
+  "j -> b": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥajaba",
+          "yaḥjubu"
+        ],
+        [
+          "šajaba",
+          "yašjubu"
+        ],
+        [
+          "najuba",
+          "yanjubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "šajiba",
+          "yašjabu"
+        ],
+        [
+          "ʕajiba",
+          "yaʕjabu"
+        ]
+      ]
+    }
+  },
+  "b -> k": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "rabaka",
+          "yarbuku"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rabika",
+          "yarbaku"
+        ]
+      ]
+    }
+  },
+  "k -> b": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rakiba",
+          "yarkabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rakaba",
+          "yarkubu"
+        ],
+        [
+          "sakaba",
+          "yaskubu"
+        ]
+      ]
+    }
+  },
+  "b -> l": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "jabala",
+          "yajbulu"
+        ],
+        [
+          "ṭabala",
+          "yaṭbulu"
+        ],
+        [
+          "ʕabula",
+          "yaʕbulu"
+        ],
+        [
+          "ʕabala",
+          "yaʕbulu"
+        ],
+        [
+          "nabala",
+          "yanbulu"
+        ],
+        [
+          "nabula",
+          "yanbulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "jabala",
+          "yajbilu"
+        ],
+        [
+          "kabala",
+          "yakbilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥabila",
+          "yaḥbalu"
+        ],
+        [
+          "ʕabila",
+          "yaʕbalu"
+        ],
+        [
+          "ʕabala",
+          "yaʕbalu"
+        ],
+        [
+          "qabila",
+          "yaqbalu"
+        ]
+      ]
+    }
+  },
+  "l -> b": {
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "jalaba",
+          "yajlibu"
+        ],
+        [
+          "jalaba",
+          "yajlibu"
+        ],
+        [
+          "ḥalaba",
+          "yaḥlibu"
+        ],
+        [
+          "ḵalaba",
+          "yaḵlibu"
+        ],
+        [
+          "ṣalaba",
+          "yaṣlibu"
+        ],
+        [
+          "ġalaba",
+          "yaġlibu"
+        ],
+        [
+          "qalaba",
+          "yaqlibu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 9,
+      "forms": [
+        [
+          "jalaba",
+          "yajlubu"
+        ],
+        [
+          "jalaba",
+          "yajlubu"
+        ],
+        [
+          "ḥalaba",
+          "yaḥlubu"
+        ],
+        [
+          "ḵalaba",
+          "yaḵlubu"
+        ],
+        [
+          "ḵalaba",
+          "yaḵlubu"
+        ],
+        [
+          "salaba",
+          "yaslubu"
+        ],
+        [
+          "ṣalaba",
+          "yaṣlubu"
+        ],
+        [
+          "ṣaluba",
+          "yaṣlubu"
+        ],
+        [
+          "ṭalaba",
+          "yaṭlubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaliba",
+          "yaḥlabu"
+        ],
+        [
+          "saliba",
+          "yaslabu"
+        ],
+        [
+          "ġaliba",
+          "yaġlabu"
+        ],
+        [
+          "kaliba",
+          "yaklabu"
+        ]
+      ]
+    }
+  },
+  "b -> n": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "tabana",
+          "yatbinu"
+        ],
+        [
+          "ġabana",
+          "yaġbinu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "tabina",
+          "yatbanu"
+        ],
+        [
+          "ḥabina",
+          "yaḥbanu"
+        ],
+        [
+          "ḥubina",
+          "yuḥbanu"
+        ],
+        [
+          "ṣabana",
+          "yaṣbanu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "jabuna",
+          "yajbunu"
+        ]
+      ]
+    }
+  },
+  "n -> b": {
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "janaba",
+          "yajnubu"
+        ],
+        [
+          "janaba",
+          "yajnubu"
+        ],
+        [
+          "janaba",
+          "yajnubu"
+        ],
+        [
+          "janaba",
+          "yajnubu"
+        ],
+        [
+          "janaba",
+          "yajnubu"
+        ],
+        [
+          "ḏanaba",
+          "yaḏnubu"
+        ],
+        [
+          "qanaba",
+          "yaqnubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "juniba",
+          "yujnabu"
+        ],
+        [
+          "ḵaniba",
+          "yaḵnabu"
+        ],
+        [
+          "ṭaniba",
+          "yaṭnabu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḏanaba",
+          "yaḏnibu"
+        ],
+        [
+          "qanaba",
+          "yaqnibu"
+        ]
+      ]
+    }
+  },
+  "b -> q": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʔabaqa",
+          "yaʔbiqu"
+        ],
+        [
+          "ḥabaqa",
+          "yaḥbiqu"
+        ],
+        [
+          "sabaqa",
+          "yasbiqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "dabiqa",
+          "yadbaqu"
+        ],
+        [
+          "ʕabiqa",
+          "yaʕbaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "sabaqa",
+          "yasbuqu"
+        ]
+      ]
+    }
+  },
+  "q -> b": {
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "ṯaqaba",
+          "yaṯqubu"
+        ],
+        [
+          "raqaba",
+          "yarqubu"
+        ],
+        [
+          "raqaba",
+          "yarqubu"
+        ],
+        [
+          "raqaba",
+          "yarqubu"
+        ],
+        [
+          "ʕaqaba",
+          "yaʕqubu"
+        ],
+        [
+          "naqaba",
+          "yanqubu"
+        ],
+        [
+          "naquba",
+          "yanqubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaqiba",
+          "yaḥqabu"
+        ],
+        [
+          "ḥaqaba",
+          "yaḥqabu"
+        ],
+        [
+          "raqiba",
+          "yarqabu"
+        ],
+        [
+          "naqiba",
+          "yanqabu"
+        ]
+      ]
+    }
+  },
+  "b -> r": {
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔabara",
+          "yaʔbiru"
+        ],
+        [
+          "sabara",
+          "yasbiru"
+        ],
+        [
+          "šabara",
+          "yašbiru"
+        ],
+        [
+          "ṣabara",
+          "yaṣbiru"
+        ],
+        [
+          "qabara",
+          "yaqbiru"
+        ],
+        [
+          "nabara",
+          "yanbiru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 18,
+      "forms": [
+        [
+          "ʔabara",
+          "yaʔburu"
+        ],
+        [
+          "ṯabara",
+          "yaṯburu"
+        ],
+        [
+          "jabara",
+          "yajburu"
+        ],
+        [
+          "ḥabara",
+          "yaḥburu"
+        ],
+        [
+          "ḵabara",
+          "yaḵburu"
+        ],
+        [
+          "ḵabara",
+          "yaḵburu"
+        ],
+        [
+          "ḵabura",
+          "yaḵburu"
+        ],
+        [
+          "dabara",
+          "yadburu"
+        ],
+        [
+          "dabara",
+          "yadburu"
+        ],
+        [
+          "zabara",
+          "yazburu"
+        ],
+        [
+          "sabara",
+          "yasburu"
+        ],
+        [
+          "šabara",
+          "yašburu"
+        ],
+        [
+          "ʕabara",
+          "yaʕburu"
+        ],
+        [
+          "ʕabara",
+          "yaʕburu"
+        ],
+        [
+          "qabara",
+          "yaqburu"
+        ],
+        [
+          "kabura",
+          "yakburu"
+        ],
+        [
+          "kabara",
+          "yakburu"
+        ],
+        [
+          "habara",
+          "yahburu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥabira",
+          "yaḥbaru"
+        ],
+        [
+          "dabira",
+          "yadbaru"
+        ]
+      ]
+    }
+  },
+  "r -> b": {
+    "a": {
+      "count": 10,
+      "forms": [
+        [
+          "tariba",
+          "yatrabu"
+        ],
+        [
+          "jariba",
+          "yajrabu"
+        ],
+        [
+          "ḥariba",
+          "yaḥrabu"
+        ],
+        [
+          "dariba",
+          "yadrabu"
+        ],
+        [
+          "sariba",
+          "yasrabu"
+        ],
+        [
+          "šariba",
+          "yašrabu"
+        ],
+        [
+          "ḍariba",
+          "yaḍrabu"
+        ],
+        [
+          "ḍuriba",
+          "yuḍrabu"
+        ],
+        [
+          "ṭariba",
+          "yaṭrabu"
+        ],
+        [
+          "qariba",
+          "yaqrabu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "taraba",
+          "yatribu"
+        ],
+        [
+          "ṯaraba",
+          "yaṯribu"
+        ],
+        [
+          "ḵaraba",
+          "yaḵribu"
+        ],
+        [
+          "ṣaraba",
+          "yaṣribu"
+        ],
+        [
+          "ḍaraba",
+          "yaḍribu"
+        ],
+        [
+          "ḍaraba",
+          "yaḍribu"
+        ],
+        [
+          "ḍaraba",
+          "yaḍribu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 10,
+      "forms": [
+        [
+          "ṣaraba",
+          "yaṣrubu"
+        ],
+        [
+          "ḍaraba",
+          "yaḍrubu"
+        ],
+        [
+          "ḍaruba",
+          "yaḍrubu"
+        ],
+        [
+          "ġaraba",
+          "yaġrubu"
+        ],
+        [
+          "ġaraba",
+          "yaġrubu"
+        ],
+        [
+          "ġaruba",
+          "yaġrubu"
+        ],
+        [
+          "qaruba",
+          "yaqrubu"
+        ],
+        [
+          "qaruba",
+          "yaqrubu"
+        ],
+        [
+          "karaba",
+          "yakrubu"
+        ],
+        [
+          "haraba",
+          "yahrubu"
+        ]
+      ]
+    }
+  },
+  "b -> s": {
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "ḥabasa",
+          "yaḥbisu"
+        ],
+        [
+          "ʕabasa",
+          "yaʕbisu"
+        ],
+        [
+          "ʕabasa",
+          "yaʕbisu"
+        ],
+        [
+          "qabasa",
+          "yaqbisu"
+        ],
+        [
+          "kabasa",
+          "yakbisu"
+        ],
+        [
+          "labasa",
+          "yalbisu"
+        ],
+        [
+          "nabasa",
+          "yanbisu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "labisa",
+          "yalbasu"
+        ]
+      ]
+    }
+  },
+  "s -> b": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥasaba",
+          "yaḥsubu"
+        ],
+        [
+          "ḥasuba",
+          "yaḥsubu"
+        ],
+        [
+          "rasaba",
+          "yarsubu"
+        ],
+        [
+          "qasuba",
+          "yaqsubu"
+        ],
+        [
+          "nasaba",
+          "yansubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥasiba",
+          "yaḥsabu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥasiba",
+          "yaḥsibu"
+        ],
+        [
+          "qasaba",
+          "yaqsibu"
+        ],
+        [
+          "kasaba",
+          "yaksibu"
+        ],
+        [
+          "nasaba",
+          "yansibu"
+        ]
+      ]
+    }
+  },
+  "b -> t": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṯabata",
+          "yaṯbutu"
+        ],
+        [
+          "nabata",
+          "yanbutu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "kabata",
+          "yakbitu"
+        ]
+      ]
+    }
+  },
+  "t -> b": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "rataba",
+          "yartubu"
+        ],
+        [
+          "rataba",
+          "yartubu"
+        ],
+        [
+          "ʕataba",
+          "yaʕtubu"
+        ],
+        [
+          "kataba",
+          "yaktubu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕataba",
+          "yaʕtibu"
+        ]
+      ]
+    }
+  },
+  "z -> b": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥazaba",
+          "yaḥzubu"
+        ],
+        [
+          "ʕazaba",
+          "yaʕzubu"
+        ],
+        [
+          "ʕazaba",
+          "yaʕzubu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕazaba",
+          "yaʕzibu"
+        ]
+      ]
+    }
+  },
+  "b -> z": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵabaza",
+          "yaḵbizu"
+        ],
+        [
+          "nabaza",
+          "yanbizu"
+        ]
+      ]
+    }
+  },
+  "b -> ġ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "dabaġa",
+          "yadbaġu"
+        ],
+        [
+          "ṣabaġa",
+          "yaṣbaġu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "dabaġa",
+          "yadbuġu"
+        ],
+        [
+          "ṣabaġa",
+          "yaṣbuġu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "dabaġa",
+          "yadbiġu"
+        ],
+        [
+          "ṣabaġa",
+          "yaṣbiġu"
+        ]
+      ]
+    }
+  },
+  "ġ -> b": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "raġiba",
+          "yarġabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "raġuba",
+          "yarġubu"
+        ]
+      ]
+    }
+  },
+  "b -> š": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ʔabaša",
+          "yaʔbušu"
+        ],
+        [
+          "ḥabaša",
+          "yaḥbušu"
+        ],
+        [
+          "dabaša",
+          "yadbušu"
+        ],
+        [
+          "nabaša",
+          "yanbušu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rabiša",
+          "yarbašu"
+        ]
+      ]
+    }
+  },
+  "š -> b": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "našiba",
+          "yanšabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "našaba",
+          "yanšubu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "našaba",
+          "yanšibu"
+        ]
+      ]
+    }
+  },
+  "b -> ʕ": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "tabiʕa",
+          "yatbaʕu"
+        ],
+        [
+          "šabiʕa",
+          "yašbaʕu"
+        ],
+        [
+          "ṣabaʕa",
+          "yaṣbaʕu"
+        ],
+        [
+          "ṭabaʕa",
+          "yaṭbaʕu"
+        ],
+        [
+          "qabaʕa",
+          "yaqbaʕu"
+        ],
+        [
+          "nabaʕa",
+          "yanbaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nabaʕa",
+          "yanbuʕu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nabaʕa",
+          "yanbiʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> b": {
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "taʕiba",
+          "yatʕabu"
+        ],
+        [
+          "raʕaba",
+          "yarʕabu"
+        ],
+        [
+          "šaʕaba",
+          "yašʕabu"
+        ],
+        [
+          "šaʕiba",
+          "yašʕabu"
+        ],
+        [
+          "laʕiba",
+          "yalʕabu"
+        ],
+        [
+          "laʕaba",
+          "yalʕabu"
+        ],
+        [
+          "laʕiba",
+          "yalʕabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṣaʕuba",
+          "yaṣʕubu"
+        ],
+        [
+          "kaʕaba",
+          "yakʕubu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "kaʕaba",
+          "yakʕibu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> b": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaḍaba",
+          "yaḵḍibu"
+        ],
+        [
+          "qaḍaba",
+          "yaqḍibu"
+        ],
+        [
+          "haḍaba",
+          "yahḍibu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaḍiba",
+          "yaḵḍabu"
+        ],
+        [
+          "ġaḍiba",
+          "yaġḍabu"
+        ],
+        [
+          "ġuḍiba",
+          "yuġḍabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naḍaba",
+          "yanḍubu"
+        ]
+      ]
+    }
+  },
+  "b -> ḍ": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "rabaḍa",
+          "yarbiḍu"
+        ],
+        [
+          "qabaḍa",
+          "yaqbiḍu"
+        ],
+        [
+          "nabaḍa",
+          "yanbiḍu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nabaḍa",
+          "yanbuḍu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> b": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "jaḏaba",
+          "yajḏibu"
+        ],
+        [
+          "kaḏaba",
+          "yakḏibu"
+        ]
+      ]
+    }
+  },
+  "b -> ḏ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nabaḏa",
+          "yanbiḏu"
+        ]
+      ]
+    }
+  },
+  "b -> ḥ": {
+    "a": {
+      "count": 11,
+      "forms": [
+        [
+          "ḏabaḥa",
+          "yaḏbaḥu"
+        ],
+        [
+          "rabiḥa",
+          "yarbaḥu"
+        ],
+        [
+          "sabaḥa",
+          "yasbaḥu"
+        ],
+        [
+          "šabaḥa",
+          "yašbaḥu"
+        ],
+        [
+          "šabaḥa",
+          "yašbaḥu"
+        ],
+        [
+          "šabaḥa",
+          "yašbaḥu"
+        ],
+        [
+          "šubiḥa",
+          "yušbaḥu"
+        ],
+        [
+          "ṣabaḥa",
+          "yaṣbaḥu"
+        ],
+        [
+          "ṣabiḥa",
+          "yaṣbaḥu"
+        ],
+        [
+          "kabaḥa",
+          "yakbaḥu"
+        ],
+        [
+          "nabaḥa",
+          "yanbaḥu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "šabuḥa",
+          "yašbuḥu"
+        ],
+        [
+          "ṣabuḥa",
+          "yaṣbuḥu"
+        ],
+        [
+          "qabuḥa",
+          "yaqbuḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> b": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "raḥiba",
+          "yarḥabu"
+        ],
+        [
+          "saḥaba",
+          "yasḥabu"
+        ],
+        [
+          "ṣaḥiba",
+          "yaṣḥabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "raḥuba",
+          "yarḥubu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> b": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣaḵiba",
+          "yaṣḵabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naḵaba",
+          "yanḵubu"
+        ]
+      ]
+    }
+  },
+  "b -> ḵ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṭabaḵa",
+          "yaṭbuḵu"
+        ],
+        [
+          "nabaḵa",
+          "yanbuḵu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "labaḵa",
+          "yalbaḵu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nabaḵa",
+          "yanbiḵu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> b": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥaṣaba",
+          "yaḥṣibu"
+        ],
+        [
+          "ʕaṣaba",
+          "yaʕṣibu"
+        ],
+        [
+          "ġaṣaba",
+          "yaġṣibu"
+        ],
+        [
+          "qaṣaba",
+          "yaqṣibu"
+        ],
+        [
+          "naṣaba",
+          "yanṣibu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥaṣiba",
+          "yaḥṣabu"
+        ],
+        [
+          "ḵaṣiba",
+          "yaḵṣabu"
+        ],
+        [
+          "naṣiba",
+          "yanṣabu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naṣaba",
+          "yanṣubu"
+        ]
+      ]
+    }
+  },
+  "b -> ṣ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵabaṣa",
+          "yaḵbiṣu"
+        ]
+      ]
+    }
+  },
+  "b -> ṭ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥabiṭa",
+          "yaḥbaṭu"
+        ],
+        [
+          "sabiṭa",
+          "yasbaṭu"
+        ],
+        [
+          "ġabiṭa",
+          "yaġbaṭu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "rabaṭa",
+          "yarbuṭu"
+        ],
+        [
+          "sabuṭa",
+          "yasbuṭu"
+        ],
+        [
+          "habaṭa",
+          "yahbuṭu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "zabaṭa",
+          "yazbiṭu"
+        ],
+        [
+          "šabaṭa",
+          "yašbiṭu"
+        ],
+        [
+          "ḍabaṭa",
+          "yaḍbiṭu"
+        ],
+        [
+          "ġabaṭa",
+          "yaġbiṭu"
+        ],
+        [
+          "habaṭa",
+          "yahbiṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> b": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵaṭaba",
+          "yaḵṭubu"
+        ],
+        [
+          "ḵaṭaba",
+          "yaḵṭubu"
+        ],
+        [
+          "ḵaṭuba",
+          "yaḵṭubu"
+        ],
+        [
+          "šaṭaba",
+          "yašṭubu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaṭiba",
+          "yaʕṭabu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "qaṭaba",
+          "yaqṭibu"
+        ],
+        [
+          "qaṭaba",
+          "yaqṭibu"
+        ]
+      ]
+    }
+  },
+  "b -> ṯ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔabaṯa",
+          "yaʔbiṯu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣabaṯa",
+          "yaṣbuṯu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕabiṯa",
+          "yaʕbaṯu"
+        ],
+        [
+          "labiṯa",
+          "yalbaṯu"
+        ]
+      ]
+    }
+  },
+  "d -> f": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "jadafa",
+          "yajdifu"
+        ],
+        [
+          "ṣadafa",
+          "yaṣdifu"
+        ],
+        [
+          "ṣadafa",
+          "yaṣdifu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "radafa",
+          "yardufu"
+        ],
+        [
+          "hadafa",
+          "yahdufu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "radifa",
+          "yardafu"
+        ]
+      ]
+    }
+  },
+  "f -> d": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣafada",
+          "yaṣfidu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nafida",
+          "yanfadu"
+        ]
+      ]
+    }
+  },
+  "h -> d": {
+    "a": {
+      "count": 9,
+      "forms": [
+        [
+          "jahada",
+          "yajhadu"
+        ],
+        [
+          "zahada",
+          "yazhadu"
+        ],
+        [
+          "šahida",
+          "yašhadu"
+        ],
+        [
+          "šahida",
+          "yašhadu"
+        ],
+        [
+          "ṣahada",
+          "yaṣhadu"
+        ],
+        [
+          "ʕahida",
+          "yaʕhadu"
+        ],
+        [
+          "mahada",
+          "yamhadu"
+        ],
+        [
+          "nahada",
+          "yanhadu"
+        ],
+        [
+          "nahada",
+          "yanhadu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "zahada",
+          "yazhidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "zahada",
+          "yazhudu"
+        ],
+        [
+          "nahada",
+          "yanhudu"
+        ],
+        [
+          "nahada",
+          "yanhudu"
+        ]
+      ]
+    }
+  },
+  "k -> d": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "lakada",
+          "yalkudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lakida",
+          "yalkadu"
+        ]
+      ]
+    }
+  },
+  "d -> l": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "badala",
+          "yabdulu"
+        ],
+        [
+          "jadala",
+          "yajdulu"
+        ],
+        [
+          "sadala",
+          "yasdulu"
+        ],
+        [
+          "ʕadula",
+          "yaʕdulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "badila",
+          "yabdalu"
+        ],
+        [
+          "ʕadila",
+          "yaʕdalu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "jadala",
+          "yajdilu"
+        ],
+        [
+          "sadala",
+          "yasdilu"
+        ],
+        [
+          "ʕadala",
+          "yaʕdilu"
+        ],
+        [
+          "ʕadala",
+          "yaʕdilu"
+        ],
+        [
+          "ʕadala",
+          "yaʕdilu"
+        ],
+        [
+          "ʕadala",
+          "yaʕdilu"
+        ]
+      ]
+    }
+  },
+  "l -> d": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "baluda",
+          "yabludu"
+        ],
+        [
+          "jaluda",
+          "yajludu"
+        ],
+        [
+          "ḵalada",
+          "yaḵludu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "jalada",
+          "yajlidu"
+        ],
+        [
+          "qalada",
+          "yaqlidu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "jalida",
+          "yajladu"
+        ]
+      ]
+    }
+  },
+  "d -> m": {
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "ʔadama",
+          "yaʔdimu"
+        ],
+        [
+          "ḵadama",
+          "yaḵdimu"
+        ],
+        [
+          "radama",
+          "yardimu"
+        ],
+        [
+          "ṣadama",
+          "yaṣdimu"
+        ],
+        [
+          "fadama",
+          "yafdimu"
+        ],
+        [
+          "kadama",
+          "yakdimu"
+        ],
+        [
+          "hadama",
+          "yahdimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḵadama",
+          "yaḵdumu"
+        ],
+        [
+          "faduma",
+          "yafdumu"
+        ],
+        [
+          "qadama",
+          "yaqdumu"
+        ],
+        [
+          "qaduma",
+          "yaqdumu"
+        ],
+        [
+          "kadama",
+          "yakdumu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ʕadima",
+          "yaʕdamu"
+        ],
+        [
+          "ʕudima",
+          "yuʕdamu"
+        ],
+        [
+          "qadima",
+          "yaqdamu"
+        ],
+        [
+          "nadima",
+          "yandamu"
+        ]
+      ]
+    }
+  },
+  "m -> d": {
+    "u": {
+      "count": 9,
+      "forms": [
+        [
+          "ʔamada",
+          "yaʔmudu"
+        ],
+        [
+          "jamada",
+          "yajmudu"
+        ],
+        [
+          "jamuda",
+          "yajmudu"
+        ],
+        [
+          "ḵamada",
+          "yaḵmudu"
+        ],
+        [
+          "samada",
+          "yasmudu"
+        ],
+        [
+          "ṣamada",
+          "yaṣmudu"
+        ],
+        [
+          "ḍamada",
+          "yaḍmudu"
+        ],
+        [
+          "ġamada",
+          "yaġmudu"
+        ],
+        [
+          "hamada",
+          "yahmudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ʔamida",
+          "yaʔmadu"
+        ],
+        [
+          "ḥamida",
+          "yaḥmadu"
+        ],
+        [
+          "ḥamida",
+          "yaḥmadu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḍamada",
+          "yaḍmidu"
+        ],
+        [
+          "ʕamada",
+          "yaʕmidu"
+        ],
+        [
+          "ġamada",
+          "yaġmidu"
+        ]
+      ]
+    }
+  },
+  "d -> n": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "baduna",
+          "yabdunu"
+        ],
+        [
+          "badana",
+          "yabdunu"
+        ],
+        [
+          "radana",
+          "yardunu"
+        ],
+        [
+          "ʕadana",
+          "yaʕdunu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "radana",
+          "yardinu"
+        ],
+        [
+          "radana",
+          "yardinu"
+        ],
+        [
+          "radana",
+          "yardinu"
+        ],
+        [
+          "ʕadana",
+          "yaʕdinu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "radina",
+          "yardanu"
+        ]
+      ]
+    }
+  },
+  "n -> d": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "sanada",
+          "yasnudu"
+        ],
+        [
+          "ʕanada",
+          "yaʕnudu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕanada",
+          "yaʕnidu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕanida",
+          "yaʕnadu"
+        ]
+      ]
+    }
+  },
+  "d -> q": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥadaqa",
+          "yaḥdiqu"
+        ],
+        [
+          "ḥadaqa",
+          "yaḥdiqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "šadiqa",
+          "yašdaqu"
+        ],
+        [
+          "ġadiqa",
+          "yaġdaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣadaqa",
+          "yaṣduqu"
+        ]
+      ]
+    }
+  },
+  "q -> d": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥaqada",
+          "yaḥqidu"
+        ],
+        [
+          "ʕaqada",
+          "yaʕqidu"
+        ],
+        [
+          "faqada",
+          "yafqidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "raqada",
+          "yarqudu"
+        ],
+        [
+          "naqada",
+          "yanqudu"
+        ],
+        [
+          "naqada",
+          "yanqudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaqida",
+          "yaʕqadu"
+        ],
+        [
+          "naqida",
+          "yanqadu"
+        ]
+      ]
+    }
+  },
+  "r -> d": {
+    "u": {
+      "count": 13,
+      "forms": [
+        [
+          "barada",
+          "yabrudu"
+        ],
+        [
+          "baruda",
+          "yabrudu"
+        ],
+        [
+          "barada",
+          "yabrudu"
+        ],
+        [
+          "jarada",
+          "yajrudu"
+        ],
+        [
+          "zarada",
+          "yazrudu"
+        ],
+        [
+          "sarada",
+          "yasrudu"
+        ],
+        [
+          "šarada",
+          "yašrudu"
+        ],
+        [
+          "ṭarada",
+          "yaṭrudu"
+        ],
+        [
+          "farada",
+          "yafrudu"
+        ],
+        [
+          "faruda",
+          "yafrudu"
+        ],
+        [
+          "farada",
+          "yafrudu"
+        ],
+        [
+          "marada",
+          "yamrudu"
+        ],
+        [
+          "maruda",
+          "yamrudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "jarida",
+          "yajradu"
+        ],
+        [
+          "ġarida",
+          "yaġradu"
+        ],
+        [
+          "qarida",
+          "yaqradu"
+        ],
+        [
+          "marida",
+          "yamradu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "farada",
+          "yafridu"
+        ],
+        [
+          "qarada",
+          "yaqridu"
+        ],
+        [
+          "harada",
+          "yahridu"
+        ],
+        [
+          "harada",
+          "yahridu"
+        ]
+      ]
+    }
+  },
+  "d -> r": {
+    "u": {
+      "count": 10,
+      "forms": [
+        [
+          "jadura",
+          "yajduru"
+        ],
+        [
+          "jadara",
+          "yajduru"
+        ],
+        [
+          "jadara",
+          "yajduru"
+        ],
+        [
+          "jadara",
+          "yajduru"
+        ],
+        [
+          "ḵadara",
+          "yaḵduru"
+        ],
+        [
+          "ṣadara",
+          "yaṣduru"
+        ],
+        [
+          "ṣadara",
+          "yaṣduru"
+        ],
+        [
+          "ġadara",
+          "yaġduru"
+        ],
+        [
+          "kadara",
+          "yakduru"
+        ],
+        [
+          "hadara",
+          "yahduru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "judira",
+          "yujdaru"
+        ],
+        [
+          "jadira",
+          "yajdaru"
+        ],
+        [
+          "ḵadira",
+          "yaḵdaru"
+        ],
+        [
+          "sadira",
+          "yasdaru"
+        ],
+        [
+          "qadira",
+          "yaqdaru"
+        ],
+        [
+          "kadira",
+          "yakdaru"
+        ],
+        [
+          "kadira",
+          "yakdaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ṣadara",
+          "yaṣdiru"
+        ],
+        [
+          "qadara",
+          "yaqdiru"
+        ],
+        [
+          "hadara",
+          "yahdiru"
+        ]
+      ]
+    }
+  },
+  "d -> s": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥadasa",
+          "yaḥdisu"
+        ],
+        [
+          "kadasa",
+          "yakdisu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥadasa",
+          "yaḥdusu"
+        ],
+        [
+          "qadusa",
+          "yaqdusu"
+        ]
+      ]
+    }
+  },
+  "s -> d": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥasada",
+          "yaḥsidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥasada",
+          "yaḥsudu"
+        ],
+        [
+          "kasada",
+          "yaksudu"
+        ],
+        [
+          "kasuda",
+          "yaksudu"
+        ],
+        [
+          "masada",
+          "yamsudu"
+        ],
+        [
+          "masada",
+          "yamsudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "musida",
+          "yumsadu"
+        ]
+      ]
+    }
+  },
+  "w -> d": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "sawida",
+          "yaswadu"
+        ]
+      ]
+    }
+  },
+  "y -> d": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ġayida",
+          "yaġyadu"
+        ]
+      ]
+    }
+  },
+  "d -> ġ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ladaġa",
+          "yaldaġu"
+        ],
+        [
+          "nadaġa",
+          "yandaġu"
+        ]
+      ]
+    }
+  },
+  "ġ -> d": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "maġada",
+          "yamġadu"
+        ]
+      ]
+    }
+  },
+  "š -> d": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥašada",
+          "yaḥšidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥašada",
+          "yaḥšudu"
+        ],
+        [
+          "rašada",
+          "yaršudu"
+        ],
+        [
+          "qašada",
+          "yaqšudu"
+        ],
+        [
+          "našada",
+          "yanšudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rašida",
+          "yaršadu"
+        ]
+      ]
+    }
+  },
+  "d -> š": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵadaša",
+          "yaḵdišu"
+        ]
+      ]
+    }
+  },
+  "d -> ʕ": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "badaʕa",
+          "yabdaʕu"
+        ],
+        [
+          "jadaʕa",
+          "yajdaʕu"
+        ],
+        [
+          "ḵadaʕa",
+          "yaḵdaʕu"
+        ],
+        [
+          "radaʕa",
+          "yardaʕu"
+        ],
+        [
+          "ṣadaʕa",
+          "yaṣdaʕu"
+        ],
+        [
+          "ṣudiʕa",
+          "yuṣdaʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> d": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "baʕuda",
+          "yabʕudu"
+        ],
+        [
+          "jaʕuda",
+          "yajʕudu"
+        ],
+        [
+          "raʕada",
+          "yarʕudu"
+        ],
+        [
+          "qaʕada",
+          "yaqʕudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "baʕida",
+          "yabʕadu"
+        ],
+        [
+          "raʕada",
+          "yarʕadu"
+        ],
+        [
+          "saʕada",
+          "yasʕadu"
+        ],
+        [
+          "saʕida",
+          "yasʕadu"
+        ],
+        [
+          "suʕida",
+          "yusʕadu"
+        ],
+        [
+          "ṣaʕida",
+          "yaṣʕadu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> d": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵaḍada",
+          "yaḵḍidu"
+        ],
+        [
+          "naḍada",
+          "yanḍidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaḍada",
+          "yaʕḍudu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> d": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥaṣada",
+          "yaḥṣidu"
+        ],
+        [
+          "faṣada",
+          "yafṣidu"
+        ],
+        [
+          "qaṣada",
+          "yaqṣidu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥaṣada",
+          "yaḥṣudu"
+        ],
+        [
+          "raṣada",
+          "yarṣudu"
+        ],
+        [
+          "qaṣuda",
+          "yaqṣudu"
+        ]
+      ]
+    }
+  },
+  "f -> h": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "rafuha",
+          "yarfuhu"
+        ]
+      ]
+    }
+  },
+  "f -> k": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʔafaka",
+          "yaʔfiku"
+        ],
+        [
+          "safaka",
+          "yasfiku"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔafika",
+          "yaʔfaku"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "safaka",
+          "yasfuku"
+        ]
+      ]
+    }
+  },
+  "k -> f": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nakafa",
+          "yankufu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nakifa",
+          "yankafu"
+        ]
+      ]
+    }
+  },
+  "f -> l": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔafala",
+          "yaʔfulu"
+        ],
+        [
+          "ġafala",
+          "yaġfulu"
+        ],
+        [
+          "qafala",
+          "yaqfulu"
+        ],
+        [
+          "qafala",
+          "yaqfulu"
+        ],
+        [
+          "kafala",
+          "yakfulu"
+        ],
+        [
+          "nafala",
+          "yanfulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥafala",
+          "yaḥfilu"
+        ],
+        [
+          "qafala",
+          "yaqfilu"
+        ],
+        [
+          "qafala",
+          "yaqfilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "qafila",
+          "yaqfalu"
+        ]
+      ]
+    }
+  },
+  "l -> f": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ʔalifa",
+          "yaʔlafu"
+        ],
+        [
+          "talifa",
+          "yatlafu"
+        ],
+        [
+          "jalifa",
+          "yajlafu"
+        ],
+        [
+          "kalifa",
+          "yaklafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "jalafa",
+          "yajlufu"
+        ],
+        [
+          "ḵalafa",
+          "yaḵlufu"
+        ],
+        [
+          "zalafa",
+          "yazlufu"
+        ],
+        [
+          "salafa",
+          "yaslufu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥalafa",
+          "yaḥlifu"
+        ],
+        [
+          "dalafa",
+          "yadlifu"
+        ],
+        [
+          "ʕalafa",
+          "yaʕlifu"
+        ]
+      ]
+    }
+  },
+  "n -> f": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥanafa",
+          "yaḥnifu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥanifa",
+          "yaḥnafu"
+        ],
+        [
+          "ṭanifa",
+          "yaṭnafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "kanafa",
+          "yaknufu"
+        ]
+      ]
+    }
+  },
+  "f -> n": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "dafana",
+          "yadfinu"
+        ],
+        [
+          "zafana",
+          "yazfinu"
+        ],
+        [
+          "safana",
+          "yasfinu"
+        ],
+        [
+          "kafana",
+          "yakfinu"
+        ]
+      ]
+    }
+  },
+  "f -> q": {
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔafaqa",
+          "yaʔfiqu"
+        ],
+        [
+          "ḵafaqa",
+          "yaḵfiqu"
+        ],
+        [
+          "dafaqa",
+          "yadfiqu"
+        ],
+        [
+          "šafaqa",
+          "yašfiqu"
+        ],
+        [
+          "ṣafaqa",
+          "yaṣfiqu"
+        ],
+        [
+          "ṭafaqa",
+          "yaṭfiqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 10,
+      "forms": [
+        [
+          "ḵafaqa",
+          "yaḵfuqu"
+        ],
+        [
+          "dafaqa",
+          "yadfuqu"
+        ],
+        [
+          "dafaqa",
+          "yadfuqu"
+        ],
+        [
+          "rafaqa",
+          "yarfuqu"
+        ],
+        [
+          "rafuqa",
+          "yarfuqu"
+        ],
+        [
+          "rafaqa",
+          "yarfuqu"
+        ],
+        [
+          "šafaqa",
+          "yašfuqu"
+        ],
+        [
+          "ṣafuqa",
+          "yaṣfuqu"
+        ],
+        [
+          "nafaqa",
+          "yanfuqu"
+        ],
+        [
+          "nafaqa",
+          "yanfuqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "rafiqa",
+          "yarfaqu"
+        ],
+        [
+          "rafiqa",
+          "yarfaqu"
+        ],
+        [
+          "ṭafiqa",
+          "yaṭfaqu"
+        ],
+        [
+          "nafiqa",
+          "yanfaqu"
+        ]
+      ]
+    }
+  },
+  "q -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ṯaqifa",
+          "yaṯqafu"
+        ],
+        [
+          "ṯaqifa",
+          "yaṯqafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṯaqufa",
+          "yaṯqufu"
+        ],
+        [
+          "saqafa",
+          "yasqufu"
+        ]
+      ]
+    }
+  },
+  "w -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "jawifa",
+          "yajwafu"
+        ],
+        [
+          "ṣawifa",
+          "yaṣwafu"
+        ]
+      ]
+    }
+  },
+  "y -> f": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "hayifa",
+          "yahyafu"
+        ]
+      ]
+    }
+  },
+  "d -> j": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥadaja",
+          "yaḥdiju"
+        ]
+      ]
+    }
+  },
+  "j -> d": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "sajada",
+          "yasjudu"
+        ],
+        [
+          "majada",
+          "yamjudu"
+        ],
+        [
+          "najada",
+          "yanjudu"
+        ],
+        [
+          "najuda",
+          "yanjudu"
+        ],
+        [
+          "hajada",
+          "yahjudu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "najida",
+          "yanjadu"
+        ]
+      ]
+    }
+  },
+  "j -> f": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "rajafa",
+          "yarjufu"
+        ],
+        [
+          "najafa",
+          "yanjufu"
+        ],
+        [
+          "najafa",
+          "yanjufu"
+        ]
+      ]
+    }
+  },
+  "f -> j": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕafaja",
+          "yaʕfiju"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "nafaja",
+          "yanfaju"
+        ],
+        [
+          "nafaja",
+          "yanfaju"
+        ]
+      ]
+    }
+  },
+  "h -> j": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "bahija",
+          "yabhaju"
+        ],
+        [
+          "nahaja",
+          "yanhaju"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "bahuja",
+          "yabhuju"
+        ]
+      ]
+    }
+  },
+  "j -> l": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "bajula",
+          "yabjulu"
+        ],
+        [
+          "ḥajala",
+          "yaḥjulu"
+        ],
+        [
+          "fajala",
+          "yafjulu"
+        ],
+        [
+          "majala",
+          "yamjulu"
+        ],
+        [
+          "najala",
+          "yanjulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "bajila",
+          "yabjalu"
+        ],
+        [
+          "ḵajila",
+          "yaḵjalu"
+        ],
+        [
+          "rajila",
+          "yarjalu"
+        ],
+        [
+          "ʕajila",
+          "yaʕjalu"
+        ],
+        [
+          "fajila",
+          "yafjalu"
+        ],
+        [
+          "majila",
+          "yamjalu"
+        ],
+        [
+          "najila",
+          "yanjalu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥajala",
+          "yaḥjilu"
+        ],
+        [
+          "najala",
+          "yanjilu"
+        ]
+      ]
+    }
+  },
+  "l -> j": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṯalaja",
+          "yaṯluju"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ṯalija",
+          "yaṯlaju"
+        ]
+      ]
+    }
+  },
+  "j -> m": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "ḥajama",
+          "yaḥjumu"
+        ],
+        [
+          "rajama",
+          "yarjumu"
+        ],
+        [
+          "ʕajama",
+          "yaʕjumu"
+        ],
+        [
+          "lajama",
+          "yaljumu"
+        ],
+        [
+          "najama",
+          "yanjumu"
+        ],
+        [
+          "hajama",
+          "yahjumu"
+        ]
+      ]
+    }
+  },
+  "m -> j": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "damaja",
+          "yadmuju"
+        ],
+        [
+          "samuja",
+          "yasmuju"
+        ]
+      ]
+    }
+  },
+  "j -> n": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥajana",
+          "yaḥjinu"
+        ],
+        [
+          "ʕajana",
+          "yaʕjinu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "dajana",
+          "yadjunu"
+        ],
+        [
+          "sajana",
+          "yasjunu"
+        ],
+        [
+          "ʕajana",
+          "yaʕjunu"
+        ],
+        [
+          "hajuna",
+          "yahjunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕajina",
+          "yaʕjanu"
+        ]
+      ]
+    }
+  },
+  "n -> j": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ġanija",
+          "yaġnaju"
+        ]
+      ]
+    }
+  },
+  "j -> r": {
+    "u": {
+      "count": 12,
+      "forms": [
+        [
+          "ʔajara",
+          "yaʔjuru"
+        ],
+        [
+          "tajara",
+          "yatjuru"
+        ],
+        [
+          "ḥajara",
+          "yaḥjuru"
+        ],
+        [
+          "zajara",
+          "yazjuru"
+        ],
+        [
+          "šajara",
+          "yašjuru"
+        ],
+        [
+          "šajara",
+          "yašjuru"
+        ],
+        [
+          "fajara",
+          "yafjuru"
+        ],
+        [
+          "fajara",
+          "yafjuru"
+        ],
+        [
+          "majara",
+          "yamjuru"
+        ],
+        [
+          "najara",
+          "yanjuru"
+        ],
+        [
+          "najara",
+          "yanjuru"
+        ],
+        [
+          "hajara",
+          "yahjuru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔajara",
+          "yaʔjiru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "dajira",
+          "yadjaru"
+        ],
+        [
+          "majira",
+          "yamjaru"
+        ]
+      ]
+    }
+  },
+  "r -> j": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "barija",
+          "yabraju"
+        ],
+        [
+          "ḥarija",
+          "yaḥraju"
+        ],
+        [
+          "ʕarija",
+          "yaʕraju"
+        ],
+        [
+          "karija",
+          "yakraju"
+        ],
+        [
+          "marija",
+          "yamraju"
+        ]
+      ]
+    },
+    "u": {
+      "count": 8,
+      "forms": [
+        [
+          "ḵaraja",
+          "yaḵruju"
+        ],
+        [
+          "daraja",
+          "yadruju"
+        ],
+        [
+          "saraja",
+          "yasruju"
+        ],
+        [
+          "šaraja",
+          "yašruju"
+        ],
+        [
+          "ʕaraja",
+          "yaʕruju"
+        ],
+        [
+          "ʕaraja",
+          "yaʕruju"
+        ],
+        [
+          "maraja",
+          "yamruju"
+        ],
+        [
+          "haraja",
+          "yahruju"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "faraja",
+          "yafriju"
+        ],
+        [
+          "haraja",
+          "yahriju"
+        ]
+      ]
+    }
+  },
+  "j -> s": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "rajisa",
+          "yarjasu"
+        ],
+        [
+          "najisa",
+          "yanjasu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rajusa",
+          "yarjusu"
+        ],
+        [
+          "najusa",
+          "yanjusu"
+        ]
+      ]
+    }
+  },
+  "s -> j": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nasaja",
+          "yansuju"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nasaja",
+          "yansiju"
+        ]
+      ]
+    }
+  },
+  "j -> z": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥajaza",
+          "yaḥjuzu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥajaza",
+          "yaḥjizu"
+        ],
+        [
+          "ʕajaza",
+          "yaʕjizu"
+        ],
+        [
+          "ʕajaza",
+          "yaʕjizu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕajiza",
+          "yaʕjazu"
+        ]
+      ]
+    }
+  },
+  "z -> j": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "lazija",
+          "yalzaju"
+        ],
+        [
+          "hazija",
+          "yahzaju"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "mazaja",
+          "yamzuju"
+        ]
+      ]
+    }
+  },
+  "j -> ʕ": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "rajaʕa",
+          "yarjiʕu"
+        ],
+        [
+          "rajaʕa",
+          "yarjiʕu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "sajaʕa",
+          "yasjaʕu"
+        ],
+        [
+          "šajaʕa",
+          "yašjaʕu"
+        ],
+        [
+          "ḍajaʕa",
+          "yaḍjaʕu"
+        ],
+        [
+          "fajaʕa",
+          "yafjaʕu"
+        ],
+        [
+          "fujiʕa",
+          "yufjaʕu"
+        ],
+        [
+          "najaʕa",
+          "yanjaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "šajuʕa",
+          "yašjuʕu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> j": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naḍija",
+          "yanḍaju"
+        ]
+      ]
+    }
+  },
+  "j -> ḏ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "najaḏa",
+          "yanjiḏu"
+        ]
+      ]
+    }
+  },
+  "j -> ḥ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "bajiḥa",
+          "yabjaḥu"
+        ],
+        [
+          "rajaḥa",
+          "yarjaḥu"
+        ],
+        [
+          "najaḥa",
+          "yanjaḥu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "rajaḥa",
+          "yarjiḥu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "rajaḥa",
+          "yarjuḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> j": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "laḥija",
+          "yalḥaju"
+        ]
+      ]
+    }
+  },
+  "k -> h": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaha",
+          "yankihu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaha",
+          "yankahu"
+        ]
+      ]
+    }
+  },
+  "h -> k": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nahaka",
+          "yanhaku"
+        ]
+      ]
+    }
+  },
+  "k -> l": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ʔakala",
+          "yaʔkulu"
+        ],
+        [
+          "rakala",
+          "yarkulu"
+        ],
+        [
+          "šakala",
+          "yaškulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʔakila",
+          "yaʔkalu"
+        ],
+        [
+          "ṯakila",
+          "yaṯkalu"
+        ]
+      ]
+    }
+  },
+  "l -> k": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "dalaka",
+          "yadluku"
+        ],
+        [
+          "dalaka",
+          "yadluku"
+        ],
+        [
+          "salaka",
+          "yasluku"
+        ],
+        [
+          "salaka",
+          "yasluku"
+        ],
+        [
+          "ʕalaka",
+          "yaʕluku"
+        ]
+      ]
+    },
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ʕalaka",
+          "yaʕliku"
+        ],
+        [
+          "malaka",
+          "yamliku"
+        ],
+        [
+          "halaka",
+          "yahliku"
+        ],
+        [
+          "halaka",
+          "yahliku"
+        ],
+        [
+          "halaka",
+          "yahliku"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "halaka",
+          "yahlaku"
+        ],
+        [
+          "halika",
+          "yahlaku"
+        ]
+      ]
+    }
+  },
+  "k -> m": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥakama",
+          "yaḥkumu"
+        ],
+        [
+          "ḥakama",
+          "yaḥkumu"
+        ],
+        [
+          "ḥakuma",
+          "yaḥkumu"
+        ],
+        [
+          "šakama",
+          "yaškumu"
+        ],
+        [
+          "lakama",
+          "yalkumu"
+        ]
+      ]
+    }
+  },
+  "n -> k": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥanaka",
+          "yaḥniku"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥanaka",
+          "yaḥnuku"
+        ],
+        [
+          "fanaka",
+          "yafnuku"
+        ]
+      ]
+    }
+  },
+  "k -> n": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "rakana",
+          "yarkunu"
+        ],
+        [
+          "rakuna",
+          "yarkunu"
+        ],
+        [
+          "sakana",
+          "yaskunu"
+        ],
+        [
+          "sakana",
+          "yaskunu"
+        ],
+        [
+          "makuna",
+          "yamkunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "rakina",
+          "yarkanu"
+        ],
+        [
+          "makina",
+          "yamkanu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "rakana",
+          "yarkinu"
+        ]
+      ]
+    }
+  },
+  "h -> l": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʔahala",
+          "yaʔhilu"
+        ],
+        [
+          "ṣahala",
+          "yaṣhilu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ʔahala",
+          "yaʔhulu"
+        ],
+        [
+          "ʔahala",
+          "yaʔhulu"
+        ],
+        [
+          "sahula",
+          "yashulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 11,
+      "forms": [
+        [
+          "ʔahila",
+          "yaʔhalu"
+        ],
+        [
+          "ʔahala",
+          "yaʔhalu"
+        ],
+        [
+          "bahala",
+          "yabhalu"
+        ],
+        [
+          "bahila",
+          "yabhalu"
+        ],
+        [
+          "jahila",
+          "yajhalu"
+        ],
+        [
+          "ḏahala",
+          "yaḏhalu"
+        ],
+        [
+          "ḏahila",
+          "yaḏhalu"
+        ],
+        [
+          "rahila",
+          "yarhalu"
+        ],
+        [
+          "šahila",
+          "yašhalu"
+        ],
+        [
+          "ṣahala",
+          "yaṣhalu"
+        ],
+        [
+          "mahala",
+          "yamhalu"
+        ]
+      ]
+    }
+  },
+  "l -> m": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔalima",
+          "yaʔlamu"
+        ],
+        [
+          "ṯalima",
+          "yaṯlamu"
+        ],
+        [
+          "salima",
+          "yaslamu"
+        ],
+        [
+          "ẓalima",
+          "yaẓlamu"
+        ],
+        [
+          "ʕalima",
+          "yaʕlamu"
+        ],
+        [
+          "ġalima",
+          "yaġlamu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ṯalama",
+          "yaṯlimu"
+        ],
+        [
+          "ẓalama",
+          "yaẓlimu"
+        ],
+        [
+          "qalama",
+          "yaqlimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥalama",
+          "yaḥlumu"
+        ],
+        [
+          "ḥaluma",
+          "yaḥlumu"
+        ],
+        [
+          "zalama",
+          "yazlumu"
+        ]
+      ]
+    }
+  },
+  "m -> l": {
+    "u": {
+      "count": 11,
+      "forms": [
+        [
+          "ʔamala",
+          "yaʔmulu"
+        ],
+        [
+          "ṯamala",
+          "yaṯmulu"
+        ],
+        [
+          "jamala",
+          "yajmulu"
+        ],
+        [
+          "jamula",
+          "yajmulu"
+        ],
+        [
+          "ḵamala",
+          "yaḵmulu"
+        ],
+        [
+          "damala",
+          "yadmulu"
+        ],
+        [
+          "ramala",
+          "yarmulu"
+        ],
+        [
+          "ramala",
+          "yarmulu"
+        ],
+        [
+          "šamala",
+          "yašmulu"
+        ],
+        [
+          "kamala",
+          "yakmulu"
+        ],
+        [
+          "kamula",
+          "yakmulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ṯamala",
+          "yaṯmilu"
+        ],
+        [
+          "ḥamala",
+          "yaḥmilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ṯamila",
+          "yaṯmalu"
+        ],
+        [
+          "šamila",
+          "yašmalu"
+        ],
+        [
+          "ʕamila",
+          "yaʕmalu"
+        ],
+        [
+          "kamila",
+          "yakmalu"
+        ]
+      ]
+    }
+  },
+  "l -> n": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕalana",
+          "yaʕlunu"
+        ],
+        [
+          "ʕaluna",
+          "yaʕlunu"
+        ],
+        [
+          "ʕalana",
+          "yaʕlunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕalina",
+          "yaʕlanu"
+        ]
+      ]
+    }
+  },
+  "w -> l": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥawila",
+          "yaḥwalu"
+        ]
+      ]
+    }
+  },
+  "y -> l": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "mayila",
+          "yamyalu"
+        ]
+      ]
+    }
+  },
+  "h -> m": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "dahama",
+          "yadhamu"
+        ],
+        [
+          "dahima",
+          "yadhamu"
+        ],
+        [
+          "dahima",
+          "yadhamu"
+        ],
+        [
+          "šahama",
+          "yašhamu"
+        ],
+        [
+          "fahima",
+          "yafhamu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "sahama",
+          "yashumu"
+        ],
+        [
+          "šahuma",
+          "yašhumu"
+        ]
+      ]
+    }
+  },
+  "m -> h": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕamiha",
+          "yaʕmahu"
+        ]
+      ]
+    }
+  },
+  "m -> n": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔamuna",
+          "yaʔmunu"
+        ],
+        [
+          "ṯamuna",
+          "yaṯmunu"
+        ],
+        [
+          "ḵamana",
+          "yaḵmunu"
+        ],
+        [
+          "damana",
+          "yadmunu"
+        ],
+        [
+          "samuna",
+          "yasmunu"
+        ],
+        [
+          "kamana",
+          "yakmunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "ʔamina",
+          "yaʔmanu"
+        ],
+        [
+          "damina",
+          "yadmanu"
+        ],
+        [
+          "damina",
+          "yadmanu"
+        ],
+        [
+          "damina",
+          "yadmanu"
+        ],
+        [
+          "samina",
+          "yasmanu"
+        ],
+        [
+          "ḍamina",
+          "yaḍmanu"
+        ],
+        [
+          "kamina",
+          "yakmanu"
+        ]
+      ]
+    }
+  },
+  "n -> m": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ṣanima",
+          "yaṣnamu"
+        ],
+        [
+          "ġanima",
+          "yaġnamu"
+        ]
+      ]
+    }
+  },
+  "h -> n": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "dahana",
+          "yadhunu"
+        ],
+        [
+          "ʕahana",
+          "yaʕhunu"
+        ],
+        [
+          "kahana",
+          "yakhunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "rahana",
+          "yarhanu"
+        ],
+        [
+          "kahana",
+          "yakhanu"
+        ]
+      ]
+    }
+  },
+  "h -> q": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "zahaqa",
+          "yazhaqu"
+        ],
+        [
+          "zahiqa",
+          "yazhaqu"
+        ],
+        [
+          "zahaqa",
+          "yazhaqu"
+        ],
+        [
+          "šahaqa",
+          "yašhaqu"
+        ],
+        [
+          "lahaqa",
+          "yalhaqu"
+        ],
+        [
+          "nahaqa",
+          "yanhaqu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nahaqa",
+          "yanhiqu"
+        ]
+      ]
+    }
+  },
+  "q -> h": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "faqiha",
+          "yafqahu"
+        ]
+      ]
+    }
+  },
+  "l -> q": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ʔalaqa",
+          "yaʔliqu"
+        ],
+        [
+          "ḥalaqa",
+          "yaḥliqu"
+        ],
+        [
+          "ḥalaqa",
+          "yaḥliqu"
+        ],
+        [
+          "ġalaqa",
+          "yaġliqu"
+        ],
+        [
+          "falaqa",
+          "yafliqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 12,
+      "forms": [
+        [
+          "ḥalaqa",
+          "yaḥluqu"
+        ],
+        [
+          "ḵalaqa",
+          "yaḵluqu"
+        ],
+        [
+          "ḵaluqa",
+          "yaḵluqu"
+        ],
+        [
+          "ḵaluqa",
+          "yaḵluqu"
+        ],
+        [
+          "ḵalaqa",
+          "yaḵluqu"
+        ],
+        [
+          "dalaqa",
+          "yadluqu"
+        ],
+        [
+          "zalaqa",
+          "yazluqu"
+        ],
+        [
+          "salaqa",
+          "yasluqu"
+        ],
+        [
+          "ṭaluqa",
+          "yaṭluqu"
+        ],
+        [
+          "ʕalaqa",
+          "yaʕluqu"
+        ],
+        [
+          "ʕalaqa",
+          "yaʕluqu"
+        ],
+        [
+          "ġalaqa",
+          "yaġluqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "ḵaliqa",
+          "yaḵlaqu"
+        ],
+        [
+          "zaliqa",
+          "yazlaqu"
+        ],
+        [
+          "ʕaliqa",
+          "yaʕlaqu"
+        ],
+        [
+          "ʕaliqa",
+          "yaʕlaqu"
+        ],
+        [
+          "ʕaliqa",
+          "yaʕlaqu"
+        ],
+        [
+          "ġaliqa",
+          "yaġlaqu"
+        ],
+        [
+          "qaliqa",
+          "yaqlaqu"
+        ]
+      ]
+    }
+  },
+  "q -> l": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ṯaqula",
+          "yaṯqulu"
+        ],
+        [
+          "ṯaqala",
+          "yaṯqulu"
+        ],
+        [
+          "ṣaqala",
+          "yaṣqulu"
+        ],
+        [
+          "maqala",
+          "yamqulu"
+        ],
+        [
+          "naqala",
+          "yanqulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ʕaqala",
+          "yaʕqilu"
+        ],
+        [
+          "ʕaqala",
+          "yaʕqilu"
+        ],
+        [
+          "ʕaqala",
+          "yaʕqilu"
+        ],
+        [
+          "ʕaqala",
+          "yaʕqilu"
+        ],
+        [
+          "ʕaqala",
+          "yaʕqilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaqila",
+          "yaʕqalu"
+        ]
+      ]
+    }
+  },
+  "m -> q": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥamiqa",
+          "yaḥmaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥamuqa",
+          "yaḥmuqu"
+        ],
+        [
+          "ramaqa",
+          "yarmuqu"
+        ],
+        [
+          "ʕamuqa",
+          "yaʕmuqu"
+        ],
+        [
+          "namaqa",
+          "yanmuqu"
+        ]
+      ]
+    }
+  },
+  "q -> m": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "raqama",
+          "yarqumu"
+        ],
+        [
+          "ʕaqama",
+          "yaʕqumu"
+        ],
+        [
+          "ʕaquma",
+          "yaʕqumu"
+        ],
+        [
+          "faquma",
+          "yafqumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕaqima",
+          "yaʕqimu"
+        ],
+        [
+          "ʕaqama",
+          "yaʕqimu"
+        ],
+        [
+          "naqama",
+          "yanqimu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "faqima",
+          "yafqamu"
+        ],
+        [
+          "naqima",
+          "yanqamu"
+        ]
+      ]
+    }
+  },
+  "q -> n": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaqana",
+          "yaḥqunu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaqana",
+          "yaḥqinu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "laqina",
+          "yalqanu"
+        ]
+      ]
+    }
+  },
+  "n -> q": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥaniqa",
+          "yaḥnaqu"
+        ],
+        [
+          "šaniqa",
+          "yašnaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵanaqa",
+          "yaḵnuqu"
+        ],
+        [
+          "šanaqa",
+          "yašnuqu"
+        ]
+      ]
+    }
+  },
+  "r -> f": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "tarifa",
+          "yatrafu"
+        ],
+        [
+          "ḵarifa",
+          "yaḵrafu"
+        ],
+        [
+          "qarifa",
+          "yaqrafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "jarafa",
+          "yajrufu"
+        ],
+        [
+          "ḵarafa",
+          "yaḵrufu"
+        ],
+        [
+          "ḵarafa",
+          "yaḵrufu"
+        ],
+        [
+          "ḵarufa",
+          "yaḵrufu"
+        ],
+        [
+          "šarufa",
+          "yašrufu"
+        ],
+        [
+          "ġarafa",
+          "yaġrufu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 9,
+      "forms": [
+        [
+          "ḥarafa",
+          "yaḥrifu"
+        ],
+        [
+          "ḏarafa",
+          "yaḏrifu"
+        ],
+        [
+          "ṣarafa",
+          "yaṣrifu"
+        ],
+        [
+          "ṣarafa",
+          "yaṣrifu"
+        ],
+        [
+          "ṣarafa",
+          "yaṣrifu"
+        ],
+        [
+          "ṭarafa",
+          "yaṭrifu"
+        ],
+        [
+          "ʕarafa",
+          "yaʕrifu"
+        ],
+        [
+          "ġarafa",
+          "yaġrifu"
+        ],
+        [
+          "qarafa",
+          "yaqrifu"
+        ]
+      ]
+    }
+  },
+  "f -> r": {
+    "i": {
+      "count": 14,
+      "forms": [
+        [
+          "ḥafara",
+          "yaḥfiru"
+        ],
+        [
+          "ḵafara",
+          "yaḵfiru"
+        ],
+        [
+          "zafara",
+          "yazfiru"
+        ],
+        [
+          "safara",
+          "yasfiru"
+        ],
+        [
+          "safara",
+          "yasfiru"
+        ],
+        [
+          "safara",
+          "yasfiru"
+        ],
+        [
+          "ṣafara",
+          "yaṣfiru"
+        ],
+        [
+          "ʕafara",
+          "yaʕfiru"
+        ],
+        [
+          "ġafara",
+          "yaġfiru"
+        ],
+        [
+          "ġafara",
+          "yaġfiru"
+        ],
+        [
+          "kafara",
+          "yakfiru"
+        ],
+        [
+          "nafara",
+          "yanfiru"
+        ],
+        [
+          "nafara",
+          "yanfiru"
+        ],
+        [
+          "nafara",
+          "yanfiru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "ḵafara",
+          "yaḵfuru"
+        ],
+        [
+          "qafara",
+          "yaqfuru"
+        ],
+        [
+          "qafura",
+          "yaqfuru"
+        ],
+        [
+          "kafara",
+          "yakfuru"
+        ],
+        [
+          "kafara",
+          "yakfuru"
+        ],
+        [
+          "nafara",
+          "yanfuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵafira",
+          "yaḵfaru"
+        ],
+        [
+          "ṣafira",
+          "yaṣfaru"
+        ],
+        [
+          "ẓafira",
+          "yaẓfaru"
+        ],
+        [
+          "qafira",
+          "yaqfaru"
+        ]
+      ]
+    }
+  },
+  "h -> r": {
+    "a": {
+      "count": 15,
+      "forms": [
+        [
+          "bahara",
+          "yabharu"
+        ],
+        [
+          "jahara",
+          "yajharu"
+        ],
+        [
+          "dahara",
+          "yadharu"
+        ],
+        [
+          "zahara",
+          "yazharu"
+        ],
+        [
+          "sahira",
+          "yasharu"
+        ],
+        [
+          "šahara",
+          "yašharu"
+        ],
+        [
+          "ṣahara",
+          "yaṣharu"
+        ],
+        [
+          "ẓahara",
+          "yaẓharu"
+        ],
+        [
+          "ʕahara",
+          "yaʕharu"
+        ],
+        [
+          "ʕahira",
+          "yaʕharu"
+        ],
+        [
+          "qahara",
+          "yaqharu"
+        ],
+        [
+          "mahara",
+          "yamharu"
+        ],
+        [
+          "mahara",
+          "yamharu"
+        ],
+        [
+          "mahara",
+          "yamharu"
+        ],
+        [
+          "nahara",
+          "yanharu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ṭahura",
+          "yaṭhuru"
+        ],
+        [
+          "mahara",
+          "yamhuru"
+        ],
+        [
+          "mahara",
+          "yamhuru"
+        ]
+      ]
+    }
+  },
+  "r -> h": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "šariha",
+          "yašrahu"
+        ],
+        [
+          "kariha",
+          "yakrahu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "karuha",
+          "yakruhu"
+        ]
+      ]
+    }
+  },
+  "r -> k": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "baraka",
+          "yabruku"
+        ],
+        [
+          "taraka",
+          "yatruku"
+        ],
+        [
+          "ḥaruka",
+          "yaḥruku"
+        ],
+        [
+          "faraka",
+          "yafruku"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥarika",
+          "yaḥraku"
+        ],
+        [
+          "šarika",
+          "yašraku"
+        ]
+      ]
+    }
+  },
+  "k -> r": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "bakara",
+          "yabkuru"
+        ],
+        [
+          "ḏakara",
+          "yaḏkuru"
+        ],
+        [
+          "šakara",
+          "yaškuru"
+        ],
+        [
+          "fakara",
+          "yafkuru"
+        ],
+        [
+          "makara",
+          "yamkuru"
+        ],
+        [
+          "nakura",
+          "yankuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "sakira",
+          "yaskaru"
+        ],
+        [
+          "ʕakira",
+          "yaʕkaru"
+        ],
+        [
+          "nakira",
+          "yankaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕakara",
+          "yaʕkiru"
+        ]
+      ]
+    }
+  },
+  "m -> r": {
+    "u": {
+      "count": 19,
+      "forms": [
+        [
+          "ʔamara",
+          "yaʔmuru"
+        ],
+        [
+          "ʔamara",
+          "yaʔmuru"
+        ],
+        [
+          "ʔamura",
+          "yaʔmuru"
+        ],
+        [
+          "jamara",
+          "yajmuru"
+        ],
+        [
+          "ḵamara",
+          "yaḵmuru"
+        ],
+        [
+          "zamara",
+          "yazmuru"
+        ],
+        [
+          "samara",
+          "yasmuru"
+        ],
+        [
+          "samara",
+          "yasmuru"
+        ],
+        [
+          "šamara",
+          "yašmuru"
+        ],
+        [
+          "ḍamara",
+          "yaḍmuru"
+        ],
+        [
+          "ḍamura",
+          "yaḍmuru"
+        ],
+        [
+          "ṭamara",
+          "yaṭmuru"
+        ],
+        [
+          "ʕamara",
+          "yaʕmuru"
+        ],
+        [
+          "ʕamara",
+          "yaʕmuru"
+        ],
+        [
+          "ʕamura",
+          "yaʕmuru"
+        ],
+        [
+          "ʕamara",
+          "yaʕmuru"
+        ],
+        [
+          "ġamara",
+          "yaġmuru"
+        ],
+        [
+          "ġamura",
+          "yaġmuru"
+        ],
+        [
+          "qamara",
+          "yaqmuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "ʔamira",
+          "yaʔmaru"
+        ],
+        [
+          "ʔamira",
+          "yaʔmaru"
+        ],
+        [
+          "samira",
+          "yasmaru"
+        ],
+        [
+          "ṭamira",
+          "yaṭmaru"
+        ],
+        [
+          "qamira",
+          "yaqmaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "zamara",
+          "yazmiru"
+        ],
+        [
+          "ṭamara",
+          "yaṭmiru"
+        ],
+        [
+          "ṭamara",
+          "yaṭmiru"
+        ],
+        [
+          "ʕamara",
+          "yaʕmiru"
+        ],
+        [
+          "ʕamara",
+          "yaʕmiru"
+        ],
+        [
+          "qamara",
+          "yaqmiru"
+        ],
+        [
+          "qamara",
+          "yaqmiru"
+        ]
+      ]
+    }
+  },
+  "r -> m": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "barima",
+          "yabramu"
+        ],
+        [
+          "ḥarima",
+          "yaḥramu"
+        ],
+        [
+          "ḍarima",
+          "yaḍramu"
+        ],
+        [
+          "harima",
+          "yahramu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "barama",
+          "yabrumu"
+        ],
+        [
+          "ḥaruma",
+          "yaḥrumu"
+        ],
+        [
+          "farama",
+          "yafrumu"
+        ],
+        [
+          "karuma",
+          "yakrumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "jarama",
+          "yajrimu"
+        ],
+        [
+          "ḥarama",
+          "yaḥrimu"
+        ],
+        [
+          "ḵarama",
+          "yaḵrimu"
+        ],
+        [
+          "šarama",
+          "yašrimu"
+        ],
+        [
+          "ṣarama",
+          "yaṣrimu"
+        ],
+        [
+          "qarama",
+          "yaqrimu"
+        ]
+      ]
+    }
+  },
+  "r -> n": {
+    "u": {
+      "count": 6,
+      "forms": [
+        [
+          "jarana",
+          "yajrunu"
+        ],
+        [
+          "ʕarana",
+          "yaʕrunu"
+        ],
+        [
+          "ʕarana",
+          "yaʕrunu"
+        ],
+        [
+          "qarana",
+          "yaqrunu"
+        ],
+        [
+          "marana",
+          "yamrunu"
+        ],
+        [
+          "marana",
+          "yamrunu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕarana",
+          "yaʕrinu"
+        ],
+        [
+          "qarana",
+          "yaqrinu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕarina",
+          "yaʕranu"
+        ]
+      ]
+    }
+  },
+  "n -> r": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "zanara",
+          "yaznuru"
+        ]
+      ]
+    }
+  },
+  "r -> q": {
+    "a": {
+      "count": 10,
+      "forms": [
+        [
+          "ʔariqa",
+          "yaʔraqu"
+        ],
+        [
+          "zariqa",
+          "yazraqu"
+        ],
+        [
+          "šariqa",
+          "yašraqu"
+        ],
+        [
+          "ʕuriqa",
+          "yuʕraqu"
+        ],
+        [
+          "ʕariqa",
+          "yaʕraqu"
+        ],
+        [
+          "ġariqa",
+          "yaġraqu"
+        ],
+        [
+          "fariqa",
+          "yafraqu"
+        ],
+        [
+          "fariqa",
+          "yafraqu"
+        ],
+        [
+          "mariqa",
+          "yamraqu"
+        ],
+        [
+          "haraqa",
+          "yahraqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 13,
+      "forms": [
+        [
+          "baraqa",
+          "yabruqu"
+        ],
+        [
+          "ḥaraqa",
+          "yaḥruqu"
+        ],
+        [
+          "ḵaraqa",
+          "yaḵruqu"
+        ],
+        [
+          "ḏaraqa",
+          "yaḏruqu"
+        ],
+        [
+          "zaraqa",
+          "yazruqu"
+        ],
+        [
+          "zaraqa",
+          "yazruqu"
+        ],
+        [
+          "šaraqa",
+          "yašruqu"
+        ],
+        [
+          "ʕaraqa",
+          "yaʕruqu"
+        ],
+        [
+          "faraqa",
+          "yafruqu"
+        ],
+        [
+          "faraqa",
+          "yafruqu"
+        ],
+        [
+          "maraqa",
+          "yamruqu"
+        ],
+        [
+          "maraqa",
+          "yamruqu"
+        ],
+        [
+          "maraqa",
+          "yamruqu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 7,
+      "forms": [
+        [
+          "ḥaraqa",
+          "yaḥriqu"
+        ],
+        [
+          "ḵaraqa",
+          "yaḵriqu"
+        ],
+        [
+          "ḏaraqa",
+          "yaḏriqu"
+        ],
+        [
+          "zaraqa",
+          "yazriqu"
+        ],
+        [
+          "zaraqa",
+          "yazriqu"
+        ],
+        [
+          "saraqa",
+          "yasriqu"
+        ],
+        [
+          "ṭaraqa",
+          "yaṭriqu"
+        ]
+      ]
+    }
+  },
+  "q -> r": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "baqara",
+          "yabqaru"
+        ],
+        [
+          "faqira",
+          "yafqaru"
+        ],
+        [
+          "maqira",
+          "yamqaru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 9,
+      "forms": [
+        [
+          "baqara",
+          "yabquru"
+        ],
+        [
+          "ḥaqara",
+          "yaḥquru"
+        ],
+        [
+          "ḥaqura",
+          "yaḥquru"
+        ],
+        [
+          "ʕaqura",
+          "yaʕquru"
+        ],
+        [
+          "faqara",
+          "yafquru"
+        ],
+        [
+          "faqura",
+          "yafquru"
+        ],
+        [
+          "faqara",
+          "yafquru"
+        ],
+        [
+          "maqara",
+          "yamquru"
+        ],
+        [
+          "naqara",
+          "yanquru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕaqara",
+          "yaʕqiru"
+        ],
+        [
+          "faqara",
+          "yafqiru"
+        ],
+        [
+          "faqara",
+          "yafqiru"
+        ]
+      ]
+    }
+  },
+  "s -> r": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ʔasara",
+          "yaʔsiru"
+        ],
+        [
+          "ḵasara",
+          "yaḵsiru"
+        ],
+        [
+          "qasara",
+          "yaqsiru"
+        ],
+        [
+          "kasara",
+          "yaksiru"
+        ],
+        [
+          "nasara",
+          "yansiru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "basara",
+          "yabsuru"
+        ],
+        [
+          "basara",
+          "yabsuru"
+        ],
+        [
+          "jasara",
+          "yajsuru"
+        ],
+        [
+          "jasara",
+          "yajsuru"
+        ],
+        [
+          "ḥasara",
+          "yaḥsuru"
+        ],
+        [
+          "ḵasara",
+          "yaḵsuru"
+        ],
+        [
+          "nasara",
+          "yansuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵasira",
+          "yaḵsaru"
+        ]
+      ]
+    }
+  },
+  "r -> s": {
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "jarasa",
+          "yajrisu"
+        ],
+        [
+          "ḥarasa",
+          "yaḥrisu"
+        ],
+        [
+          "ḥarasa",
+          "yaḥrisu"
+        ],
+        [
+          "ḍarasa",
+          "yaḍrisu"
+        ],
+        [
+          "ġarasa",
+          "yaġrisu"
+        ],
+        [
+          "farasa",
+          "yafrisu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "ḥarasa",
+          "yaḥrusu"
+        ],
+        [
+          "ḵarasa",
+          "yaḵrusu"
+        ],
+        [
+          "darasa",
+          "yadrusu"
+        ],
+        [
+          "darasa",
+          "yadrusu"
+        ],
+        [
+          "šarusa",
+          "yašrusu"
+        ],
+        [
+          "marasa",
+          "yamrusu"
+        ],
+        [
+          "harasa",
+          "yahrusu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥarisa",
+          "yaḥrasu"
+        ],
+        [
+          "ḵarisa",
+          "yaḵrasu"
+        ],
+        [
+          "šarisa",
+          "yašrasu"
+        ]
+      ]
+    }
+  },
+  "w -> r": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥawira",
+          "yaḥwaru"
+        ],
+        [
+          "ḵawira",
+          "yaḵwaru"
+        ],
+        [
+          "zawira",
+          "yazwaru"
+        ],
+        [
+          "ʕawira",
+          "yaʕwaru"
+        ],
+        [
+          "ʕawira",
+          "yaʕwaru"
+        ]
+      ]
+    }
+  },
+  "z -> r": {
+    "i": {
+      "count": 6,
+      "forms": [
+        [
+          "ʔazara",
+          "yaʔziru"
+        ],
+        [
+          "jazara",
+          "yajziru"
+        ],
+        [
+          "ḥazara",
+          "yaḥziru"
+        ],
+        [
+          "šazara",
+          "yašziru"
+        ],
+        [
+          "ʕazara",
+          "yaʕziru"
+        ],
+        [
+          "hazara",
+          "yahziru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "jazara",
+          "yajzuru"
+        ],
+        [
+          "jazara",
+          "yajzuru"
+        ],
+        [
+          "ḥazara",
+          "yaḥzuru"
+        ],
+        [
+          "nazara",
+          "yanzuru"
+        ],
+        [
+          "nazara",
+          "yanzuru"
+        ]
+      ]
+    }
+  },
+  "r -> z": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "baraza",
+          "yabruzu"
+        ],
+        [
+          "ḵaraza",
+          "yaḵruzu"
+        ],
+        [
+          "daraza",
+          "yadruzu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵaraza",
+          "yaḵrizu"
+        ],
+        [
+          "ġaraza",
+          "yaġrizu"
+        ],
+        [
+          "karaza",
+          "yakrizu"
+        ],
+        [
+          "karaza",
+          "yakrizu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ṭariza",
+          "yaṭrazu"
+        ]
+      ]
+    }
+  },
+  "ġ -> r": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "ṯaġara",
+          "yaṯġaru"
+        ],
+        [
+          "šaġara",
+          "yašġaru"
+        ],
+        [
+          "faġara",
+          "yafġaru"
+        ],
+        [
+          "maġara",
+          "yamġaru"
+        ],
+        [
+          "naġara",
+          "yanġaru"
+        ],
+        [
+          "naġira",
+          "yanġaru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "šaġara",
+          "yašġuru"
+        ],
+        [
+          "ṣaġura",
+          "yaṣġuru"
+        ],
+        [
+          "ṣaġara",
+          "yaṣġuru"
+        ],
+        [
+          "faġara",
+          "yafġuru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naġara",
+          "yanġiru"
+        ]
+      ]
+    }
+  },
+  "r -> ġ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "faraġa",
+          "yafruġu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "fariġa",
+          "yafraġu"
+        ]
+      ]
+    }
+  },
+  "š -> r": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "bašara",
+          "yabšuru"
+        ],
+        [
+          "ḥašara",
+          "yaḥšuru"
+        ],
+        [
+          "qašara",
+          "yaqšuru"
+        ],
+        [
+          "našara",
+          "yanšuru"
+        ],
+        [
+          "našara",
+          "yanšuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "bašira",
+          "yabšaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "bašara",
+          "yabširu"
+        ],
+        [
+          "ḥašara",
+          "yaḥširu"
+        ],
+        [
+          "qašara",
+          "yaqširu"
+        ],
+        [
+          "našara",
+          "yanširu"
+        ]
+      ]
+    }
+  },
+  "r -> š": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ḥaraša",
+          "yaḥrišu"
+        ],
+        [
+          "ʕaraša",
+          "yaʕrišu"
+        ],
+        [
+          "faraša",
+          "yafrišu"
+        ],
+        [
+          "qaraša",
+          "yaqrišu"
+        ],
+        [
+          "maraša",
+          "yamrišu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ʕaraša",
+          "yaʕrušu"
+        ],
+        [
+          "faraša",
+          "yafrušu"
+        ],
+        [
+          "faraša",
+          "yafrušu"
+        ],
+        [
+          "qaraša",
+          "yaqrušu"
+        ],
+        [
+          "haraša",
+          "yahrušu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "kariša",
+          "yakrašu"
+        ],
+        [
+          "hariša",
+          "yahrašu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> r": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "baʕara",
+          "yabʕaru"
+        ],
+        [
+          "jaʕara",
+          "yajʕaru"
+        ],
+        [
+          "šaʕira",
+          "yašʕaru"
+        ],
+        [
+          "naʕara",
+          "yanʕaru"
+        ],
+        [
+          "naʕara",
+          "yanʕaru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "šaʕara",
+          "yašʕuru"
+        ],
+        [
+          "šaʕara",
+          "yašʕuru"
+        ],
+        [
+          "šaʕura",
+          "yašʕuru"
+        ],
+        [
+          "qaʕura",
+          "yaqʕuru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "naʕara",
+          "yanʕiru"
+        ],
+        [
+          "naʕara",
+          "yanʕiru"
+        ]
+      ]
+    }
+  },
+  "r -> ʕ": {
+    "a": {
+      "count": 13,
+      "forms": [
+        [
+          "jaraʕa",
+          "yajraʕu"
+        ],
+        [
+          "jariʕa",
+          "yajraʕu"
+        ],
+        [
+          "zaraʕa",
+          "yazraʕu"
+        ],
+        [
+          "šaraʕa",
+          "yašraʕu"
+        ],
+        [
+          "šaraʕa",
+          "yašraʕu"
+        ],
+        [
+          "ṣaraʕa",
+          "yaṣraʕu"
+        ],
+        [
+          "ṣuriʕa",
+          "yuṣraʕu"
+        ],
+        [
+          "ḍaraʕa",
+          "yaḍraʕu"
+        ],
+        [
+          "ḍariʕa",
+          "yaḍraʕu"
+        ],
+        [
+          "faraʕa",
+          "yafraʕu"
+        ],
+        [
+          "qaraʕa",
+          "yaqraʕu"
+        ],
+        [
+          "qaraʕa",
+          "yaqraʕu"
+        ],
+        [
+          "qariʕa",
+          "yaqraʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "saruʕa",
+          "yasruʕu"
+        ],
+        [
+          "ḍaruʕa",
+          "yaḍruʕu"
+        ],
+        [
+          "qaraʕa",
+          "yaqruʕu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> r": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaḍara",
+          "yaḥḍuru"
+        ],
+        [
+          "ḥaḍara",
+          "yaḥḍuru"
+        ],
+        [
+          "naḍura",
+          "yanḍuru"
+        ],
+        [
+          "naḍara",
+          "yanḍuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naḍira",
+          "yanḍaru"
+        ]
+      ]
+    }
+  },
+  "r -> ḍ": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕaraḍa",
+          "yaʕriḍu"
+        ],
+        [
+          "faraḍa",
+          "yafriḍu"
+        ],
+        [
+          "qaraḍa",
+          "yaqriḍu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaruḍa",
+          "yaʕruḍu"
+        ],
+        [
+          "qaruḍa",
+          "yaqruḍu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ʕuriḍa",
+          "yuʕraḍu"
+        ],
+        [
+          "ġariḍa",
+          "yaġraḍu"
+        ],
+        [
+          "qariḍa",
+          "yaqraḍu"
+        ],
+        [
+          "mariḍa",
+          "yamraḍu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> r": {
+    "u": {
+      "count": 9,
+      "forms": [
+        [
+          "baṣura",
+          "yabṣuru"
+        ],
+        [
+          "ḥaṣara",
+          "yaḥṣuru"
+        ],
+        [
+          "ʕaṣara",
+          "yaʕṣuru"
+        ],
+        [
+          "qaṣura",
+          "yaqṣuru"
+        ],
+        [
+          "qaṣara",
+          "yaqṣuru"
+        ],
+        [
+          "qaṣara",
+          "yaqṣuru"
+        ],
+        [
+          "qaṣara",
+          "yaqṣuru"
+        ],
+        [
+          "qaṣara",
+          "yaqṣuru"
+        ],
+        [
+          "naṣara",
+          "yanṣuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "baṣira",
+          "yabṣaru"
+        ],
+        [
+          "ḥaṣira",
+          "yaḥṣaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaṣara",
+          "yaḥṣiru"
+        ],
+        [
+          "ʕaṣara",
+          "yaʕṣiru"
+        ],
+        [
+          "qaṣara",
+          "yaqṣiru"
+        ],
+        [
+          "haṣara",
+          "yahṣiru"
+        ]
+      ]
+    }
+  },
+  "r -> ṣ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaraṣa",
+          "yaḥriṣu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥariṣa",
+          "yaḥraṣu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaraṣa",
+          "yaḵruṣu"
+        ],
+        [
+          "faraṣa",
+          "yafruṣu"
+        ],
+        [
+          "qaraṣa",
+          "yaqruṣu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> r": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʔaṭara",
+          "yaʔṭiru"
+        ],
+        [
+          "ḵaṭara",
+          "yaḵṭiru"
+        ],
+        [
+          "ḵaṭara",
+          "yaḵṭiru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 9,
+      "forms": [
+        [
+          "ʔaṭara",
+          "yaʔṭuru"
+        ],
+        [
+          "ḵaṭara",
+          "yaḵṭuru"
+        ],
+        [
+          "saṭara",
+          "yasṭuru"
+        ],
+        [
+          "šaṭara",
+          "yašṭuru"
+        ],
+        [
+          "faṭara",
+          "yafṭuru"
+        ],
+        [
+          "faṭara",
+          "yafṭuru"
+        ],
+        [
+          "faṭara",
+          "yafṭuru"
+        ],
+        [
+          "qaṭara",
+          "yaqṭuru"
+        ],
+        [
+          "maṭara",
+          "yamṭuru"
+        ]
+      ]
+    }
+  },
+  "r -> ṭ": {
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḵaraṭa",
+          "yaḵruṭu"
+        ],
+        [
+          "saraṭa",
+          "yasruṭu"
+        ],
+        [
+          "šaraṭa",
+          "yašruṭu"
+        ],
+        [
+          "faraṭa",
+          "yafruṭu"
+        ],
+        [
+          "qaraṭa",
+          "yaqruṭu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaraṭa",
+          "yaḵriṭu"
+        ],
+        [
+          "šaraṭa",
+          "yašriṭu"
+        ],
+        [
+          "ḍaraṭa",
+          "yaḍriṭu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḍariṭa",
+          "yaḍraṭu"
+        ]
+      ]
+    }
+  },
+  "ẓ -> r": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥaẓara",
+          "yaḥẓuru"
+        ],
+        [
+          "naẓara",
+          "yanẓuru"
+        ]
+      ]
+    }
+  },
+  "r -> ẓ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "qaraẓa",
+          "yaqriẓu"
+        ]
+      ]
+    }
+  },
+  "s -> f": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔasifa",
+          "yaʔsafu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵasafa",
+          "yaḵsifu"
+        ],
+        [
+          "ḵasafa",
+          "yaḵsifu"
+        ],
+        [
+          "nasafa",
+          "yansifu"
+        ]
+      ]
+    }
+  },
+  "f -> s": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rafasa",
+          "yarfusu"
+        ],
+        [
+          "nafusa",
+          "yanfusu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "rafasa",
+          "yarfisu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "nafisa",
+          "yanfasu"
+        ],
+        [
+          "nafisa",
+          "yanfasu"
+        ],
+        [
+          "nafisa",
+          "yanfasu"
+        ],
+        [
+          "nufisa",
+          "yunfasu"
+        ]
+      ]
+    }
+  },
+  "h -> s": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "dahasa",
+          "yadhasu"
+        ]
+      ]
+    }
+  },
+  "k -> s": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "šakusa",
+          "yaškusu"
+        ],
+        [
+          "nakasa",
+          "yankusu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "šakisa",
+          "yaškasu"
+        ],
+        [
+          "nukisa",
+          "yunkasu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕakasa",
+          "yaʕkisu"
+        ],
+        [
+          "makasa",
+          "yamkisu"
+        ]
+      ]
+    }
+  },
+  "s -> k": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "masaka",
+          "yamsuku"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "masaka",
+          "yamsiku"
+        ]
+      ]
+    }
+  },
+  "s -> l": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ʔasula",
+          "yaʔsulu"
+        ],
+        [
+          "fasala",
+          "yafsulu"
+        ],
+        [
+          "fasula",
+          "yafsulu"
+        ],
+        [
+          "nasala",
+          "yansulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕasala",
+          "yaʕsilu"
+        ],
+        [
+          "ġasala",
+          "yaġsilu"
+        ]
+      ]
+    }
+  },
+  "l -> s": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "jalasa",
+          "yajlisu"
+        ],
+        [
+          "ḥalasa",
+          "yaḥlisu"
+        ],
+        [
+          "ḵalasa",
+          "yaḵlisu"
+        ],
+        [
+          "ṭalasa",
+          "yaṭlisu"
+        ],
+        [
+          "qalasa",
+          "yaqlisu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥalisa",
+          "yaḥlasu"
+        ],
+        [
+          "ṭalisa",
+          "yaṭlasu"
+        ]
+      ]
+    }
+  },
+  "s -> m": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "basama",
+          "yabsimu"
+        ],
+        [
+          "ḥasama",
+          "yaḥsimu"
+        ],
+        [
+          "qasama",
+          "yaqsimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "jasuma",
+          "yajsumu"
+        ],
+        [
+          "dasama",
+          "yadsumu"
+        ],
+        [
+          "rasama",
+          "yarsumu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "dasima",
+          "yadsamu"
+        ]
+      ]
+    }
+  },
+  "m -> s": {
+    "i": {
+      "count": 8,
+      "forms": [
+        [
+          "damasa",
+          "yadmisu"
+        ],
+        [
+          "damasa",
+          "yadmisu"
+        ],
+        [
+          "ramasa",
+          "yarmisu"
+        ],
+        [
+          "šamasa",
+          "yašmisu"
+        ],
+        [
+          "ṭamasa",
+          "yaṭmisu"
+        ],
+        [
+          "ṭamasa",
+          "yaṭmisu"
+        ],
+        [
+          "lamasa",
+          "yalmisu"
+        ],
+        [
+          "hamasa",
+          "yahmisu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "damasa",
+          "yadmusu"
+        ],
+        [
+          "damasa",
+          "yadmusu"
+        ],
+        [
+          "ramasa",
+          "yarmusu"
+        ],
+        [
+          "šamasa",
+          "yašmusu"
+        ],
+        [
+          "šamasa",
+          "yašmusu"
+        ],
+        [
+          "ṭamasa",
+          "yaṭmusu"
+        ],
+        [
+          "lamasa",
+          "yalmusu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "šamisa",
+          "yašmasu"
+        ]
+      ]
+    }
+  },
+  "n -> s": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʔanasa",
+          "yaʔnisu"
+        ],
+        [
+          "kanasa",
+          "yaknisu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ʔanasa",
+          "yaʔnusu"
+        ],
+        [
+          "ʔanusa",
+          "yaʔnusu"
+        ],
+        [
+          "ḵanasa",
+          "yaḵnusu"
+        ],
+        [
+          "kanasa",
+          "yaknusu"
+        ],
+        [
+          "kanasa",
+          "yaknusu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔanisa",
+          "yaʔnasu"
+        ]
+      ]
+    }
+  },
+  "s -> n": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥasuna",
+          "yaḥsunu"
+        ],
+        [
+          "rasana",
+          "yarsunu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "rasana",
+          "yarsinu"
+        ]
+      ]
+    }
+  },
+  "s -> q": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "fasaqa",
+          "yafsiqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "fasaqa",
+          "yafsuqu"
+        ],
+        [
+          "fasuqa",
+          "yafsuqu"
+        ],
+        [
+          "nasaqa",
+          "yansuqu"
+        ]
+      ]
+    }
+  },
+  "q -> s": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "faqasa",
+          "yafqisu"
+        ]
+      ]
+    }
+  },
+  "w -> s": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "sawisa",
+          "yaswasu"
+        ],
+        [
+          "qawisa",
+          "yaqwasu"
+        ],
+        [
+          "hawisa",
+          "yahwasu"
+        ]
+      ]
+    }
+  },
+  "y -> s": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʔayisa",
+          "yaʔyasu"
+        ],
+        [
+          "layisa",
+          "yalyasu"
+        ]
+      ]
+    }
+  },
+  "s -> ġ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nasaġa",
+          "yansaġu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> s": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "taʕasa",
+          "yatʕasu"
+        ],
+        [
+          "taʕisa",
+          "yatʕasu"
+        ],
+        [
+          "taʕasa",
+          "yatʕasu"
+        ],
+        [
+          "daʕasa",
+          "yadʕasu"
+        ],
+        [
+          "naʕasa",
+          "yanʕasu"
+        ]
+      ]
+    }
+  },
+  "s -> ʕ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lasaʕa",
+          "yalsaʕu"
+        ]
+      ]
+    }
+  },
+  "s -> ṭ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "basaṭa",
+          "yabsuṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> s": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ʕaṭasa",
+          "yaʕṭisu"
+        ],
+        [
+          "ġaṭasa",
+          "yaġṭisu"
+        ],
+        [
+          "faṭasa",
+          "yafṭisu"
+        ],
+        [
+          "faṭasa",
+          "yafṭisu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaṭasa",
+          "yaʕṭusu"
+        ],
+        [
+          "laṭasa",
+          "yalṭusu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "faṭisa",
+          "yafṭasu"
+        ]
+      ]
+    }
+  },
+  "f -> t": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵafata",
+          "yaḵfutu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "ḵafata",
+          "yaḵfitu"
+        ],
+        [
+          "ʕafata",
+          "yaʕfitu"
+        ],
+        [
+          "kafata",
+          "yakfitu"
+        ],
+        [
+          "kafata",
+          "yakfitu"
+        ],
+        [
+          "lafata",
+          "yalfitu"
+        ]
+      ]
+    }
+  },
+  "t -> f": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "natafa",
+          "yantifu"
+        ],
+        [
+          "hatafa",
+          "yahtifu"
+        ]
+      ]
+    }
+  },
+  "t -> j": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nataja",
+          "yantiju"
+        ]
+      ]
+    }
+  },
+  "k -> t": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "sakata",
+          "yaskutu"
+        ]
+      ]
+    }
+  },
+  "t -> k": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "fataka",
+          "yaftiku"
+        ],
+        [
+          "hataka",
+          "yahtiku"
+        ]
+      ]
+    }
+  },
+  "t -> l": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ratila",
+          "yartalu"
+        ],
+        [
+          "qutila",
+          "yuqtalu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "šatala",
+          "yaštilu"
+        ],
+        [
+          "fatala",
+          "yaftilu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕatala",
+          "yaʕtulu"
+        ],
+        [
+          "qatala",
+          "yaqtulu"
+        ],
+        [
+          "katala",
+          "yaktulu"
+        ]
+      ]
+    }
+  },
+  "l -> t": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "falata",
+          "yaflitu"
+        ]
+      ]
+    }
+  },
+  "t -> m": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵatama",
+          "yaḵtimu"
+        ],
+        [
+          "ratama",
+          "yartimu"
+        ],
+        [
+          "šatama",
+          "yaštimu"
+        ],
+        [
+          "ʕatama",
+          "yaʕtimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "šatama",
+          "yaštumu"
+        ],
+        [
+          "katama",
+          "yaktumu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣatama",
+          "yaṣtamu"
+        ]
+      ]
+    }
+  },
+  "m -> t": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "šamita",
+          "yašmatu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "šamata",
+          "yašmutu"
+        ],
+        [
+          "ṣamata",
+          "yaṣmutu"
+        ],
+        [
+          "kamata",
+          "yakmutu"
+        ],
+        [
+          "kamuta",
+          "yakmutu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "šamata",
+          "yašmitu"
+        ]
+      ]
+    }
+  },
+  "t -> n": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵatana",
+          "yaḵtinu"
+        ],
+        [
+          "fatana",
+          "yaftinu"
+        ],
+        [
+          "natana",
+          "yantinu"
+        ],
+        [
+          "natina",
+          "yantinu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "matuna",
+          "yamtunu"
+        ],
+        [
+          "matana",
+          "yamtunu"
+        ],
+        [
+          "natuna",
+          "yantunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "natana",
+          "yantanu"
+        ],
+        [
+          "natina",
+          "yantanu"
+        ]
+      ]
+    }
+  },
+  "n -> t": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "qanata",
+          "yaqnutu"
+        ],
+        [
+          "qanuta",
+          "yaqnutu"
+        ]
+      ]
+    }
+  },
+  "q -> t": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "maqata",
+          "yamqutu"
+        ],
+        [
+          "maquta",
+          "yamqutu"
+        ]
+      ]
+    }
+  },
+  "t -> r": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "batara",
+          "yabturu"
+        ],
+        [
+          "satara",
+          "yasturu"
+        ],
+        [
+          "matara",
+          "yamturu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕatara",
+          "yaʕtiru"
+        ]
+      ]
+    }
+  },
+  "r -> t": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵarata",
+          "yaḵrutu"
+        ],
+        [
+          "qarata",
+          "yaqrutu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "qarita",
+          "yaqratu"
+        ]
+      ]
+    }
+  },
+  "t -> š": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "fataša",
+          "yaftašu"
+        ]
+      ]
+    }
+  },
+  "t -> ʕ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "batiʕa",
+          "yabtaʕu"
+        ],
+        [
+          "rataʕa",
+          "yartaʕu"
+        ],
+        [
+          "ṣataʕa",
+          "yaṣtaʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> t": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naʕata",
+          "yanʕatu"
+        ]
+      ]
+    }
+  },
+  "t -> ḥ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "fataḥa",
+          "yaftaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> t": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naḥata",
+          "yanḥutu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> t": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naṣata",
+          "yanṣitu"
+        ]
+      ]
+    }
+  },
+  "z -> f": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕazafa",
+          "yaʕzifu"
+        ],
+        [
+          "ʕazafa",
+          "yaʕzifu"
+        ],
+        [
+          "nazafa",
+          "yanzifu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕazafa",
+          "yaʕzufu"
+        ]
+      ]
+    }
+  },
+  "f -> z": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "qafaza",
+          "yaqfizu"
+        ]
+      ]
+    }
+  },
+  "z -> h": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nazuha",
+          "yanzuhu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naziha",
+          "yanzahu"
+        ]
+      ]
+    }
+  },
+  "h -> z": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nahaza",
+          "yanhazu"
+        ]
+      ]
+    }
+  },
+  "k -> z": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "rakaza",
+          "yarkizu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rakaza",
+          "yarkuzu"
+        ],
+        [
+          "lakaza",
+          "yalkuzu"
+        ]
+      ]
+    }
+  },
+  "z -> l": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "bazala",
+          "yabzulu"
+        ],
+        [
+          "jazula",
+          "yajzulu"
+        ],
+        [
+          "ḵazala",
+          "yaḵzulu"
+        ],
+        [
+          "hazala",
+          "yahzulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "jazala",
+          "yajzilu"
+        ],
+        [
+          "ḵazala",
+          "yaḵzilu"
+        ],
+        [
+          "ʕazala",
+          "yaʕzilu"
+        ],
+        [
+          "ġazala",
+          "yaġzilu"
+        ],
+        [
+          "nazala",
+          "yanzilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "jazila",
+          "yajzalu"
+        ],
+        [
+          "ḵazila",
+          "yaḵzalu"
+        ],
+        [
+          "ġazila",
+          "yaġzalu"
+        ]
+      ]
+    }
+  },
+  "z -> m": {
+    "i": {
+      "count": 5,
+      "forms": [
+        [
+          "bazama",
+          "yabzimu"
+        ],
+        [
+          "jazama",
+          "yajzimu"
+        ],
+        [
+          "ḥazama",
+          "yaḥzimu"
+        ],
+        [
+          "ʕazama",
+          "yaʕzimu"
+        ],
+        [
+          "hazama",
+          "yahzimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "bazama",
+          "yabzumu"
+        ],
+        [
+          "ḥazuma",
+          "yaḥzumu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lazima",
+          "yalzamu"
+        ]
+      ]
+    }
+  },
+  "m -> z": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "jamaza",
+          "yajmizu"
+        ],
+        [
+          "ramaza",
+          "yarmizu"
+        ],
+        [
+          "ġamaza",
+          "yaġmizu"
+        ],
+        [
+          "lamaza",
+          "yalmizu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ramaza",
+          "yarmuzu"
+        ],
+        [
+          "lamaza",
+          "yalmuzu"
+        ]
+      ]
+    }
+  },
+  "z -> n": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥazana",
+          "yaḥzunu"
+        ],
+        [
+          "ḥazuna",
+          "yaḥzunu"
+        ],
+        [
+          "ḵazana",
+          "yaḵzunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥazina",
+          "yaḥzanu"
+        ]
+      ]
+    }
+  },
+  "n -> z": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ṭanaza",
+          "yaṭnizu"
+        ],
+        [
+          "kanaza",
+          "yaknizu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṭanaza",
+          "yaṭnuzu"
+        ]
+      ]
+    }
+  },
+  "z -> q": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "bazaqa",
+          "yabzuqu"
+        ],
+        [
+          "razaqa",
+          "yarzuqu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕazaqa",
+          "yaʕziqu"
+        ],
+        [
+          "mazaqa",
+          "yamziqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "laziqa",
+          "yalzaqu"
+        ]
+      ]
+    }
+  },
+  "z -> ġ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "bazaġa",
+          "yabzuġu"
+        ],
+        [
+          "bazaġa",
+          "yabzuġu"
+        ]
+      ]
+    }
+  },
+  "ġ -> z": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "laġaza",
+          "yalġuzu"
+        ]
+      ]
+    }
+  },
+  "z -> ʕ": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "jazaʕa",
+          "yajzaʕu"
+        ],
+        [
+          "faziʕa",
+          "yafzaʕu"
+        ],
+        [
+          "fazaʕa",
+          "yafzaʕu"
+        ],
+        [
+          "qazaʕa",
+          "yaqzaʕu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "nazaʕa",
+          "yanziʕu"
+        ],
+        [
+          "nazaʕa",
+          "yanziʕu"
+        ]
+      ]
+    }
+  },
+  "ġ -> f": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "šaġafa",
+          "yašġafu"
+        ]
+      ]
+    }
+  },
+  "l -> ġ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "balaġa",
+          "yabluġu"
+        ]
+      ]
+    }
+  },
+  "ġ -> l": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "šaġala",
+          "yašġalu"
+        ],
+        [
+          "šuġila",
+          "yušġalu"
+        ]
+      ]
+    }
+  },
+  "m -> ġ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "damaġa",
+          "yadmuġu"
+        ]
+      ]
+    }
+  },
+  "ġ -> m": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "raġima",
+          "yarġamu"
+        ],
+        [
+          "raġama",
+          "yarġamu"
+        ],
+        [
+          "laġama",
+          "yalġamu"
+        ],
+        [
+          "naġima",
+          "yanġamu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "raġuma",
+          "yarġumu"
+        ],
+        [
+          "laġama",
+          "yalġumu"
+        ],
+        [
+          "naġama",
+          "yanġumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naġama",
+          "yanġimu"
+        ]
+      ]
+    }
+  },
+  "š -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥašafa",
+          "yaḥšafu"
+        ],
+        [
+          "qašifa",
+          "yaqšafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rašafa",
+          "yaršufu"
+        ],
+        [
+          "qašufa",
+          "yaqšufu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "rašafa",
+          "yaršifu"
+        ],
+        [
+          "kašafa",
+          "yakšifu"
+        ]
+      ]
+    }
+  },
+  "f -> š": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥafaša",
+          "yaḥfišu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥafiša",
+          "yaḥfašu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "nafaša",
+          "yanfušu"
+        ],
+        [
+          "nafaša",
+          "yanfušu"
+        ]
+      ]
+    }
+  },
+  "h -> š": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "dahaša",
+          "yadhašu"
+        ],
+        [
+          "dahiša",
+          "yadhašu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nahaša",
+          "yanhišu"
+        ]
+      ]
+    }
+  },
+  "š -> l": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "fašila",
+          "yafšalu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "našala",
+          "yanšulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "našala",
+          "yanšilu"
+        ]
+      ]
+    }
+  },
+  "š -> m": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥašama",
+          "yaḥšumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥašama",
+          "yaḥšimu"
+        ],
+        [
+          "hašama",
+          "yahšimu"
+        ]
+      ]
+    }
+  },
+  "m -> š": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ramaša",
+          "yarmušu"
+        ],
+        [
+          "kamaša",
+          "yakmušu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ramaša",
+          "yarmišu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ġamiša",
+          "yaġmašu"
+        ],
+        [
+          "namiša",
+          "yanmašu"
+        ]
+      ]
+    }
+  },
+  "n -> š": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥanaša",
+          "yaḥnišu"
+        ]
+      ]
+    }
+  },
+  "š -> n": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵašuna",
+          "yaḵšunu"
+        ],
+        [
+          "ʕašana",
+          "yaʕšunu"
+        ]
+      ]
+    }
+  },
+  "š -> q": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "rašaqa",
+          "yaršuqu"
+        ],
+        [
+          "rašuqa",
+          "yaršuqu"
+        ],
+        [
+          "mašaqa",
+          "yamšuqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕašiqa",
+          "yaʕšaqu"
+        ],
+        [
+          "našiqa",
+          "yanšaqu"
+        ]
+      ]
+    }
+  },
+  "q -> š": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naqaša",
+          "yanqušu"
+        ]
+      ]
+    }
+  },
+  "ġ -> š": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "baġaša",
+          "yabġašu"
+        ]
+      ]
+    }
+  },
+  "š -> ġ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "fašaġa",
+          "yafšaġu"
+        ]
+      ]
+    }
+  },
+  "š -> ʕ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "bašiʕa",
+          "yabšaʕu"
+        ],
+        [
+          "qašaʕa",
+          "yaqšaʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> š": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naʕaša",
+          "yanʕašu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> š": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaṭiša",
+          "yaʕṭašu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "laṭaša",
+          "yalṭušu"
+        ]
+      ]
+    }
+  },
+  "š -> ṭ": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "qašaṭa",
+          "yaqšiṭu"
+        ],
+        [
+          "kašaṭa",
+          "yakšiṭu"
+        ],
+        [
+          "mašaṭa",
+          "yamšiṭu"
+        ],
+        [
+          "našaṭa",
+          "yanšiṭu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "mašaṭa",
+          "yamšuṭu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "našiṭa",
+          "yanšaṭu"
+        ]
+      ]
+    }
+  },
+  "b -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵabaʔa",
+          "yaḵbaʔu"
+        ],
+        [
+          "ʕabaʔa",
+          "yaʕbaʔu"
+        ],
+        [
+          "nabaʔa",
+          "yanbaʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> b": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "daʔaba",
+          "yadʔabu"
+        ]
+      ]
+    }
+  },
+  "d -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "badaʔa",
+          "yabdaʔu"
+        ],
+        [
+          "ṣadaʔa",
+          "yaṣdaʔu"
+        ],
+        [
+          "hadaʔa",
+          "yahdaʔu"
+        ]
+      ]
+    }
+  },
+  "f -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "jafaʔa",
+          "yajfaʔu"
+        ],
+        [
+          "rafaʔa",
+          "yarfaʔu"
+        ],
+        [
+          "ṭafaʔa",
+          "yaṭfaʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "raʔafa",
+          "yarʔafu"
+        ],
+        [
+          "saʔafa",
+          "yasʔafu"
+        ]
+      ]
+    }
+  },
+  "j -> ʔ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lajaʔa",
+          "yaljaʔu"
+        ]
+      ]
+    }
+  },
+  "k -> ʔ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaʔa",
+          "yankaʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> l": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "saʔala",
+          "yasʔalu"
+        ]
+      ]
+    }
+  },
+  "l -> ʔ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "kalaʔa",
+          "yaklaʔu"
+        ],
+        [
+          "malaʔa",
+          "yamlaʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> m": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "zaʔama",
+          "yazʔamu"
+        ],
+        [
+          "ṣaʔama",
+          "yaṣʔamu"
+        ]
+      ]
+    }
+  },
+  "n -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "šanaʔa",
+          "yašnaʔu"
+        ],
+        [
+          "qanaʔa",
+          "yaqnaʔu"
+        ],
+        [
+          "hanaʔa",
+          "yahnaʔu"
+        ]
+      ]
+    }
+  },
+  "r -> ʔ": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "baraʔa",
+          "yabraʔu"
+        ],
+        [
+          "daraʔa",
+          "yadraʔu"
+        ],
+        [
+          "ḏaraʔa",
+          "yaḏraʔu"
+        ],
+        [
+          "ḏaraʔa",
+          "yaḏraʔu"
+        ],
+        [
+          "ṭaraʔa",
+          "yaṭraʔu"
+        ],
+        [
+          "qaraʔa",
+          "yaqraʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> r": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ṯaʔara",
+          "yaṯʔaru"
+        ],
+        [
+          "zaʔara",
+          "yazʔaru"
+        ],
+        [
+          "ẓaʔara",
+          "yaẓʔaru"
+        ]
+      ]
+    }
+  },
+  "s -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "jasaʔa",
+          "yajsaʔu"
+        ],
+        [
+          "ḵasaʔa",
+          "yaḵsaʔu"
+        ],
+        [
+          "nasaʔa",
+          "yansaʔu"
+        ]
+      ]
+    }
+  },
+  "ʔ -> s": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "raʔasa",
+          "yarʔasu"
+        ]
+      ]
+    }
+  },
+  "t -> ʔ": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "ṣataʔa",
+          "yaṣtaʔu"
+        ],
+        [
+          "fataʔa",
+          "yaftaʔu"
+        ],
+        [
+          "nataʔa",
+          "yantaʔu"
+        ]
+      ]
+    }
+  },
+  "z -> ʔ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "hazaʔa",
+          "yahzaʔu"
+        ]
+      ]
+    }
+  },
+  "š -> ʔ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "našaʔa",
+          "yanšaʔu"
+        ]
+      ]
+    }
+  },
+  "f -> ʕ": {
+    "a": {
+      "count": 7,
+      "forms": [
+        [
+          "dafaʕa",
+          "yadfaʕu"
+        ],
+        [
+          "rafaʕa",
+          "yarfaʕu"
+        ],
+        [
+          "safaʕa",
+          "yasfaʕu"
+        ],
+        [
+          "šafaʕa",
+          "yašfaʕu"
+        ],
+        [
+          "šafaʕa",
+          "yašfaʕu"
+        ],
+        [
+          "ṣafaʕa",
+          "yaṣfaʕu"
+        ],
+        [
+          "nafaʕa",
+          "yanfaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "rafuʕa",
+          "yarfuʕu"
+        ],
+        [
+          "rafuʕa",
+          "yarfuʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "saʕafa",
+          "yasʕafu"
+        ],
+        [
+          "saʕifa",
+          "yasʕafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḍaʕufa",
+          "yaḍʕufu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> k": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "daʕaka",
+          "yadʕaku"
+        ]
+      ]
+    }
+  },
+  "k -> ʕ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rakaʕa",
+          "yarkaʕu"
+        ]
+      ]
+    }
+  },
+  "l -> ʕ": {
+    "a": {
+      "count": 11,
+      "forms": [
+        [
+          "balaʕa",
+          "yablaʕu"
+        ],
+        [
+          "baliʕa",
+          "yablaʕu"
+        ],
+        [
+          "ḵalaʕa",
+          "yaḵlaʕu"
+        ],
+        [
+          "dalaʕa",
+          "yadlaʕu"
+        ],
+        [
+          "ḍalaʕa",
+          "yaḍlaʕu"
+        ],
+        [
+          "ḍaliʕa",
+          "yaḍlaʕu"
+        ],
+        [
+          "ṭaliʕa",
+          "yaṭlaʕu"
+        ],
+        [
+          "ṭalaʕa",
+          "yaṭlaʕu"
+        ],
+        [
+          "falaʕa",
+          "yaflaʕu"
+        ],
+        [
+          "qalaʕa",
+          "yaqlaʕu"
+        ],
+        [
+          "halaʕa",
+          "yahlaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "ḵaluʕa",
+          "yaḵluʕu"
+        ],
+        [
+          "ḍaluʕa",
+          "yaḍluʕu"
+        ],
+        [
+          "ṭalaʕa",
+          "yaṭluʕu"
+        ],
+        [
+          "ṭalaʕa",
+          "yaṭluʕu"
+        ],
+        [
+          "ṭalaʕa",
+          "yaṭluʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> l": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "jaʕala",
+          "yajʕalu"
+        ],
+        [
+          "zaʕila",
+          "yazʕalu"
+        ],
+        [
+          "šaʕala",
+          "yašʕalu"
+        ],
+        [
+          "faʕala",
+          "yafʕalu"
+        ],
+        [
+          "naʕala",
+          "yanʕalu"
+        ],
+        [
+          "naʕila",
+          "yanʕalu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "saʕala",
+          "yasʕulu"
+        ]
+      ]
+    }
+  },
+  "m -> ʕ": {
+    "a": {
+      "count": 9,
+      "forms": [
+        [
+          "jamaʕa",
+          "yajmaʕu"
+        ],
+        [
+          "ḵamaʕa",
+          "yaḵmaʕu"
+        ],
+        [
+          "damaʕa",
+          "yadmaʕu"
+        ],
+        [
+          "samiʕa",
+          "yasmaʕu"
+        ],
+        [
+          "šamaʕa",
+          "yašmaʕu"
+        ],
+        [
+          "šamaʕa",
+          "yašmaʕu"
+        ],
+        [
+          "ṭamiʕa",
+          "yaṭmaʕu"
+        ],
+        [
+          "qamaʕa",
+          "yaqmaʕu"
+        ],
+        [
+          "lamaʕa",
+          "yalmaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṭamuʕa",
+          "yaṭmuʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> m": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "daʕama",
+          "yadʕamu"
+        ],
+        [
+          "ṭaʕima",
+          "yaṭʕamu"
+        ],
+        [
+          "naʕama",
+          "yanʕamu"
+        ],
+        [
+          "naʕima",
+          "yanʕamu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "zaʕama",
+          "yazʕumu"
+        ],
+        [
+          "naʕama",
+          "yanʕumu"
+        ],
+        [
+          "naʕuma",
+          "yanʕumu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> n": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "ḏaʕina",
+          "yaḏʕanu"
+        ],
+        [
+          "raʕina",
+          "yarʕanu"
+        ],
+        [
+          "ṭaʕana",
+          "yaṭʕanu"
+        ],
+        [
+          "ṭaʕana",
+          "yaṭʕanu"
+        ],
+        [
+          "ẓaʕana",
+          "yaẓʕanu"
+        ],
+        [
+          "laʕana",
+          "yalʕanu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "raʕana",
+          "yarʕunu"
+        ],
+        [
+          "raʕuna",
+          "yarʕunu"
+        ],
+        [
+          "ṭaʕana",
+          "yaṭʕunu"
+        ],
+        [
+          "ṭaʕana",
+          "yaṭʕunu"
+        ]
+      ]
+    }
+  },
+  "n -> ʕ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "šanuʕa",
+          "yašnuʕu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "ṣanaʕa",
+          "yaṣnaʕu"
+        ],
+        [
+          "qaniʕa",
+          "yaqnaʕu"
+        ],
+        [
+          "qanaʕa",
+          "yaqnaʕu"
+        ],
+        [
+          "qanaʕa",
+          "yaqnaʕu"
+        ],
+        [
+          "manaʕa",
+          "yamnaʕu"
+        ]
+      ]
+    }
+  },
+  "q -> ʕ": {
+    "a": {
+      "count": 11,
+      "forms": [
+        [
+          "daqiʕa",
+          "yadqaʕu"
+        ],
+        [
+          "raqaʕa",
+          "yarqaʕu"
+        ],
+        [
+          "ṣaqaʕa",
+          "yaṣqaʕu"
+        ],
+        [
+          "ṣaqiʕa",
+          "yaṣqaʕu"
+        ],
+        [
+          "ṣuqiʕa",
+          "yuṣqaʕu"
+        ],
+        [
+          "faqaʕa",
+          "yafqaʕu"
+        ],
+        [
+          "faqaʕa",
+          "yafqaʕu"
+        ],
+        [
+          "faqiʕa",
+          "yafqaʕu"
+        ],
+        [
+          "naqaʕa",
+          "yanqaʕu"
+        ],
+        [
+          "naqaʕa",
+          "yanqaʕu"
+        ],
+        [
+          "naqaʕa",
+          "yanqaʕu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "raquʕa",
+          "yarquʕu"
+        ],
+        [
+          "faqaʕa",
+          "yafquʕu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "faqaʕa",
+          "yafqiʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> q": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "zaʕaqa",
+          "yazʕaqu"
+        ],
+        [
+          "zaʕiqa",
+          "yazʕaqu"
+        ],
+        [
+          "ṣaʕaqa",
+          "yaṣʕaqu"
+        ],
+        [
+          "ṣaʕiqa",
+          "yaṣʕaqu"
+        ],
+        [
+          "laʕiqa",
+          "yalʕaqu"
+        ],
+        [
+          "naʕaqa",
+          "yanʕaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "zaʕuqa",
+          "yazʕuqu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naʕaqa",
+          "yanʕiqu"
+        ]
+      ]
+    }
+  },
+  "f -> ḍ": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵafaḍa",
+          "yaḵfiḍu"
+        ],
+        [
+          "rafaḍa",
+          "yarfiḍu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵafuḍa",
+          "yaḵfuḍu"
+        ],
+        [
+          "rafaḍa",
+          "yarfuḍu"
+        ],
+        [
+          "nafaḍa",
+          "yanfuḍu"
+        ]
+      ]
+    }
+  },
+  "h -> ḍ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nahaḍa",
+          "yanhaḍu"
+        ]
+      ]
+    }
+  },
+  "k -> ḍ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "rakaḍa",
+          "yarkuḍu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> l": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵaḍila",
+          "yaḵḍalu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "faḍala",
+          "yafḍulu"
+        ],
+        [
+          "faḍula",
+          "yafḍulu"
+        ]
+      ]
+    }
+  },
+  "m -> ḍ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥamuḍa",
+          "yaḥmuḍu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> m": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "qaḍima",
+          "yaqḍamu"
+        ],
+        [
+          "qaḍima",
+          "yaqḍamu"
+        ],
+        [
+          "qaḍima",
+          "yaqḍamu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "qaḍama",
+          "yaqḍimu"
+        ],
+        [
+          "haḍama",
+          "yahḍimu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> n": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaḍana",
+          "yaḥḍunu"
+        ]
+      ]
+    }
+  },
+  "q -> ḍ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naqaḍa",
+          "yanquḍu"
+        ]
+      ]
+    }
+  },
+  "ġ -> ḍ": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "baġaḍa",
+          "yabġuḍu"
+        ],
+        [
+          "baġuḍa",
+          "yabġuḍu"
+        ],
+        [
+          "naġaḍa",
+          "yanġuḍu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "baġiḍa",
+          "yabġaḍu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naġaḍa",
+          "yanġiḍu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> ġ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "maḍaġa",
+          "yamḍaġu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "maḍaġa",
+          "yamḍuġu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> ʕ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵaḍaʕa",
+          "yaḵḍaʕu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "raḍaʕa",
+          "yarḍiʕu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> f": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥaḏafa",
+          "yaḥḏifu"
+        ],
+        [
+          "qaḏafa",
+          "yaqḏifu"
+        ]
+      ]
+    }
+  },
+  "f -> ḏ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nafaḏa",
+          "yanfuḏu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> l": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "baḏala",
+          "yabḏulu"
+        ],
+        [
+          "ḵaḏala",
+          "yaḵḏulu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> n": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "ʔaḏina",
+          "yaʔḏanu"
+        ],
+        [
+          "ʔaḏina",
+          "yaʔḏanu"
+        ],
+        [
+          "ʔaḏina",
+          "yaʔḏanu"
+        ],
+        [
+          "ʔaḏina",
+          "yaʔḏanu"
+        ],
+        [
+          "ʔaḏana",
+          "yaʔḏanu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> q": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaḏaqa",
+          "yaʕḏuqu"
+        ]
+      ]
+    }
+  },
+  "ḏ -> r": {
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "baḏara",
+          "yabḏuru"
+        ],
+        [
+          "jaḏara",
+          "yajḏuru"
+        ],
+        [
+          "ʕaḏara",
+          "yaʕḏuru"
+        ],
+        [
+          "qaḏura",
+          "yaqḏuru"
+        ],
+        [
+          "qaḏara",
+          "yaqḏuru"
+        ],
+        [
+          "naḏara",
+          "yanḏuru"
+        ],
+        [
+          "haḏara",
+          "yahḏuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaḏira",
+          "yaḥḏaru"
+        ],
+        [
+          "qaḏira",
+          "yaqḏaru"
+        ],
+        [
+          "naḏira",
+          "yanḏaru"
+        ],
+        [
+          "haḏira",
+          "yahḏaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ʕaḏara",
+          "yaʕḏiru"
+        ],
+        [
+          "naḏara",
+          "yanḏiru"
+        ],
+        [
+          "haḏara",
+          "yahḏiru"
+        ]
+      ]
+    }
+  },
+  "d -> ḥ": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ṣadaḥa",
+          "yaṣdaḥu"
+        ],
+        [
+          "fadaḥa",
+          "yafdaḥu"
+        ],
+        [
+          "qadaḥa",
+          "yaqdaḥu"
+        ],
+        [
+          "madaḥa",
+          "yamdaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> f": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "jaḥafa",
+          "yajḥafu"
+        ],
+        [
+          "zaḥafa",
+          "yazḥafu"
+        ],
+        [
+          "qaḥafa",
+          "yaqḥafu"
+        ],
+        [
+          "naḥifa",
+          "yanḥafu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naḥufa",
+          "yanḥufu"
+        ]
+      ]
+    }
+  },
+  "f -> ḥ": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "safaḥa",
+          "yasfaḥu"
+        ],
+        [
+          "ṣafaḥa",
+          "yaṣfaḥu"
+        ],
+        [
+          "ṭafaḥa",
+          "yaṭfaḥu"
+        ],
+        [
+          "lafaḥa",
+          "yalfaḥu"
+        ],
+        [
+          "nafaḥa",
+          "yanfaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> k": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḍaḥika",
+          "yaḍḥaku"
+        ]
+      ]
+    }
+  },
+  "k -> ḥ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaḥa",
+          "yankiḥu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaḥa",
+          "yankaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> l": {
+    "a": {
+      "count": 15,
+      "forms": [
+        [
+          "jaḥala",
+          "yajḥalu"
+        ],
+        [
+          "raḥala",
+          "yarḥalu"
+        ],
+        [
+          "zaḥala",
+          "yazḥalu"
+        ],
+        [
+          "ṣaḥila",
+          "yaṣḥalu"
+        ],
+        [
+          "faḥala",
+          "yafḥalu"
+        ],
+        [
+          "qaḥala",
+          "yaqḥalu"
+        ],
+        [
+          "qaḥila",
+          "yaqḥalu"
+        ],
+        [
+          "kaḥala",
+          "yakḥalu"
+        ],
+        [
+          "maḥala",
+          "yamḥalu"
+        ],
+        [
+          "maḥila",
+          "yamḥalu"
+        ],
+        [
+          "maḥala",
+          "yamḥalu"
+        ],
+        [
+          "maḥila",
+          "yamḥalu"
+        ],
+        [
+          "naḥala",
+          "yanḥalu"
+        ],
+        [
+          "naḥila",
+          "yanḥalu"
+        ],
+        [
+          "naḥala",
+          "yanḥalu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 5,
+      "forms": [
+        [
+          "kaḥala",
+          "yakḥulu"
+        ],
+        [
+          "maḥula",
+          "yamḥulu"
+        ],
+        [
+          "maḥula",
+          "yamḥulu"
+        ],
+        [
+          "naḥala",
+          "yanḥulu"
+        ],
+        [
+          "naḥula",
+          "yanḥulu"
+        ]
+      ]
+    }
+  },
+  "l -> ḥ": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "salaḥa",
+          "yaslaḥu"
+        ],
+        [
+          "šalaḥa",
+          "yašlaḥu"
+        ],
+        [
+          "ṣalaḥa",
+          "yaṣlaḥu"
+        ],
+        [
+          "falaḥa",
+          "yaflaḥu"
+        ],
+        [
+          "falaḥa",
+          "yaflaḥu"
+        ],
+        [
+          "kalaḥa",
+          "yaklaḥu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ṣalaḥa",
+          "yaṣluḥu"
+        ],
+        [
+          "ṣaluḥa",
+          "yaṣluḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> m": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "jaḥuma",
+          "yajḥumu"
+        ],
+        [
+          "šaḥuma",
+          "yašḥumu"
+        ],
+        [
+          "laḥuma",
+          "yalḥumu"
+        ],
+        [
+          "laḥama",
+          "yalḥumu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 9,
+      "forms": [
+        [
+          "jaḥima",
+          "yajḥamu"
+        ],
+        [
+          "jaḥama",
+          "yajḥamu"
+        ],
+        [
+          "raḥima",
+          "yarḥamu"
+        ],
+        [
+          "zaḥama",
+          "yazḥamu"
+        ],
+        [
+          "saḥima",
+          "yasḥamu"
+        ],
+        [
+          "šaḥima",
+          "yašḥamu"
+        ],
+        [
+          "šaḥama",
+          "yašḥamu"
+        ],
+        [
+          "laḥima",
+          "yalḥamu"
+        ],
+        [
+          "laḥima",
+          "yalḥamu"
+        ]
+      ]
+    }
+  },
+  "m -> ḥ": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ramaḥa",
+          "yarmaḥu"
+        ],
+        [
+          "samaḥa",
+          "yasmaḥu"
+        ],
+        [
+          "kamaḥa",
+          "yakmaḥu"
+        ],
+        [
+          "lamaḥa",
+          "yalmaḥu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "samuḥa",
+          "yasmuḥu"
+        ]
+      ]
+    }
+  },
+  "n -> ḥ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "sanaḥa",
+          "yasnaḥu"
+        ],
+        [
+          "manaḥa",
+          "yamnaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> n": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "šaḥana",
+          "yašḥanu"
+        ],
+        [
+          "ṣaḥana",
+          "yaṣḥanu"
+        ],
+        [
+          "ṭaḥana",
+          "yaṭḥanu"
+        ],
+        [
+          "laḥana",
+          "yalḥanu"
+        ],
+        [
+          "laḥina",
+          "yalḥanu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> q": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "saḥaqa",
+          "yasḥaqu"
+        ],
+        [
+          "saḥiqa",
+          "yasḥaqu"
+        ],
+        [
+          "laḥiqa",
+          "yalḥaqu"
+        ],
+        [
+          "maḥaqa",
+          "yamḥaqu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "saḥuqa",
+          "yasḥuqu"
+        ]
+      ]
+    }
+  },
+  "q -> ḥ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "laqaḥa",
+          "yalqaḥu"
+        ],
+        [
+          "naqaḥa",
+          "yanqaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> r": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "baḥira",
+          "yabḥaru"
+        ],
+        [
+          "baḥara",
+          "yabḥaru"
+        ],
+        [
+          "saḥara",
+          "yasḥaru"
+        ],
+        [
+          "ṣaḥira",
+          "yaṣḥaru"
+        ],
+        [
+          "ṣaḥara",
+          "yaṣḥaru"
+        ],
+        [
+          "naḥara",
+          "yanḥaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "zaḥara",
+          "yazḥiru"
+        ]
+      ]
+    }
+  },
+  "r -> ḥ": {
+    "a": {
+      "count": 10,
+      "forms": [
+        [
+          "bariḥa",
+          "yabraḥu"
+        ],
+        [
+          "jaraḥa",
+          "yajraḥu"
+        ],
+        [
+          "šaraḥa",
+          "yašraḥu"
+        ],
+        [
+          "ṣaraḥa",
+          "yaṣraḥu"
+        ],
+        [
+          "ṭaraḥa",
+          "yaṭraḥu"
+        ],
+        [
+          "fariḥa",
+          "yafraḥu"
+        ],
+        [
+          "qaraḥa",
+          "yaqraḥu"
+        ],
+        [
+          "qariḥa",
+          "yaqraḥu"
+        ],
+        [
+          "mariḥa",
+          "yamraḥu"
+        ],
+        [
+          "mariḥa",
+          "yamraḥu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣaruḥa",
+          "yaṣruḥu"
+        ]
+      ]
+    }
+  },
+  "s -> ḥ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "fasuḥa",
+          "yafsuḥu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "fasaḥa",
+          "yafsaḥu"
+        ],
+        [
+          "kasaḥa",
+          "yaksaḥu"
+        ],
+        [
+          "kasiḥa",
+          "yaksaḥu"
+        ],
+        [
+          "kasaḥa",
+          "yaksaḥu"
+        ],
+        [
+          "masaḥa",
+          "yamsaḥu"
+        ],
+        [
+          "masaḥa",
+          "yamsaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> s": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "laḥisa",
+          "yalḥasu"
+        ],
+        [
+          "naḥasa",
+          "yanḥasu"
+        ]
+      ]
+    }
+  },
+  "z -> ḥ": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "jazaḥa",
+          "yajzaḥu"
+        ],
+        [
+          "qazaḥa",
+          "yaqzaḥu"
+        ],
+        [
+          "qazaḥa",
+          "yaqzaḥu"
+        ],
+        [
+          "mazaḥa",
+          "yamzaḥu"
+        ],
+        [
+          "nazaḥa",
+          "yanzaḥu"
+        ],
+        [
+          "nazaḥa",
+          "yanzaḥu"
+        ]
+      ]
+    }
+  },
+  "š -> ḥ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rašaḥa",
+          "yaršaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> š": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "faḥaša",
+          "yafḥušu"
+        ],
+        [
+          "faḥuša",
+          "yafḥušu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ḍ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "raḥaḍa",
+          "yarḥaḍu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> ḥ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "faḍaḥa",
+          "yafḍaḥu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naḍaḥa",
+          "yanḍiḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ḏ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "šaḥaḏa",
+          "yašḥaḏu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ṣ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "faḥaṣa",
+          "yafḥaṣu"
+        ],
+        [
+          "maḥaṣa",
+          "yamḥaṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> ḥ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "faṣuḥa",
+          "yafṣuḥu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naṣaḥa",
+          "yanṣaḥu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> ḥ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "saṭaḥa",
+          "yasṭaḥu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ṭ": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "šaḥaṭa",
+          "yašḥaṭu"
+        ],
+        [
+          "qaḥaṭa",
+          "yaqḥaṭu"
+        ],
+        [
+          "qaḥiṭa",
+          "yaqḥaṭu"
+        ],
+        [
+          "qaḥaṭa",
+          "yaqḥaṭu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ẓ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "jaḥaẓa",
+          "yajḥaẓu"
+        ],
+        [
+          "laḥaẓa",
+          "yalḥaẓu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> d": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "ṣaḵada",
+          "yaṣḵadu"
+        ],
+        [
+          "ṣaḵada",
+          "yaṣḵadu"
+        ],
+        [
+          "ṣaḵada",
+          "yaṣḵadu"
+        ],
+        [
+          "ṣaḵida",
+          "yaṣḵadu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> f": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ṣaḵafa",
+          "yaṣḵafu"
+        ]
+      ]
+    }
+  },
+  "f -> ḵ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nafaḵa",
+          "yanfuḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> l": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "baḵila",
+          "yabḵalu"
+        ],
+        [
+          "duḵila",
+          "yudḵalu"
+        ],
+        [
+          "saḵala",
+          "yasḵalu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "baḵula",
+          "yabḵulu"
+        ],
+        [
+          "daḵala",
+          "yadḵulu"
+        ],
+        [
+          "naḵala",
+          "yanḵulu"
+        ]
+      ]
+    }
+  },
+  "l -> ḵ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "jalaḵa",
+          "yajlaḵu"
+        ],
+        [
+          "salaḵa",
+          "yaslaḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> m": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "taḵima",
+          "yatḵamu"
+        ],
+        [
+          "raḵama",
+          "yarḵamu"
+        ],
+        [
+          "naḵima",
+          "yanḵamu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "taḵama",
+          "yatḵimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "raḵuma",
+          "yarḵumu"
+        ],
+        [
+          "raḵama",
+          "yarḵumu"
+        ],
+        [
+          "ṣaḵama",
+          "yaṣḵumu"
+        ],
+        [
+          "ḍaḵuma",
+          "yaḍḵumu"
+        ]
+      ]
+    }
+  },
+  "m -> ḵ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḍamaḵa",
+          "yaḍmuḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> n": {
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "daḵana",
+          "yadḵanu"
+        ],
+        [
+          "daḵina",
+          "yadḵanu"
+        ],
+        [
+          "saḵina",
+          "yasḵanu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "daḵana",
+          "yadḵunu"
+        ],
+        [
+          "saḵuna",
+          "yasḵunu"
+        ],
+        [
+          "saḵana",
+          "yasḵunu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "daḵana",
+          "yadḵinu"
+        ]
+      ]
+    }
+  },
+  "n -> ḵ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "zaniḵa",
+          "yaznaḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> r": {
+    "a": {
+      "count": 6,
+      "forms": [
+        [
+          "baḵira",
+          "yabḵaru"
+        ],
+        [
+          "ḏaḵara",
+          "yaḏḵaru"
+        ],
+        [
+          "saḵira",
+          "yasḵaru"
+        ],
+        [
+          "faḵara",
+          "yafḵaru"
+        ],
+        [
+          "faḵira",
+          "yafḵaru"
+        ],
+        [
+          "naḵira",
+          "yanḵaru"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḏaḵara",
+          "yaḏḵuru"
+        ],
+        [
+          "naḵara",
+          "yanḵuru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "šaḵara",
+          "yašḵiru"
+        ],
+        [
+          "naḵara",
+          "yanḵiru"
+        ]
+      ]
+    }
+  },
+  "r -> ḵ": {
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "šaraḵa",
+          "yašruḵu"
+        ],
+        [
+          "šaraḵa",
+          "yašruḵu"
+        ],
+        [
+          "ṣaraḵa",
+          "yaṣruḵu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "maraḵa",
+          "yamraḵu"
+        ]
+      ]
+    }
+  },
+  "s -> ḵ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "rasaḵa",
+          "yarsuḵu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "fasaḵa",
+          "yafsaḵu"
+        ],
+        [
+          "fasiḵa",
+          "yafsaḵu"
+        ],
+        [
+          "masaḵa",
+          "yamsaḵu"
+        ],
+        [
+          "nasaḵa",
+          "yansaḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> s": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naḵasa",
+          "yanḵasu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naḵasa",
+          "yanḵusu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> z": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naḵaza",
+          "yanḵazu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> ʕ": {
+    "a": {
+      "count": 5,
+      "forms": [
+        [
+          "baḵaʕa",
+          "yabḵaʕu"
+        ],
+        [
+          "baḵaʕa",
+          "yabḵaʕu"
+        ],
+        [
+          "baḵiʕa",
+          "yabḵaʕu"
+        ],
+        [
+          "naḵiʕa",
+          "yanḵaʕu"
+        ],
+        [
+          "naḵaʕa",
+          "yanḵaʕu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> ḍ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "maḵaḍa",
+          "yamḵaḍu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "maḵaḍa",
+          "yamḵiḍu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "maḵaḍa",
+          "yamḵuḍu"
+        ]
+      ]
+    }
+  },
+  "ḍ -> ḵ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naḍaḵa",
+          "yanḍaḵu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> ḏ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔaḵaḏa",
+          "yaʔḵuḏu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> ṣ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "baḵaṣa",
+          "yabḵaṣu"
+        ],
+        [
+          "šaḵaṣa",
+          "yašḵaṣu"
+        ]
+      ]
+    }
+  },
+  "ḵ -> ṭ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "saḵiṭa",
+          "yasḵaṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> ḵ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "laṭaḵa",
+          "yalṭaḵu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> f": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaṣafa",
+          "yaḵṣifu"
+        ],
+        [
+          "ʕaṣafa",
+          "yaʕṣifu"
+        ],
+        [
+          "qaṣafa",
+          "yaqṣifu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "raṣafa",
+          "yarṣufu"
+        ],
+        [
+          "qaṣafa",
+          "yaqṣufu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "qaṣifa",
+          "yaqṣafu"
+        ]
+      ]
+    }
+  },
+  "f -> ṣ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕafaṣa",
+          "yaʕfiṣu"
+        ]
+      ]
+    }
+  },
+  "k -> ṣ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaṣa",
+          "yankiṣu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nakaṣa",
+          "yankuṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> l": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "ʔaṣula",
+          "yaʔṣulu"
+        ],
+        [
+          "ḥaṣala",
+          "yaḥṣulu"
+        ],
+        [
+          "faṣala",
+          "yafṣulu"
+        ],
+        [
+          "naṣala",
+          "yanṣulu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "faṣala",
+          "yafṣilu"
+        ],
+        [
+          "faṣala",
+          "yafṣilu"
+        ],
+        [
+          "qaṣala",
+          "yaqṣilu"
+        ],
+        [
+          "qaṣala",
+          "yaqṣilu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naṣala",
+          "yanṣalu"
+        ]
+      ]
+    }
+  },
+  "l -> ṣ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵalaṣa",
+          "yaḵluṣu"
+        ],
+        [
+          "ḵalaṣa",
+          "yaḵluṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> m": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "baṣama",
+          "yabṣumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵaṣama",
+          "yaḵṣimu"
+        ],
+        [
+          "ʕaṣama",
+          "yaʕṣimu"
+        ],
+        [
+          "faṣama",
+          "yafṣimu"
+        ]
+      ]
+    }
+  },
+  "m -> ṣ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ramaṣa",
+          "yarmuṣu"
+        ],
+        [
+          "namaṣa",
+          "yanmuṣu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ramiṣa",
+          "yarmaṣu"
+        ],
+        [
+          "numiṣa",
+          "yunmaṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> n": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥaṣuna",
+          "yaḥṣunu"
+        ],
+        [
+          "ḥaṣuna",
+          "yaḥṣunu"
+        ]
+      ]
+    }
+  },
+  "n -> ṣ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "qanaṣa",
+          "yaqniṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> q": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "baṣaqa",
+          "yabṣuqu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "laṣiqa",
+          "yalṣaqu"
+        ]
+      ]
+    }
+  },
+  "q -> ṣ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "raqaṣa",
+          "yarquṣu"
+        ],
+        [
+          "naqaṣa",
+          "yanquṣu"
+        ]
+      ]
+    }
+  },
+  "w -> ṣ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵawiṣa",
+          "yaḵwaṣu"
+        ]
+      ]
+    }
+  },
+  "ġ -> ṣ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "muġiṣa",
+          "yumġaṣu"
+        ],
+        [
+          "naġiṣa",
+          "yanġaṣu"
+        ]
+      ]
+    }
+  },
+  "ṣ -> ʕ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naṣaʕa",
+          "yanṣaʕu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> f": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḵaṭifa",
+          "yaḵṭafu"
+        ],
+        [
+          "naṭifa",
+          "yanṭafu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḵaṭafa",
+          "yaḵṭifu"
+        ],
+        [
+          "ʕaṭafa",
+          "yaʕṭifu"
+        ],
+        [
+          "qaṭafa",
+          "yaqṭifu"
+        ],
+        [
+          "naṭafa",
+          "yanṭifu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "šaṭafa",
+          "yašṭufu"
+        ],
+        [
+          "laṭafa",
+          "yalṭufu"
+        ]
+      ]
+    }
+  },
+  "f -> ṭ": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "safuṭa",
+          "yasfuṭu"
+        ],
+        [
+          "safaṭa",
+          "yasfuṭu"
+        ],
+        [
+          "šafaṭa",
+          "yašfuṭu"
+        ],
+        [
+          "qafaṭa",
+          "yaqfuṭu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "qafaṭa",
+          "yaqfiṭu"
+        ]
+      ]
+    }
+  },
+  "h -> ṭ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "rahaṭa",
+          "yarhaṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> l": {
+    "u": {
+      "count": 4,
+      "forms": [
+        [
+          "baṭula",
+          "yabṭulu"
+        ],
+        [
+          "baṭala",
+          "yabṭulu"
+        ],
+        [
+          "saṭala",
+          "yasṭulu"
+        ],
+        [
+          "naṭala",
+          "yanṭulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaṭila",
+          "yaʕṭalu"
+        ],
+        [
+          "ʕaṭila",
+          "yaʕṭalu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "haṭala",
+          "yahṭilu"
+        ]
+      ]
+    }
+  },
+  "l -> ṭ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵalaṭa",
+          "yaḵliṭu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "zalaṭa",
+          "yazluṭu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ġaliṭa",
+          "yaġlaṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> m": {
+    "i": {
+      "count": 4,
+      "forms": [
+        [
+          "ḥaṭama",
+          "yaḥṭimu"
+        ],
+        [
+          "ḵaṭama",
+          "yaḵṭimu"
+        ],
+        [
+          "faṭama",
+          "yafṭimu"
+        ],
+        [
+          "laṭama",
+          "yalṭimu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "saṭama",
+          "yasṭumu"
+        ]
+      ]
+    }
+  },
+  "m -> ṭ": {
+    "i": {
+      "count": 3,
+      "forms": [
+        [
+          "ḵamaṭa",
+          "yaḵmiṭu"
+        ],
+        [
+          "ḵamaṭa",
+          "yaḵmiṭu"
+        ],
+        [
+          "qamaṭa",
+          "yaqmiṭu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "samaṭa",
+          "yasmuṭu"
+        ],
+        [
+          "qamaṭa",
+          "yaqmuṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> n": {
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "baṭana",
+          "yabṭunu"
+        ],
+        [
+          "baṭuna",
+          "yabṭunu"
+        ],
+        [
+          "baṭana",
+          "yabṭunu"
+        ],
+        [
+          "ʕaṭana",
+          "yaʕṭunu"
+        ],
+        [
+          "ʕaṭana",
+          "yaʕṭunu"
+        ],
+        [
+          "faṭana",
+          "yafṭunu"
+        ],
+        [
+          "qaṭana",
+          "yaqṭunu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 3,
+      "forms": [
+        [
+          "baṭina",
+          "yabṭanu"
+        ],
+        [
+          "ʕaṭina",
+          "yaʕṭanu"
+        ],
+        [
+          "faṭina",
+          "yafṭanu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaṭana",
+          "yaʕṭinu"
+        ],
+        [
+          "ʕaṭana",
+          "yaʕṭinu"
+        ]
+      ]
+    }
+  },
+  "q -> ṭ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔaqaṭa",
+          "yaʔqiṭu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "saqaṭa",
+          "yasquṭu"
+        ],
+        [
+          "naqaṭa",
+          "yanquṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> q": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naṭaqa",
+          "yanṭiqu"
+        ]
+      ]
+    }
+  },
+  "ġ -> ṭ": {
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "ḍaġaṭa",
+          "yaḍġaṭu"
+        ],
+        [
+          "laġaṭa",
+          "yalġaṭu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> ṭ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "zaʕaṭa",
+          "yazʕaṭu"
+        ]
+      ]
+    }
+  },
+  "ṭ -> ʕ": {
+    "a": {
+      "count": 4,
+      "forms": [
+        [
+          "saṭaʕa",
+          "yasṭaʕu"
+        ],
+        [
+          "qaṭaʕa",
+          "yaqṭaʕu"
+        ],
+        [
+          "nuṭiʕa",
+          "yunṭaʕu"
+        ],
+        [
+          "haṭaʕa",
+          "yahṭaʕu"
+        ]
+      ]
+    }
+  },
+  "d -> ṯ": {
+    "u": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥadaṯa",
+          "yaḥduṯu"
+        ],
+        [
+          "ḥaduṯa",
+          "yaḥduṯu"
+        ]
+      ]
+    }
+  },
+  "f -> ṯ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "nafaṯa",
+          "yanfuṯu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "nafaṯa",
+          "yanfiṯu"
+        ]
+      ]
+    }
+  },
+  "h -> ṯ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lahiṯa",
+          "yalhaṯu"
+        ]
+      ]
+    }
+  },
+  "k -> ṯ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "makaṯa",
+          "yamkuṯu"
+        ]
+      ]
+    }
+  },
+  "ṯ -> l": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "maṯala",
+          "yamṯulu"
+        ]
+      ]
+    }
+  },
+  "ṯ -> m": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ʔaṯima",
+          "yaʔṯamu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "jaṯama",
+          "yajṯumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "jaṯama",
+          "yajṯimu"
+        ],
+        [
+          "laṯama",
+          "yalṯimu"
+        ]
+      ]
+    }
+  },
+  "m -> ṯ": {
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "ramaṯa",
+          "yarmiṯu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ramiṯa",
+          "yarmaṯu"
+        ]
+      ]
+    }
+  },
+  "ṯ -> n": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "maṯina",
+          "yamṯanu"
+        ]
+      ]
+    }
+  },
+  "r -> ṯ": {
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ḥaraṯa",
+          "yaḥriṯu"
+        ],
+        [
+          "faraṯa",
+          "yafriṯu"
+        ]
+      ]
+    },
+    "u": {
+      "count": 3,
+      "forms": [
+        [
+          "ḥaraṯa",
+          "yaḥruṯu"
+        ],
+        [
+          "faraṯa",
+          "yafruṯu"
+        ],
+        [
+          "qaraṯa",
+          "yaqruṯu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 2,
+      "forms": [
+        [
+          "fariṯa",
+          "yafraṯu"
+        ],
+        [
+          "qariṯa",
+          "yaqraṯu"
+        ]
+      ]
+    }
+  },
+  "ṯ -> r": {
+    "u": {
+      "count": 7,
+      "forms": [
+        [
+          "ḵaṯara",
+          "yaḵṯuru"
+        ],
+        [
+          "ḵaṯura",
+          "yaḵṯuru"
+        ],
+        [
+          "ʕaṯara",
+          "yaʕṯuru"
+        ],
+        [
+          "ʕaṯara",
+          "yaʕṯuru"
+        ],
+        [
+          "kaṯura",
+          "yakṯuru"
+        ],
+        [
+          "kaṯara",
+          "yakṯuru"
+        ],
+        [
+          "naṯara",
+          "yanṯuru"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḵaṯira",
+          "yaḵṯaru"
+        ]
+      ]
+    },
+    "i": {
+      "count": 2,
+      "forms": [
+        [
+          "ʕaṯara",
+          "yaʕṯiru"
+        ],
+        [
+          "naṯara",
+          "yanṯiru"
+        ]
+      ]
+    }
+  },
+  "w -> ṯ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "lawiṯa",
+          "yalwaṯu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> ṯ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "baʕaṯa",
+          "yabʕaṯu"
+        ]
+      ]
+    }
+  },
+  "ḥ -> ṯ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "baḥaṯa",
+          "yabḥaṯu"
+        ]
+      ]
+    }
+  },
+  "f -> ẓ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥafiẓa",
+          "yaḥfaẓu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "lafaẓa",
+          "yalfiẓu"
+        ]
+      ]
+    }
+  },
+  "ẓ -> f": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "naẓufa",
+          "yanẓufu"
+        ]
+      ]
+    }
+  },
+  "h -> ẓ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "bahaẓa",
+          "yabhaẓu"
+        ]
+      ]
+    }
+  },
+  "ẓ -> l": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaẓala",
+          "yaḥẓulu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "ḥaẓila",
+          "yaḥẓalu"
+        ]
+      ]
+    }
+  },
+  "ẓ -> m": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "ʕaẓuma",
+          "yaʕẓumu"
+        ]
+      ]
+    },
+    "i": {
+      "count": 1,
+      "forms": [
+        [
+          "naẓama",
+          "yanẓimu"
+        ]
+      ]
+    }
+  },
+  "ẓ -> ʕ": {
+    "u": {
+      "count": 1,
+      "forms": [
+        [
+          "faẓuʕa",
+          "yafẓuʕu"
+        ]
+      ]
+    },
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "faẓiʕa",
+          "yafẓaʕu"
+        ]
+      ]
+    }
+  },
+  "ʕ -> ẓ": {
+    "a": {
+      "count": 1,
+      "forms": [
+        [
+          "naʕaẓa",
+          "yanʕaẓu"
+        ]
+      ]
+    }
+  }
+}

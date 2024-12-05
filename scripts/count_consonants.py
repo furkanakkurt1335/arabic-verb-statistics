@@ -23,19 +23,21 @@ def main():
                     present_str = get_transliteration(present_original, add_vowels=True, add_consonants=True, join_char='')
                     if len(past_str) != 6 or len(present_str) != 7: # fa'ala, yaf'alu
                         continue
-                    past_middle_consonant = past_str[2]
-                    if past_middle_consonant not in consonant_d:
-                        consonant_d[past_middle_consonant] = {}
+                    past_middle_consonant, past_last_consonant = past_str[2], past_str[4]
+                    key_str = f'{past_middle_consonant} -> {past_last_consonant}'
+                    if key_str not in consonant_d:
+                        consonant_d[key_str] = {}
                     present_middle_vowel = present_str[4]
-                    if present_middle_vowel not in consonant_d[past_middle_consonant]:
-                        consonant_d[past_middle_consonant][present_middle_vowel] = 0
-                    consonant_d[past_middle_consonant][present_middle_vowel] += 1
+                    if present_middle_vowel not in consonant_d[key_str]:
+                        consonant_d[key_str][present_middle_vowel] = {'count': 0, 'forms': []}
+                    consonant_d[key_str][present_middle_vowel]['count'] += 1
+                    consonant_d[key_str][present_middle_vowel]['forms'].append((past_str, present_str))
 
     script_dir = Path(__file__).parent
     root_dir = script_dir.parent
     data_dir = root_dir / 'data'
-    output_path = data_dir / 'middle_consonant_counts.json'
-    consonant_d = {k: v for k, v in sorted(consonant_d.items(), key=lambda item: sort_transliteration_characters(item[0]))}
+    output_path = data_dir / 'consonant_counts.json'
+    consonant_d = {k: v for k, v in sorted(consonant_d.items(), key=lambda item: sort_transliteration_characters(item[0].split(' -> ')))}
     with output_path.open('w', encoding='utf-8') as f:
         json.dump(consonant_d, f, ensure_ascii=False, indent=2)
 
